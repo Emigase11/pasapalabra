@@ -3,12 +3,20 @@
 import { useCallback, useEffect, useState } from "react";
 import { normalizar } from "@/lib/normalizar";
 import { sonidos } from "@/lib/sonidos";
-import type { Entrada, EstadoLetra, FaseJuego, MotivoFin } from "@/lib/tipos";
+import type {
+  Entrada,
+  EstadoLetra,
+  FaseJuego,
+  MotivoFin,
+  UltimoError,
+} from "@/lib/tipos";
 
 interface OpcionesJuego {
   entradas: Entrada[];
   tiempoTotal: number;
 }
+
+const FASES_PAUSA: FaseJuego[] = ["pausado_pasapalabra", "pausado_error"];
 
 /** Busca la próxima letra jugable (pendiente o pasapalabra) en orden circular. */
 function siguienteJugable(estados: EstadoLetra[], desde: number): number | null {
@@ -28,15 +36,17 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
   const [tiempoRestante, setTiempoRestante] = useState(tiempoTotal);
   const [fase, setFase] = useState<FaseJuego>("jugando");
   const [motivoFin, setMotivoFin] = useState<MotivoFin | null>(null);
+  const [ultimoError, setUltimoError] = useState<UltimoError | null>(null);
 
   const terminar = useCallback((motivo: MotivoFin) => {
     setFase("terminado");
     setMotivoFin(motivo);
+    setUltimoError(null);
     sonidos.fin();
   }, []);
 
   // El intervalo solo corre mientras fase === "jugando".
-  // Al pausar, el cleanup del useEffect lo mata; al reanudar, se recrea.
+  // Cualquier pausa mata el interval via cleanup; al reanudar, se recrea.
   useEffect(() => {
     if (fase !== "jugando") return;
     const id = setInterval(() => setTiempoRestante((t) => t - 1), 1000);
@@ -48,33 +58,50 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
     if (fase === "jugando" && tiempoRestante <= 0) terminar("tiempo");
   }, [fase, tiempoRestante, terminar]);
 
-  /** Marca la letra actual y avanza directamente (sin pausa). */
   const responder = useCallback(
     (respuesta: string): boolean => {
       if (fase !== "jugando") return false;
 
-      const correcta =
-        normalizar(respuesta) === normalizar(entradas[indiceActual].palabra);
+      const entrada = entradas[indiceActual];
+      const correcta = normalizar(respuesta) === normalizar(entrada.palabra);
       const nuevos: EstadoLetra[] = [...estados];
       nuevos[indiceActual] = correcta ? "correcta" : "incorrecta";
       setEstados(nuevos);
 
-      if (correcta) sonidos.acierto();
-      else sonidos.error();
+      if (correcta) {
+        sonidos.acierto();
+        const siguiente = siguienteJugable(nuevos, indiceActual);
+        if (siguiente === null) terminar("completado");
+        else setIndiceActual(siguiente);
+        return true;
+      }
 
+      // Respuesta incorrecta: pausa para mostrar la corrección.
+      sonidos.error();
       const siguiente = siguienteJugable(nuevos, indiceActual);
-      if (siguiente === null) terminar("completado");
-      else setIndiceActual(siguiente);
+      if (siguiente === null) {
+        // Era la última letra jugable; terminar sin mostrar pausa.
+        terminar("completado");
+        return false;
+      }
 
-      return correcta;
+      setUltimoError({
+        respuestaJugador: respuesta.trim(),
+        respuestaCorrecta: entrada.palabra,
+        definicion: entrada.definicion,
+        letra: entrada.letra,
+      });
+      setIndiceActual(siguiente);
+      setFase("pausado_error");
+      return false;
     },
     [fase, entradas, indiceActual, estados, terminar],
   );
 
   /**
    * Marca la letra actual como pasapalabra, pausa el cronómetro y
-   * apunta ya al siguiente índice. El cronómetro solo se reanuda
-   * cuando el jugador pulsa Continuar.
+   * apunta al siguiente índice. El jugador debe presionar Continuar
+   * para reanudar (y así no leer la siguiente definición con tiempo detenido).
    */
   const pasapalabra = useCallback(() => {
     if (fase !== "jugando") return;
@@ -94,9 +121,10 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
     setFase("pausado_pasapalabra");
   }, [fase, estados, indiceActual, terminar]);
 
-  /** Reanuda el cronómetro y muestra la siguiente palabra. */
+  /** Reanuda el cronómetro desde cualquier estado de pausa. */
   const continuar = useCallback(() => {
-    if (fase !== "pausado_pasapalabra") return;
+    if (!FASES_PAUSA.includes(fase)) return;
+    setUltimoError(null);
     setFase("jugando");
   }, [fase]);
 
@@ -111,6 +139,7 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
     setTiempoRestante(tiempoTotal);
     setFase("jugando");
     setMotivoFin(null);
+    setUltimoError(null);
   }, [entradas, tiempoTotal]);
 
   const aciertos = estados.filter((e) => e === "correcta").length;
@@ -124,6 +153,7 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
     tiempoUsado: tiempoTotal - Math.max(tiempoRestante, 0),
     fase,
     motivoFin,
+    ultimoError,
     aciertos,
     errores,
     responder,

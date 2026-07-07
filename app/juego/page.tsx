@@ -7,7 +7,7 @@ import Rosco from "@/components/Rosco";
 import PanelJuego from "@/components/PanelJuego";
 import { useJuego } from "@/hooks/useJuego";
 import { obtenerDiccionario } from "@/lib/diccionarios";
-import type { Diccionario, MotivoFin } from "@/lib/tipos";
+import type { Diccionario, MotivoPausa, MotivoFin } from "@/lib/tipos";
 
 const TIEMPO_POR_DEFECTO = 150;
 
@@ -37,7 +37,12 @@ function Partida({ diccionario, tiempoTotal }: { diccionario: Diccionario; tiemp
           tiempoRestante={juego.tiempoRestante}
           aciertos={juego.aciertos}
           errores={juego.errores}
-          pausado={juego.fase === "pausado_pasapalabra"}
+          fasePausa={
+            juego.fase === "pausado_pasapalabra" ? "pasapalabra" :
+            juego.fase === "pausado_error" ? "error" :
+            null as MotivoPausa | null
+          }
+          ultimoError={juego.ultimoError}
           onResponder={juego.responder}
           onPasapalabra={juego.pasapalabra}
           onContinuar={juego.continuar}

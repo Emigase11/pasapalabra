@@ -1,19 +1,23 @@
 "use client";
 
 import { FormEvent, KeyboardEvent, useEffect, useRef, useState } from "react";
-import type { Entrada } from "@/lib/tipos";
+import type { Entrada, MotivoPausa, UltimoError } from "@/lib/tipos";
 
 interface PanelJuegoProps {
   entrada: Entrada;
   tiempoRestante: number;
   aciertos: number;
   errores: number;
-  pausado: boolean;
+  /** null = jugando; "pasapalabra" | "error" = en pausa */
+  fasePausa: MotivoPausa | null;
+  ultimoError: UltimoError | null;
   onResponder: (respuesta: string) => void;
   onPasapalabra: () => void;
   onContinuar: () => void;
   onPlantarse: () => void;
 }
+
+// ── Helpers ────────────────────────────────────────────────────────────────────
 
 function formatearTiempo(segundos: number): string {
   const s = Math.max(segundos, 0);
@@ -26,12 +30,115 @@ function pista(entrada: Entrada): string {
     : `Contiene la ${entrada.letra}`;
 }
 
+// ── Sub-componente de pausa (reutilizado para ambos motivos) ──────────────────
+
+interface PanelPausaProps {
+  motivo: MotivoPausa;
+  tiempoRestante: number;
+  aciertos: number;
+  errores: number;
+  ultimoError: UltimoError | null;
+  continuarRef: React.RefObject<HTMLButtonElement>;
+  onContinuar: () => void;
+}
+
+function PanelPausa({
+  motivo,
+  tiempoRestante,
+  aciertos,
+  errores,
+  ultimoError,
+  continuarRef,
+  onContinuar,
+}: PanelPausaProps) {
+  return (
+    <div className="flex w-full max-w-md flex-col gap-4">
+      {/* Cronómetro congelado */}
+      <div className="flex items-center justify-between rounded-2xl bg-slate-800/80 px-6 py-4">
+        <div className="flex items-center gap-3">
+          <div className="font-mono text-5xl font-bold tabular-nums text-slate-400">
+            {formatearTiempo(tiempoRestante)}
+          </div>
+          <span className="rounded-lg bg-slate-700 px-2 py-1 text-xs font-black uppercase tracking-widest text-slate-300">
+            ⏸ PAUSADO
+          </span>
+        </div>
+        <div className="flex gap-4 text-center">
+          <div>
+            <div className="text-3xl font-bold text-green-400">{aciertos}</div>
+            <div className="text-xs uppercase tracking-wide text-slate-400">Aciertos</div>
+          </div>
+          <div>
+            <div className="text-3xl font-bold text-red-400">{errores}</div>
+            <div className="text-xs uppercase tracking-wide text-slate-400">Errores</div>
+          </div>
+        </div>
+      </div>
+
+      {/* Contenido según motivo */}
+      {motivo === "error" && ultimoError ? (
+        <div className="flex flex-col gap-4 rounded-2xl bg-slate-800/80 px-6 py-6">
+          <div className="flex items-center gap-2">
+            <span className="text-2xl">✗</span>
+            <span className="text-sm font-bold uppercase tracking-widest text-red-400">
+              Incorrecto — letra {ultimoError.letra}
+            </span>
+          </div>
+
+          {/* Respuesta del jugador */}
+          <div>
+            <p className="mb-1 text-xs uppercase tracking-wide text-slate-500">
+              Tu respuesta
+            </p>
+            <p className="text-xl font-semibold text-red-400 line-through opacity-70">
+              {ultimoError.respuestaJugador}
+            </p>
+          </div>
+
+          {/* Respuesta correcta */}
+          <div>
+            <p className="mb-1 text-xs uppercase tracking-wide text-slate-500">
+              La respuesta era
+            </p>
+            <p className="text-3xl font-black uppercase tracking-wide text-green-400">
+              {ultimoError.respuestaCorrecta}
+            </p>
+          </div>
+
+          {/* Definición para reforzar */}
+          <p className="border-t border-slate-700 pt-4 text-sm leading-relaxed text-slate-400">
+            {ultimoError.definicion}
+          </p>
+        </div>
+      ) : (
+        <div className="flex flex-col items-center gap-3 rounded-2xl bg-slate-800/80 px-6 py-8 text-center">
+          <p className="text-base text-slate-400">Preparate para la siguiente letra</p>
+        </div>
+      )}
+
+      {/* Botón Continuar */}
+      <button
+        ref={continuarRef}
+        onClick={onContinuar}
+        className="w-full rounded-xl bg-blue-600 py-4 text-xl font-black text-white shadow-lg shadow-blue-900/40 transition-colors hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-offset-2 focus:ring-offset-slate-900"
+      >
+        Continuar →
+      </button>
+
+      <p className="text-center text-xs text-slate-500">Enter o Espacio = continuar</p>
+    </div>
+  );
+}
+
+// ── Componente principal ───────────────────────────────────────────────────────
+
 export default function PanelJuego({
   entrada,
   tiempoRestante,
   aciertos,
   errores,
-  pausado,
+  fasePausa,
+  ultimoError,
   onResponder,
   onPasapalabra,
   onContinuar,
@@ -41,14 +148,14 @@ export default function PanelJuego({
   const inputRef = useRef<HTMLInputElement>(null);
   const continuarRef = useRef<HTMLButtonElement>(null);
 
-  // Foco automático: al input cuando se juega, al botón Continuar cuando se pausa.
+  // Foco automático al transicionar entre estados.
   useEffect(() => {
-    if (pausado) {
+    if (fasePausa) {
       continuarRef.current?.focus();
     } else {
       inputRef.current?.focus();
     }
-  }, [pausado, entrada]);
+  }, [fasePausa, entrada]);
 
   const enviar = (e: FormEvent) => {
     e.preventDefault();
@@ -62,7 +169,6 @@ export default function PanelJuego({
     onPasapalabra();
   };
 
-  // Atajos durante la partida activa.
   const atajoInput = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "ArrowRight" || (e.key === " " && respuesta.trim() === "")) {
       e.preventDefault();
@@ -70,62 +176,26 @@ export default function PanelJuego({
     }
   };
 
-  const pocoTiempo = !pausado && tiempoRestante <= 10;
-
-  const marcador = (
-    <div className="flex gap-4 text-center">
-      <div>
-        <div className="text-3xl font-bold text-green-400">{aciertos}</div>
-        <div className="text-xs uppercase tracking-wide text-slate-400">Aciertos</div>
-      </div>
-      <div>
-        <div className="text-3xl font-bold text-red-400">{errores}</div>
-        <div className="text-xs uppercase tracking-wide text-slate-400">Errores</div>
-      </div>
-    </div>
-  );
-
-  // ── Estado pausado ──────────────────────────────────────────────────────────
-  if (pausado) {
+  // ── Pausa (pasapalabra o error) ─────────────────────────────────────────────
+  if (fasePausa) {
     return (
-      <div className="flex w-full max-w-md flex-col gap-4 transition-all">
-        {/* Cronómetro congelado */}
-        <div className="flex items-center justify-between rounded-2xl bg-slate-800/80 px-6 py-4">
-          <div className="flex items-center gap-3">
-            <div className="font-mono text-5xl font-bold tabular-nums text-slate-400">
-              {formatearTiempo(tiempoRestante)}
-            </div>
-            <span className="rounded-lg bg-slate-700 px-2 py-1 text-xs font-black uppercase tracking-widest text-slate-300">
-              ⏸ PAUSADO
-            </span>
-          </div>
-          {marcador}
-        </div>
-
-        {/* Pantalla de pausa */}
-        <div className="flex flex-col items-center gap-6 rounded-2xl bg-slate-800/80 px-6 py-8 text-center">
-          <p className="text-base text-slate-400">
-            Preparate para la siguiente letra
-          </p>
-          <button
-            ref={continuarRef}
-            onClick={onContinuar}
-            className="w-full rounded-xl bg-blue-600 py-4 text-xl font-black text-white shadow-lg shadow-blue-900/40 transition-colors hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-offset-2 focus:ring-offset-slate-800"
-          >
-            Continuar →
-          </button>
-        </div>
-
-        <p className="text-center text-xs text-slate-500">
-          Enter o Espacio = continuar
-        </p>
-      </div>
+      <PanelPausa
+        motivo={fasePausa}
+        tiempoRestante={tiempoRestante}
+        aciertos={aciertos}
+        errores={errores}
+        ultimoError={ultimoError}
+        continuarRef={continuarRef}
+        onContinuar={onContinuar}
+      />
     );
   }
 
-  // ── Estado jugando ──────────────────────────────────────────────────────────
+  // ── Jugando ─────────────────────────────────────────────────────────────────
+  const pocoTiempo = tiempoRestante <= 10;
+
   return (
-    <div className="flex w-full max-w-md flex-col gap-4 transition-all">
+    <div className="flex w-full max-w-md flex-col gap-4">
       {/* Cronómetro y marcador */}
       <div className="flex items-center justify-between rounded-2xl bg-slate-800/80 px-6 py-4">
         <div
@@ -135,7 +205,16 @@ export default function PanelJuego({
         >
           {formatearTiempo(tiempoRestante)}
         </div>
-        {marcador}
+        <div className="flex gap-4 text-center">
+          <div>
+            <div className="text-3xl font-bold text-green-400">{aciertos}</div>
+            <div className="text-xs uppercase tracking-wide text-slate-400">Aciertos</div>
+          </div>
+          <div>
+            <div className="text-3xl font-bold text-red-400">{errores}</div>
+            <div className="text-xs uppercase tracking-wide text-slate-400">Errores</div>
+          </div>
+        </div>
       </div>
 
       {/* Pista y definición */}
