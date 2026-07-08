@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
-import { normalizar } from "@/lib/normalizar";
+import { esRespuestaCorrecta } from "@/lib/normalizar";
 import { sonidos } from "@/lib/sonidos";
 import type {
   Entrada,
@@ -63,7 +63,7 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
       if (fase !== "jugando") return false;
 
       const entrada = entradas[indiceActual];
-      const correcta = normalizar(respuesta) === normalizar(entrada.palabra);
+      const correcta = esRespuestaCorrecta(respuesta, entrada.palabra);
       const nuevos: EstadoLetra[] = [...estados];
       nuevos[indiceActual] = correcta ? "correcta" : "incorrecta";
       setEstados(nuevos);
