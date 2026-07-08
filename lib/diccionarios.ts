@@ -2,6 +2,28 @@ import type { Diccionario, Entrada } from "@/lib/tipos";
 import generalFacil from "@/data/rosco-general-facil.json";
 import generalMedia from "@/data/rosco-general-media.json";
 
+const ORDEN_LETRAS = [
+  "A","B","C","D","E","F","G","H","I","J","K","L","M",
+  "N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z",
+];
+
+/**
+ * Recibe el pool completo de entradas (con múltiples candidatos por letra)
+ * y devuelve 27 entradas — una aleatoria por letra — en orden canónico.
+ */
+export function sortearEntradas(pool: Entrada[]): Entrada[] {
+  const porLetra = new Map<string, Entrada[]>();
+  for (const e of pool) {
+    if (!porLetra.has(e.letra)) porLetra.set(e.letra, []);
+    porLetra.get(e.letra)!.push(e);
+  }
+  return ORDEN_LETRAS.map((letra) => {
+    const candidatos = porLetra.get(letra) ?? [];
+    if (candidatos.length === 0) throw new Error(`Falta la letra ${letra}`);
+    return candidatos[Math.floor(Math.random() * candidatos.length)];
+  });
+}
+
 /**
  * Registro de diccionarios disponibles.
  * Para agregar uno nuevo:

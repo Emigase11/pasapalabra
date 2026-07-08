@@ -19,7 +19,7 @@ const TITULOS_FIN: Record<MotivoFin, string> = {
 
 function Partida({ diccionario, tiempoTotal }: { diccionario: Diccionario; tiempoTotal: number }) {
   const juego = useJuego({ entradas: diccionario.entradas, tiempoTotal });
-  const letras = diccionario.entradas.map((e) => e.letra);
+  const letras = juego.entradas.map((e) => e.letra);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-6 p-4 lg:flex-row lg:gap-12">

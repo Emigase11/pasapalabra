@@ -82,7 +82,7 @@ export default function Menu() {
     if (!puedeEmpezar) return;
     if (modoTiempo === "personalizado")
       localStorage.setItem(LS_KEY, String(tiempoFinal));
-    router.push(`/juego?tiempo=${tiempoFinal}&dic=${diccionario}`);
+    router.push(`/juego?tiempo=${tiempoFinal}&dic=${diccionario}&s=${Date.now()}`);
   };
 
   const chip = (activo: boolean) =>

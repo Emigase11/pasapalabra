@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { esRespuestaCorrecta } from "@/lib/normalizar";
+import { sortearEntradas } from "@/lib/diccionarios";
 import { sonidos } from "@/lib/sonidos";
 import type {
   Entrada,
@@ -28,9 +29,11 @@ function siguienteJugable(estados: EstadoLetra[], desde: number): number | null 
   return null;
 }
 
-export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
+export function useJuego({ entradas: pool, tiempoTotal }: OpcionesJuego) {
+  // Selección aleatoria de una entrada por letra (se re-sortea en cada reiniciar).
+  const [entradas, setEntradas] = useState<Entrada[]>(() => sortearEntradas(pool));
   const [estados, setEstados] = useState<EstadoLetra[]>(() =>
-    entradas.map(() => "pendiente"),
+    Array<EstadoLetra>(entradas.length).fill("pendiente"),
   );
   const [indiceActual, setIndiceActual] = useState(0);
   const [tiempoRestante, setTiempoRestante] = useState(tiempoTotal);
@@ -134,18 +137,21 @@ export function useJuego({ entradas, tiempoTotal }: OpcionesJuego) {
   }, [fase, terminar]);
 
   const reiniciar = useCallback(() => {
-    setEstados(entradas.map(() => "pendiente"));
+    const nuevas = sortearEntradas(pool);
+    setEntradas(nuevas);
+    setEstados(Array<EstadoLetra>(nuevas.length).fill("pendiente"));
     setIndiceActual(0);
     setTiempoRestante(tiempoTotal);
     setFase("jugando");
     setMotivoFin(null);
     setUltimoError(null);
-  }, [entradas, tiempoTotal]);
+  }, [pool, tiempoTotal]);
 
   const aciertos = estados.filter((e) => e === "correcta").length;
   const errores = estados.filter((e) => e === "incorrecta").length;
 
   return {
+    entradas,
     estados,
     indiceActual,
     entradaActual: entradas[indiceActual],
