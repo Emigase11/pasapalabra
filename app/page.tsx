@@ -2,7 +2,11 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
-import { DICCIONARIOS, DICCIONARIO_POR_DEFECTO } from "@/lib/diccionarios";
+import {
+  CATEGORIAS,
+  DICCIONARIO_POR_DEFECTO,
+  diccionariosPorCategoria,
+} from "@/lib/diccionarios";
 
 const TIEMPOS_PRESET = [60, 150, 300] as const;
 const TIEMPO_POR_DEFECTO = 150;
@@ -25,12 +29,17 @@ function validar(total: number): string | null {
 
 export default function Menu() {
   const router = useRouter();
+
+  // ── Tiempo ─────────────────────────────────────────────────────────────────
   const [modoTiempo, setModoTiempo] = useState<"preset" | "personalizado">("preset");
   const [tiempoPreset, setTiempoPreset] = useState(TIEMPO_POR_DEFECTO);
   const [minutos, setMinutos] = useState(2);
   const [segs, setSegs] = useState(30);
-  const [diccionario, setDiccionario] = useState(DICCIONARIO_POR_DEFECTO.id);
   const minutosRef = useRef<HTMLInputElement>(null);
+
+  // ── Categoría + dificultad ─────────────────────────────────────────────────
+  const [categoria, setCategoria] = useState(CATEGORIAS[0]);
+  const [diccionario, setDiccionario] = useState(DICCIONARIO_POR_DEFECTO.id);
 
   // Recuperar último tiempo personalizado de localStorage.
   useEffect(() => {
@@ -46,6 +55,13 @@ export default function Menu() {
     if (modoTiempo === "personalizado") minutosRef.current?.focus();
   }, [modoTiempo]);
 
+  const seleccionarCategoria = (cat: string) => {
+    setCategoria(cat);
+    // Auto-selecciona la primera dificultad de la nueva categoría.
+    const primero = diccionariosPorCategoria(cat)[0];
+    if (primero) setDiccionario(primero.id);
+  };
+
   const total = minutos * 60 + segs;
   const error = modoTiempo === "personalizado" ? validar(total) : null;
   const tiempoFinal = modoTiempo === "preset" ? tiempoPreset : total;
@@ -54,15 +70,12 @@ export default function Menu() {
   const cambiarMinutos = (v: string) => {
     const n = Math.min(Math.max(parseInt(v) || 0, 0), 10);
     setMinutos(n);
-    // Si llegó a 10 min, segundos deben ser 0.
     if (n === 10) setSegs(0);
   };
 
   const cambiarSegs = (v: string) => {
-    const n = Math.min(Math.max(parseInt(v) || 0, 0), 59);
-    // No superar el máximo total.
     if (minutos === 10) { setSegs(0); return; }
-    setSegs(n);
+    setSegs(Math.min(Math.max(parseInt(v) || 0, 0), 59));
   };
 
   const empezar = () => {
@@ -72,13 +85,14 @@ export default function Menu() {
     router.push(`/juego?tiempo=${tiempoFinal}&dic=${diccionario}`);
   };
 
-  // Estilo común para chips de selección.
   const chip = (activo: boolean) =>
     `rounded-xl py-2 font-bold transition-colors ${
       activo
         ? "bg-yellow-400 text-slate-900"
         : "bg-slate-700 text-slate-300 hover:bg-slate-600"
     }`;
+
+  const dificultades = diccionariosPorCategoria(categoria);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-10 p-6">
@@ -90,13 +104,12 @@ export default function Menu() {
       </div>
 
       <div className="flex w-full max-w-sm flex-col gap-6 rounded-2xl bg-slate-800/80 p-6">
+
         {/* ── Selector de tiempo ────────────────────────────────────── */}
         <div>
           <label className="mb-2 block text-sm font-semibold uppercase tracking-wide text-slate-400">
             Tiempo
           </label>
-
-          {/* Chips: presets + personalizado en grid 2×2 */}
           <div className="grid grid-cols-2 gap-2">
             {TIEMPOS_PRESET.map((t) => (
               <button
@@ -115,10 +128,8 @@ export default function Menu() {
             </button>
           </div>
 
-          {/* Panel expansible para tiempo personalizado */}
           {modoTiempo === "personalizado" && (
             <div className="mt-3 rounded-xl border border-slate-600 bg-slate-900/60 p-4">
-              {/* Inputs min : seg */}
               <div className="flex items-center justify-center gap-2">
                 <div className="flex flex-col items-center">
                   <input
@@ -134,9 +145,7 @@ export default function Menu() {
                   />
                   <span className="mt-1 text-xs text-slate-500">min</span>
                 </div>
-
                 <span className="mb-4 text-3xl font-bold text-slate-400">:</span>
-
                 <div className="flex flex-col items-center">
                   <input
                     type="number"
@@ -151,34 +160,48 @@ export default function Menu() {
                   <span className="mt-1 text-xs text-slate-500">seg</span>
                 </div>
               </div>
-
-              {/* Preview formateado */}
               {!error ? (
                 <p className="mt-3 text-center font-mono text-2xl font-bold text-yellow-400">
                   ⏱ {formatearTiempo(total)}
                 </p>
               ) : (
-                <p className="mt-3 text-center text-sm font-semibold text-red-400">
-                  {error}
-                </p>
+                <p className="mt-3 text-center text-sm font-semibold text-red-400">{error}</p>
               )}
             </div>
           )}
         </div>
 
-        {/* ── Selector de diccionario ───────────────────────────────── */}
+        {/* ── Selector de categoría ─────────────────────────────────── */}
         <div>
           <label className="mb-2 block text-sm font-semibold uppercase tracking-wide text-slate-400">
-            Diccionario
+            Categoría
           </label>
           <div className="flex gap-2">
-            {DICCIONARIOS.map((d) => (
+            {CATEGORIAS.map((cat) => (
+              <button
+                key={cat}
+                onClick={() => seleccionarCategoria(cat)}
+                className={`flex-1 ${chip(categoria === cat)}`}
+              >
+                {cat}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* ── Selector de dificultad ────────────────────────────────── */}
+        <div>
+          <label className="mb-2 block text-sm font-semibold uppercase tracking-wide text-slate-400">
+            Dificultad
+          </label>
+          <div className="flex gap-2">
+            {dificultades.map((d) => (
               <button
                 key={d.id}
                 onClick={() => setDiccionario(d.id)}
                 className={`flex-1 ${chip(diccionario === d.id)}`}
               >
-                {d.nombre}
+                {d.dificultad}
               </button>
             ))}
           </div>

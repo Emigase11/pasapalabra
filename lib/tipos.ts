@@ -28,6 +28,7 @@ export interface UltimoError {
 
 export interface Diccionario {
   id: string;
-  nombre: string;
+  categoria: string;
+  dificultad: string;
   entradas: Entrada[];
 }
