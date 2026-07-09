@@ -1,29 +1,1622 @@
 [
-  { "letra": "A", "palabra": "abeja",     "definicion": "Insecto que produce miel y cera y vive en colmenas organizadas.", "tipo": "empieza" },
-  { "letra": "B", "palabra": "brújula",   "definicion": "Instrumento con una aguja imantada que señala el norte magnético.", "tipo": "empieza" },
-  { "letra": "C", "palabra": "cactus",    "definicion": "Planta con espinas capaz de almacenar agua, propia de zonas desérticas.", "tipo": "empieza" },
-  { "letra": "D", "palabra": "delfín",    "definicion": "Mamífero marino muy inteligente que se comunica mediante silbidos.", "tipo": "empieza" },
-  { "letra": "E", "palabra": "eclipse",   "definicion": "Ocultación total o parcial de un astro por la interposición de otro.", "tipo": "empieza" },
-  { "letra": "F", "palabra": "faro",      "definicion": "Torre con una luz potente que guía a los navegantes durante la noche.", "tipo": "empieza" },
-  { "letra": "G", "palabra": "galaxia",   "definicion": "Conjunto enorme de estrellas, gas y polvo unidos por la gravedad.", "tipo": "empieza" },
-  { "letra": "H", "palabra": "helado",    "definicion": "Dulce congelado, generalmente de leche o fruta, que suele tomarse en verano.", "tipo": "empieza" },
-  { "letra": "I", "palabra": "isla",      "definicion": "Porción de tierra rodeada de agua por todas partes.", "tipo": "empieza" },
-  { "letra": "J", "palabra": "jirafa",    "definicion": "Mamífero africano herbívoro que destaca por su larguísimo cuello.", "tipo": "empieza" },
-  { "letra": "K", "palabra": "bikini",    "definicion": "Traje de baño femenino de dos piezas.", "tipo": "contiene" },
-  { "letra": "L", "palabra": "laberinto", "definicion": "Lugar formado por caminos entrecruzados donde es fácil perderse.", "tipo": "empieza" },
-  { "letra": "M", "palabra": "montaña",   "definicion": "Gran elevación natural del terreno.", "tipo": "empieza" },
-  { "letra": "N", "palabra": "nube",      "definicion": "Masa de vapor de agua suspendida en la atmósfera.", "tipo": "empieza" },
-  { "letra": "Ñ", "palabra": "araña",     "definicion": "Arácnido de ocho patas que teje telas para atrapar a sus presas.", "tipo": "contiene" },
-  { "letra": "O", "palabra": "orquesta",  "definicion": "Conjunto numeroso de músicos que interpretan obras con diversos instrumentos.", "tipo": "empieza" },
-  { "letra": "P", "palabra": "pirámide",  "definicion": "Construcción de base cuadrada y caras triangulares, típica del antiguo Egipto.", "tipo": "empieza" },
-  { "letra": "Q", "palabra": "queso",     "definicion": "Alimento elaborado a partir de la leche cuajada.", "tipo": "empieza" },
-  { "letra": "R", "palabra": "relámpago", "definicion": "Resplandor muy vivo producido por una descarga eléctrica entre nubes.", "tipo": "empieza" },
-  { "letra": "S", "palabra": "semáforo",  "definicion": "Aparato de luces de colores que regula el tráfico en las ciudades.", "tipo": "empieza" },
-  { "letra": "T", "palabra": "tiburón",   "definicion": "Pez marino de gran tamaño, esqueleto cartilaginoso y varias filas de dientes.", "tipo": "empieza" },
-  { "letra": "U", "palabra": "universo",  "definicion": "Conjunto de todo lo que existe: materia, energía, espacio y tiempo.", "tipo": "empieza" },
-  { "letra": "V", "palabra": "volcán",    "definicion": "Abertura de la corteza terrestre por la que salen lava, ceniza y gases.", "tipo": "empieza" },
-  { "letra": "W", "palabra": "kiwi",      "definicion": "Fruta de piel marrón y vellosa, con pulpa verde y pequeñas semillas negras.", "tipo": "contiene" },
-  { "letra": "X", "palabra": "taxi",      "definicion": "Automóvil de alquiler con conductor, provisto de taxímetro.", "tipo": "contiene" },
-  { "letra": "Y", "palabra": "desayuno",  "definicion": "Primera comida del día, que se toma por la mañana.", "tipo": "contiene" },
-  { "letra": "Z", "palabra": "zanahoria", "definicion": "Hortaliza de raíz comestible, alargada y de color naranja.", "tipo": "empieza" }
+  {
+    "letra": "A",
+    "palabra": "agua",
+    "definicion": "Líquido transparente e inodoro esencial para la vida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arbol",
+    "definicion": "Planta grande con tronco de madera y ramas con hojas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "avion",
+    "definicion": "Vehículo con alas que vuela por el aire transportando pasajeros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "araña",
+    "definicion": "Animal de ocho patas que teje telas para atrapar insectos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anillo",
+    "definicion": "Aro pequeño que se usa como adorno en los dedos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "almohada",
+    "definicion": "Objeto blando sobre el que se apoya la cabeza para dormir.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "abeja",
+    "definicion": "Insecto volador que produce miel y vive en colmenas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arroz",
+    "definicion": "Cereal blanco que se cultiva en agua y es base de muchas comidas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "alfombra",
+    "definicion": "Tela gruesa que se coloca en el suelo para decorar o abrigar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "ambulancia",
+    "definicion": "Vehículo con sirena que transporta enfermos al hospital.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "banana",
+    "definicion": "Fruta alargada de cáscara amarilla muy popular en Latinoamérica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "ballena",
+    "definicion": "El animal más grande del mundo, vive en el océano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bicicleta",
+    "definicion": "Vehículo de dos ruedas que se mueve pedaleando.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bombero",
+    "definicion": "Persona que apaga incendios y realiza rescates.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bosque",
+    "definicion": "Terreno extenso poblado de árboles y vegetación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "botella",
+    "definicion": "Recipiente de vidrio o plástico para guardar líquidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "brazo",
+    "definicion": "Extremidad del cuerpo humano que va del hombro a la mano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bufanda",
+    "definicion": "Prenda larga de tela que se enrolla en el cuello para abrigar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barco",
+    "definicion": "Embarcación que navega por el agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boton",
+    "definicion": "Pieza pequeña y redonda que sirve para abrochar la ropa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caballo",
+    "definicion": "Animal grande de cuatro patas usado para montar y correr.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "corazon",
+    "definicion": "Órgano del cuerpo que bombea la sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cuchara",
+    "definicion": "Utensilio de cocina con forma cóncava para tomar sopa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "conejo",
+    "definicion": "Animal pequeño de orejas largas que salta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cocina",
+    "definicion": "Lugar de la casa donde se preparan los alimentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "camisa",
+    "definicion": "Prenda de vestir con cuello y botones que cubre el torso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caracol",
+    "definicion": "Animal pequeño y lento que lleva su casa en forma de espiral.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cebolla",
+    "definicion": "Verdura redonda de capas que hace llorar al cortarla.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cinturon",
+    "definicion": "Tira de cuero o tela que se usa para sujetar los pantalones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cereza",
+    "definicion": "Fruta pequeña, roja y redonda con un carozo en el centro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "delfin",
+    "definicion": "Mamífero marino muy inteligente que salta sobre las olas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dedo",
+    "definicion": "Cada una de las cinco partes en que termina la mano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diamante",
+    "definicion": "Piedra preciosa, la más dura de la naturaleza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dentista",
+    "definicion": "Profesional de la salud que cuida los dientes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinosaurio",
+    "definicion": "Reptil gigante que se extinguió hace millones de años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "durazno",
+    "definicion": "Fruta redonda de piel aterciopelada y carozo grande.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "domingo",
+    "definicion": "Último día de la semana, dedicado al descanso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dulce",
+    "definicion": "Sabor agradable como el del azúcar o la miel.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dado",
+    "definicion": "Cubo pequeño con puntos del uno al seis en sus caras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "ducha",
+    "definicion": "Aparato que lanza agua para bañarse de pie.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "elefante",
+    "definicion": "Animal terrestre más grande, tiene trompa y colmillos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "espejo",
+    "definicion": "Superficie de vidrio donde se refleja la imagen de quien se mira.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estrella",
+    "definicion": "Astro luminoso que brilla en el cielo durante la noche.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escalera",
+    "definicion": "Estructura con peldaños para subir o bajar de un nivel a otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escuela",
+    "definicion": "Lugar donde los niños van a estudiar y aprender.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esponja",
+    "definicion": "Objeto poroso y suave que absorbe agua, usado para limpiar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "ensalada",
+    "definicion": "Plato frío preparado con verduras crudas, típicamente lechuga y tomate.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "envelope",
+    "definicion": "Sobre de papel donde se mete una carta para enviarla por correo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "erizo",
+    "definicion": "Animal pequeño cubierto de púas que se hace bolita para protegerse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estufa",
+    "definicion": "Aparato que genera calor para calentar una habitación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fuego",
+    "definicion": "Fenómeno que produce calor, luz y llamas al quemar algo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fresa",
+    "definicion": "Fruta pequeña y roja con semillitas en su superficie.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flauta",
+    "definicion": "Instrumento musical de viento en forma de tubo con agujeros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "familia",
+    "definicion": "Grupo de personas unidas por lazos de parentesco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "farmacia",
+    "definicion": "Local donde se compran medicamentos y remedios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flecha",
+    "definicion": "Proyectil puntiagudo que se lanza con un arco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frazada",
+    "definicion": "Manta gruesa que se usa para abrigarse en la cama.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "foto",
+    "definicion": "Imagen capturada con una cámara que registra un momento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "foca",
+    "definicion": "Mamífero marino de cuerpo rechoncho que vive en aguas frías.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fideos",
+    "definicion": "Masa alargada de harina que se hierve para comer, como espaguetis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gato",
+    "definicion": "Animal doméstico pequeño que maúlla y caza ratones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guitarra",
+    "definicion": "Instrumento musical de seis cuerdas que se toca con los dedos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "girasol",
+    "definicion": "Flor grande y amarilla que gira siguiendo la luz del sol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "globo",
+    "definicion": "Bolsa de goma que se infla con aire y se usa en fiestas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gallina",
+    "definicion": "Ave de corral que pone huevos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guante",
+    "definicion": "Prenda que cubre la mano y cada dedo por separado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gorila",
+    "definicion": "Primate grande y fuerte que vive en las selvas de África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "granizo",
+    "definicion": "Lluvia en forma de bolitas de hielo que cae del cielo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gorra",
+    "definicion": "Prenda con visera que se usa en la cabeza para proteger del sol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "garaje",
+    "definicion": "Lugar cerrado donde se guarda el auto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "helado",
+    "definicion": "Postre frío y dulce hecho con leche o agua, de muchos sabores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hormiga",
+    "definicion": "Insecto pequeño que vive en colonias y trabaja en equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hospital",
+    "definicion": "Establecimiento donde se atiende y cura a los enfermos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "huevo",
+    "definicion": "Alimento ovalado que ponen las gallinas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hoja",
+    "definicion": "Parte plana y verde de una planta unida a la rama.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hamaca",
+    "definicion": "Asiento colgante de tela o red para descansar balanceándose.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "harina",
+    "definicion": "Polvo blanco obtenido al moler trigo, se usa para hacer pan.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hilo",
+    "definicion": "Hebra fina y larga que se usa para coser.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "horno",
+    "definicion": "Electrodoméstico cerrado que cocina alimentos con calor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hueso",
+    "definicion": "Pieza dura y resistente que forma el esqueleto del cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isla",
+    "definicion": "Porción de tierra completamente rodeada de agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iguana",
+    "definicion": "Reptil grande de color verde que vive en zonas tropicales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iglesia",
+    "definicion": "Edificio donde los cristianos van a rezar y celebrar misas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iman",
+    "definicion": "Objeto que atrae metales como el hierro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "invierno",
+    "definicion": "Estación del año más fría, entre el otoño y la primavera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "insecto",
+    "definicion": "Animal pequeño con seis patas, como la mosca o la hormiga.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "instrumento",
+    "definicion": "Objeto que sirve para hacer música, como la guitarra o el piano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "incendio",
+    "definicion": "Fuego grande que se propaga sin control y destruye lo que toca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inyeccion",
+    "definicion": "Pinchazo con aguja para introducir un medicamento en el cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iglu",
+    "definicion": "Casa en forma de cúpula construida con bloques de hielo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jardin",
+    "definicion": "Terreno con plantas, flores y césped, generalmente junto a una casa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jirafa",
+    "definicion": "Animal africano con el cuello más largo de todos los animales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jabon",
+    "definicion": "Producto que se usa con agua para lavar y limpiar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jugo",
+    "definicion": "Bebida que se obtiene al exprimir frutas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juguete",
+    "definicion": "Objeto con el que juegan los niños para divertirse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jamon",
+    "definicion": "Alimento salado que se obtiene de la pata del cerdo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jaula",
+    "definicion": "Caja con barrotes donde se guardan pájaros u otros animales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "joya",
+    "definicion": "Objeto de valor hecho con metales preciosos y piedras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jueves",
+    "definicion": "Día de la semana que está entre el miércoles y el viernes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jinete",
+    "definicion": "Persona que monta a caballo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kiosco",
+    "definicion": "Puesto pequeño donde se venden golosinas, diarios y bebidas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "koala",
+    "definicion": "Animal australiano que vive en árboles de eucalipto y parece un osito.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karate",
+    "definicion": "Arte marcial japonés que usa golpes con manos y pies.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kilo",
+    "definicion": "Unidad de peso equivalente a mil gramos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kiwi",
+    "definicion": "Fruta pequeña de piel marrón peluda y pulpa verde.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kayak",
+    "definicion": "Embarcación pequeña y estrecha que se impulsa con un remo de doble pala.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "ketchup",
+    "definicion": "Salsa roja de tomate que se pone en las papas fritas y hamburguesas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karaoke",
+    "definicion": "Entretenimiento donde la gente canta canciones siguiendo la letra en pantalla.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kimono",
+    "definicion": "Vestimenta tradicional japonesa en forma de bata larga cruzada.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karma",
+    "definicion": "Creencia de que las buenas o malas acciones tienen consecuencias futuras.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "luna",
+    "definicion": "Satélite natural de la Tierra que brilla en el cielo de noche.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "leon",
+    "definicion": "Animal salvaje conocido como el rey de la selva, con melena.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "libro",
+    "definicion": "Conjunto de páginas con texto que se lee para aprender o entretenerse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "limon",
+    "definicion": "Fruta cítrica amarilla y ácida usada para hacer jugos y aderezos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lampara",
+    "definicion": "Objeto que produce luz artificial para iluminar un espacio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lapiz",
+    "definicion": "Instrumento de escritura con mina de grafito dentro de madera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "leche",
+    "definicion": "Líquido blanco nutritivo que producen las vacas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lengua",
+    "definicion": "Órgano muscular dentro de la boca que sirve para saborear.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lluvia",
+    "definicion": "Agua que cae del cielo en forma de gotas desde las nubes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lechuga",
+    "definicion": "Verdura de hojas verdes que se come cruda en ensaladas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "manzana",
+    "definicion": "Fruta redonda que puede ser roja, verde o amarilla.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mariposa",
+    "definicion": "Insecto con alas grandes y coloridas que vuela entre las flores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mesa",
+    "definicion": "Mueble con patas y superficie plana donde se come o trabaja.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "medico",
+    "definicion": "Profesional de la salud que diagnostica y cura enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "montaña",
+    "definicion": "Elevación natural del terreno muy alta y con pendiente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "martillo",
+    "definicion": "Herramienta con cabeza pesada que sirve para clavar clavos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mosquito",
+    "definicion": "Insecto volador pequeño que pica y puede transmitir enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "moneda",
+    "definicion": "Pieza redonda de metal que se usa como dinero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "muralla",
+    "definicion": "Pared gruesa y alta construida para proteger una ciudad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maleta",
+    "definicion": "Bolso grande con ruedas que se usa para llevar ropa en un viaje.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "naranja",
+    "definicion": "Fruta cítrica redonda de color anaranjado, rica en vitamina C.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nube",
+    "definicion": "Masa blanca de vapor de agua que flota en el cielo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "noche",
+    "definicion": "Período del día en que no hay luz solar y se ve la luna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nariz",
+    "definicion": "Parte de la cara por donde se respira y se huelen las cosas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nido",
+    "definicion": "Construcción que hacen los pájaros para poner sus huevos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nieve",
+    "definicion": "Agua congelada que cae del cielo en copos blancos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nuez",
+    "definicion": "Fruto seco de cáscara dura con forma de cerebro por dentro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "navidad",
+    "definicion": "Fiesta del 25 de diciembre que celebra el nacimiento de Jesús.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "notebook",
+    "definicion": "Computadora portátil que se puede llevar a cualquier lugar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nudo",
+    "definicion": "Enlace apretado que se hace con una cuerda, hilo o soga.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "a Ñ. Ave corredora grande de Sudamérica que no puede volar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoquis",
+    "definicion": "a Ñ. Pasta de origen italiano hecha con papa y harina, tradición comerla el día 29.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Persona sosa, aburrida o demasiado correcta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "a Ñ. Tubérculo tropical comestible parecido a la batata.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñato",
+    "definicion": "a Ñ. En Argentina, persona que tiene la nariz chata o achatada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñanduti",
+    "definicion": "a Ñ. Encaje tejido a mano originario de Paraguay con forma de tela de araña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñapa",
+    "definicion": "a Ñ. Regalo extra o propina que da el vendedor al comprador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñu",
+    "definicion": "a Ñ. Animal herbívoro africano parecido a un toro con cuernos curvos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñora",
+    "definicion": "a Ñ. Pimiento rojo seco usado como condimento en la cocina española.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. En Argentina, persona que cobra un sueldo sin trabajar realmente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ojo",
+    "definicion": "Órgano del cuerpo que permite ver.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oso",
+    "definicion": "Animal grande y peludo que puede ser pardo, negro o polar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oreja",
+    "definicion": "Parte externa del oído que sobresale a los lados de la cabeza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oveja",
+    "definicion": "Animal de granja cubierto de lana que da leche y carne.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ombligo",
+    "definicion": "Pequeña cicatriz redonda en el centro del abdomen.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "olla",
+    "definicion": "Recipiente de cocina con tapa usado para hervir o cocinar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oceano",
+    "definicion": "Gran extensión de agua salada que cubre la mayor parte de la Tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "otono",
+    "definicion": "Estación del año en que las hojas se caen de los árboles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oro",
+    "definicion": "Metal precioso de color amarillo brillante muy valioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oruga",
+    "definicion": "Larva de la mariposa que se arrastra y come hojas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "perro",
+    "definicion": "Animal doméstico fiel al humano, conocido como el mejor amigo del hombre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paraguas",
+    "definicion": "Objeto plegable que se abre para protegerse de la lluvia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pizza",
+    "definicion": "Comida redonda de masa con salsa de tomate, queso y otros ingredientes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "piano",
+    "definicion": "Instrumento musical grande con teclas blancas y negras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pantalon",
+    "definicion": "Prenda de vestir que cubre desde la cintura hasta los pies, con dos piernas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pelota",
+    "definicion": "Objeto esférico que se usa en muchos deportes y juegos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pingüino",
+    "definicion": "Ave que no vuela, camina erguida y nada en aguas muy frías.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "puerta",
+    "definicion": "Abertura con hoja movible para entrar y salir de un lugar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "peine",
+    "definicion": "Utensilio con dientes finos que sirve para arreglar el pelo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pared",
+    "definicion": "Construcción vertical que separa o cierra los espacios de una casa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queso",
+    "definicion": "Alimento sólido que se obtiene de la leche cuajada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quemadura",
+    "definicion": "Lesión en la piel causada por el fuego o el calor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quiniela",
+    "definicion": "Juego de azar donde se apuesta a números para ganar premios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quijada",
+    "definicion": "Hueso de la mandíbula donde están los dientes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quincho",
+    "definicion": "Construcción techada con parrilla para hacer asados, muy común en Argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quince",
+    "definicion": "Número que resulta de sumar diez más cinco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilombo",
+    "definicion": "Palabra coloquial rioplatense que significa desorden o lío.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinta",
+    "definicion": "Casa de campo con terreno y jardín grande.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "querosen",
+    "definicion": "Combustible líquido derivado del petróleo usado en aviones y calefacción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quetzal",
+    "definicion": "Ave centroamericana de plumaje verde brillante, símbolo de Guatemala.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reloj",
+    "definicion": "Aparato que indica la hora con agujas o números.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "raton",
+    "definicion": "Animal roedor pequeño y gris que vive en casas y campos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rio",
+    "definicion": "Corriente de agua dulce que desemboca en el mar o en un lago.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rosa",
+    "definicion": "Flor fragante con espinas en el tallo, símbolo del amor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rueda",
+    "definicion": "Pieza circular que gira y permite el movimiento de vehículos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rayo",
+    "definicion": "Descarga eléctrica luminosa que cae del cielo durante una tormenta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rana",
+    "definicion": "Anfibio pequeño y verde que salta y vive cerca del agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "regalo",
+    "definicion": "Objeto que se da a alguien como muestra de cariño o celebración.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "remera",
+    "definicion": "Prenda de vestir informal con mangas cortas y sin cuello.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "radio",
+    "definicion": "Aparato que recibe y reproduce sonido transmitido por ondas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sol",
+    "definicion": "Estrella que ilumina y da calor a la Tierra durante el día.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "silla",
+    "definicion": "Mueble con respaldo y patas para sentarse una persona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "serpiente",
+    "definicion": "Reptil largo y sin patas que se desplaza arrastrándose.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "semaforo",
+    "definicion": "Aparato con luces verde, amarilla y roja que regula el tránsito.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sandia",
+    "definicion": "Fruta grande y verde por fuera, roja y jugosa por dentro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarten",
+    "definicion": "Recipiente de cocina plano y con mango para freír alimentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sombrero",
+    "definicion": "Prenda con ala ancha que se usa en la cabeza para proteger del sol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sangre",
+    "definicion": "Líquido rojo que circula por las venas y arterias del cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sopa",
+    "definicion": "Comida líquida caliente hecha con caldo y verduras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sobre",
+    "definicion": "Envoltura de papel donde se mete una carta para enviar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tomate",
+    "definicion": "Fruto rojo y redondo usado en ensaladas y para hacer salsa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tortuga",
+    "definicion": "Reptil lento con caparazón duro que le sirve de protección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tijera",
+    "definicion": "Instrumento de dos hojas que sirve para cortar papel o tela.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "telefono",
+    "definicion": "Aparato electrónico que sirve para comunicarse hablando a distancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tren",
+    "definicion": "Vehículo que circula sobre rieles transportando pasajeros o carga.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trueno",
+    "definicion": "Ruido fuerte que se escucha en el cielo después de un rayo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tenedor",
+    "definicion": "Cubierto con dientes puntiagudos que sirve para pinchar la comida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tigre",
+    "definicion": "Felino salvaje grande con rayas negras y pelaje anaranjado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "techo",
+    "definicion": "Parte superior de una casa o edificio que lo cubre y protege.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "toalla",
+    "definicion": "Tela absorbente que se usa para secarse después de bañarse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uva",
+    "definicion": "Fruta pequeña y redonda que crece en racimos y se usa para hacer vino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uña",
+    "definicion": "Lámina dura que cubre la punta de los dedos de manos y pies.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universo",
+    "definicion": "Conjunto de todo lo que existe: estrellas, planetas, galaxias y el espacio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uniforme",
+    "definicion": "Ropa igual que usan todos los miembros de un grupo o institución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unicornio",
+    "definicion": "Animal mitológico con forma de caballo y un cuerno en la frente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universidad",
+    "definicion": "Institución donde se estudian carreras profesionales después del secundario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urgencia",
+    "definicion": "Situación que necesita atención inmediata, como una emergencia médica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utensilio",
+    "definicion": "Herramienta o instrumento que se usa en la cocina o un oficio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urraca",
+    "definicion": "Pájaro blanco y negro conocido por recoger objetos brillantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ubicacion",
+    "definicion": "Lugar exacto donde se encuentra algo o alguien.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vaca",
+    "definicion": "Animal de granja que da leche y carne.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "ventana",
+    "definicion": "Abertura en la pared con vidrio que deja entrar luz y aire.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volcan",
+    "definicion": "Montaña que expulsa lava, cenizas y humo por su cráter.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vestido",
+    "definicion": "Prenda femenina de una pieza que cubre el cuerpo desde los hombros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "violin",
+    "definicion": "Instrumento musical de cuerdas que se toca con un arco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vela",
+    "definicion": "Cilindro de cera con una mecha que se enciende para dar luz.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vuelo",
+    "definicion": "Acción de desplazarse por el aire, como hacen los aviones o los pájaros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vinagre",
+    "definicion": "Líquido ácido usado para condimentar ensaladas y conservar alimentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valija",
+    "definicion": "Equipaje de mano que se lleva al viajar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vecino",
+    "definicion": "Persona que vive al lado o cerca de tu casa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "sandwich",
+    "definicion": "Comida rápida hecha con dos panes y relleno en el medio.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wifi",
+    "definicion": "Tecnología inalámbrica que permite conectarse a internet sin cables.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "waterpolo",
+    "definicion": "Deporte acuático donde dos equipos intentan meter un balón en el arco.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "brownie",
+    "definicion": "Postre de chocolate horneado, húmedo y esponjoso.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whisky",
+    "definicion": "Bebida alcohólica destilada de cereales, originaria de Escocia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "windsurf",
+    "definicion": "Deporte náutico donde se navega sobre una tabla con vela.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "web",
+    "definicion": "Red mundial de páginas de internet que se navegan con un explorador.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "webcam",
+    "definicion": "Cámara pequeña conectada a la computadora para hacer videollamadas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "cowboy",
+    "definicion": "Vaquero del oeste estadounidense que monta a caballo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wok",
+    "definicion": "Sartén honda y redondeada de origen asiático para saltear comida.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "taxi",
+    "definicion": "Vehículo de alquiler con conductor que lleva pasajeros a donde pidan.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "boxeo",
+    "definicion": "Deporte de combate donde dos personas pelean con guantes.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxigeno",
+    "definicion": "Gas invisible que respiramos y es esencial para vivir.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "examen",
+    "definicion": "Prueba escrita u oral para evaluar conocimientos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "texto",
+    "definicion": "Conjunto de palabras escritas que forman un mensaje.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "saxofon",
+    "definicion": "Instrumento musical de viento hecho de metal con forma curva.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "excursion",
+    "definicion": "Paseo o viaje corto a un lugar para conocerlo o divertirse.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "pixel",
+    "definicion": "Punto diminuto de color que forma parte de una imagen digital.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "sexto",
+    "definicion": "Número ordinal que ocupa el lugar número seis en una serie.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mixto",
+    "definicion": "Que está compuesto por elementos de distinta naturaleza o tipo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "playa",
+    "definicion": "Zona de arena junto al mar donde la gente va a bañarse y tomar sol.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "payaso",
+    "definicion": "Artista de circo que se pinta la cara y hace reír.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "rayo",
+    "definicion": "Descarga eléctrica luminosa que cae del cielo en una tormenta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yogur",
+    "definicion": "Alimento lácteo espeso y ácido que se come como postre o merienda.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yema",
+    "definicion": "Parte amarilla y redonda del interior del huevo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "leyenda",
+    "definicion": "Historia tradicional que mezcla hechos reales con fantasía.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeso",
+    "definicion": "Material blanco que se usa para cubrir paredes o inmovilizar huesos rotos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "mayor",
+    "definicion": "Que tiene más edad o tamaño que otro.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "desayuno",
+    "definicion": "Primera comida del día que se toma por la mañana.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "joya",
+    "definicion": "Objeto de valor hecho con metales preciosos y piedras.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zapatilla",
+    "definicion": "Calzado deportivo cómodo para caminar o hacer ejercicio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zorro",
+    "definicion": "Animal salvaje parecido al perro, conocido por ser astuto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zanahoria",
+    "definicion": "Verdura alargada de color naranja que crece bajo tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoologico",
+    "definicion": "Lugar donde se exhiben animales de distintas especies para el público.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zapato",
+    "definicion": "Calzado que cubre y protege el pie, generalmente de cuero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zancudo",
+    "definicion": "Nombre que se le da al mosquito en varios países de Latinoamérica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zumo",
+    "definicion": "Jugo que se extrae de las frutas al exprimirlas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zafiro",
+    "definicion": "Piedra preciosa de color azul intenso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zambullida",
+    "definicion": "Acción de tirarse al agua de cabeza o de golpe.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zipper",
+    "definicion": "Cierre metálico o plástico que une dos tiras de dientes para cerrar ropa o bolsos.",
+    "tipo": "empieza"
+  }
 ]

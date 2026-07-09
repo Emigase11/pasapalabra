@@ -1,6 +1,19 @@
 import type { Diccionario, Entrada } from "@/lib/tipos";
-import generalFacil from "@/data/rosco-general-facil.json";
-import generalMedia from "@/data/rosco-general-media.json";
+
+import generalFacil    from "@/data/rosco-general-facil.json";
+import generalMedia    from "@/data/rosco-general-media.json";
+
+import deportesFacil   from "@/data/rosco-deportes-facil.json";
+import deportesMedia   from "@/data/rosco-deportes-media.json";
+import deportesDificil from "@/data/rosco-deportes-dificil.json";
+
+import futbolFacil     from "@/data/rosco-futbol-facil.json";
+import futbolMedia     from "@/data/rosco-futbol-media.json";
+import futbolDificil   from "@/data/rosco-futbol-dificil.json";
+
+import historiaFacil   from "@/data/rosco-historia-facil.json";
+import historiaMedia   from "@/data/rosco-historia-media.json";
+import historiaDificil from "@/data/rosco-historia-dificil.json";
 
 const ORDEN_LETRAS = [
   "A","B","C","D","E","F","G","H","I","J","K","L","M",
@@ -24,15 +37,21 @@ export function sortearEntradas(pool: Entrada[]): Entrada[] {
   });
 }
 
-/**
- * Registro de diccionarios disponibles.
- * Para agregar uno nuevo:
- * 1. Crear data/rosco-<id>.json (usar scripts/convertir-diccionario.ts).
- * 2. Importarlo acá y agregarlo a la lista con su categoria y dificultad.
- */
 export const DICCIONARIOS: Diccionario[] = [
-  { id: "general-facil", categoria: "General", dificultad: "Fácil",  entradas: generalFacil as Entrada[] },
-  { id: "general-media", categoria: "General", dificultad: "Media",  entradas: generalMedia as Entrada[] },
+  { id: "general-facil",    categoria: "General",   dificultad: "Fácil",   entradas: generalFacil    as Entrada[] },
+  { id: "general-media",    categoria: "General",   dificultad: "Media",   entradas: generalMedia    as Entrada[] },
+
+  { id: "deportes-facil",   categoria: "Deportes",  dificultad: "Fácil",   entradas: deportesFacil   as Entrada[] },
+  { id: "deportes-media",   categoria: "Deportes",  dificultad: "Media",   entradas: deportesMedia   as Entrada[] },
+  { id: "deportes-dificil", categoria: "Deportes",  dificultad: "Difícil", entradas: deportesDificil as Entrada[] },
+
+  { id: "futbol-facil",     categoria: "Fútbol",    dificultad: "Fácil",   entradas: futbolFacil     as Entrada[] },
+  { id: "futbol-media",     categoria: "Fútbol",    dificultad: "Media",   entradas: futbolMedia     as Entrada[] },
+  { id: "futbol-dificil",   categoria: "Fútbol",    dificultad: "Difícil", entradas: futbolDificil   as Entrada[] },
+
+  { id: "historia-facil",   categoria: "Historia",  dificultad: "Fácil",   entradas: historiaFacil   as Entrada[] },
+  { id: "historia-media",   categoria: "Historia",  dificultad: "Media",   entradas: historiaMedia   as Entrada[] },
+  { id: "historia-dificil", categoria: "Historia",  dificultad: "Difícil", entradas: historiaDificil as Entrada[] },
 ];
 
 /** Lista de categorías únicas en el orden en que aparecen. */

@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "azteca",
+    "definicion": "Civilización mesoamericana que construyó Tenochtitlán.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "alejandro",
+    "definicion": "Rey macedonio que conquistó un vasto imperio en el siglo IV a.C.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "armada",
+    "definicion": "Flota naval española derrotada por Inglaterra en 1588.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "atenas",
+    "definicion": "Ciudad griega considerada cuna de la democracia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "argentina",
+    "definicion": "País sudamericano que declaró su independencia en 1816.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "belgrano",
+    "definicion": "Prócer argentino creador de la bandera nacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bolivar",
+    "definicion": "Libertador sudamericano que independizó varios países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bomba",
+    "definicion": "Arma nuclear lanzada sobre Japón en 1945.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "babilonia",
+    "definicion": "Antigua ciudad mesopotámica famosa por sus jardines colgantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "berlin",
+    "definicion": "Ciudad alemana dividida por un muro durante la Guerra Fría.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "colon",
+    "definicion": "Navegante que llegó a América en 1492.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cesar",
+    "definicion": "General romano asesinado en los Idus de Marzo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "china",
+    "definicion": "País asiático con la civilización más antigua del mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cruzadas",
+    "definicion": "Guerras religiosas medievales para recuperar Tierra Santa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cleopatra",
+    "definicion": "Última reina del Antiguo Egipto, aliada de César.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "democracia",
+    "definicion": "Sistema de gobierno donde el pueblo elige a sus representantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinosaurio",
+    "definicion": "Animal prehistórico extinguido hace 65 millones de años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dracon",
+    "definicion": "Legislador griego conocido por sus leyes muy severas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dios",
+    "definicion": "Ser supremo adorado por diferentes civilizaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "descubrimiento",
+    "definicion": "Hallazgo importante que cambió el curso de la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "egipto",
+    "definicion": "País africano donde se construyeron las pirámides.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esclavitud",
+    "definicion": "Sistema donde personas eran propiedad de otras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "españa",
+    "definicion": "País europeo que colonizó gran parte de América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "europa",
+    "definicion": "Continente donde surgieron muchas civilizaciones modernas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "ejercito",
+    "definicion": "Fuerza militar organizada de un país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "faraon",
+    "definicion": "Rey del Antiguo Egipto considerado un dios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "francia",
+    "definicion": "País europeo donde ocurrió la Revolución en 1789.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "feudalismo",
+    "definicion": "Sistema político medieval basado en señores y vasallos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fuego",
+    "definicion": "Descubrimiento prehistórico que transformó a la humanidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frontera",
+    "definicion": "Límite entre dos países que cambia con guerras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guerra",
+    "definicion": "Conflicto armado entre países o grupos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "grecia",
+    "definicion": "País mediterráneo cuna de la filosofía y la democracia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gandhi",
+    "definicion": "Líder indio que luchó por la independencia de su país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gladiador",
+    "definicion": "Luchador romano que peleaba en el Coliseo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guillotina",
+    "definicion": "Instrumento usado en la Revolución Francesa para ejecutar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hitler",
+    "definicion": "Dictador alemán responsable del Holocausto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hiroshima",
+    "definicion": "Ciudad japonesa destruida por bomba atómica en 1945.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "historia",
+    "definicion": "Estudio del pasado de la humanidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "homo",
+    "definicion": "Género al que pertenece el ser humano moderno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hunos",
+    "definicion": "Pueblo nómada asiático que invadió Europa en el siglo V.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "imperio",
+    "definicion": "Gran territorio dominado por un emperador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inca",
+    "definicion": "Civilización andina que dominó gran parte de Sudamérica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "independencia",
+    "definicion": "Libertad de un pueblo para gobernarse a sí mismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inquisicion",
+    "definicion": "Tribunal religioso que persiguió herejes en la Edad Media.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "islam",
+    "definicion": "Religión fundada por Mahoma en el siglo VII.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "japon",
+    "definicion": "País asiático que atacó Pearl Harbor en 1941.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jesus",
+    "definicion": "Figura religiosa cuyo nacimiento marca el año cero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juana",
+    "definicion": "Heroína francesa conocida como la Doncella de Orleans.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "julio",
+    "definicion": "Mes nombrado en honor al César romano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "judios",
+    "definicion": "Pueblo perseguido en el Holocausto durante la Segunda Guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kennedy",
+    "definicion": "Presidente estadounidense asesinado en 1963.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kaiser",
+    "definicion": "Título del emperador alemán hasta la Primera Guerra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kamikaze",
+    "definicion": "Piloto japonés que se lanzaba en ataques suicidas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karma",
+    "definicion": "Concepto hindú de que las acciones tienen consecuencias.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kremlin",
+    "definicion": "Fortaleza de Moscú sede del gobierno ruso.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lincoln",
+    "definicion": "Presidente estadounidense que abolió la esclavitud.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "legion",
+    "definicion": "Unidad del ejército romano de gran poder.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luis",
+    "definicion": "Nombre de varios reyes de Francia ejecutados o depuestos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lutero",
+    "definicion": "Monje alemán que inició la Reforma Protestante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lucha",
+    "definicion": "Conflicto o pelea entre pueblos o clases sociales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maradona",
+    "definicion": "Ídolo argentino también ligado a la historia popular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mayas",
+    "definicion": "Civilización mesoamericana conocida por su calendario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "muro",
+    "definicion": "Construcción que dividió Berlín durante la Guerra Fría.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mosquete",
+    "definicion": "Arma de fuego usada en guerras de los siglos XVII y XVIII.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "momia",
+    "definicion": "Cuerpo preservado del Antiguo Egipto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "napoleon",
+    "definicion": "Emperador francés que conquistó gran parte de Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nazi",
+    "definicion": "Partido de Hitler que gobernó Alemania hasta 1945.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nelson",
+    "definicion": "Almirante inglés héroe de la batalla de Trafalgar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nilo",
+    "definicion": "Río sagrado donde floreció la civilización egipcia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "noruega",
+    "definicion": "País nórdico de los vikingos conquistadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol sudamericano usado en construcciones coloniales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "a Ñ. Ave que habitó las pampas desde tiempos prehispánicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. Comida traída por inmigrantes italianos al Río de la Plata.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Dicho del historiador excesivamente minucioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "a Ñ. Tubérculo cultivado por civilizaciones africanas y americanas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "olimpiadas",
+    "definicion": "Juegos deportivos que nacieron en la Grecia antigua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "otomano",
+    "definicion": "Imperio turco que dominó el Mediterráneo por siglos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oro",
+    "definicion": "Metal que motivó conquistas y colonizaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "occidente",
+    "definicion": "Parte del mundo influenciada por la cultura greco-romana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oriente",
+    "definicion": "Región del mundo con civilizaciones milenarias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "piramide",
+    "definicion": "Construcción monumental del Antiguo Egipto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "perón",
+    "definicion": "Presidente argentino de gran influencia popular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "plata",
+    "definicion": "Metal que buscaron los conquistadores en América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "prehistoria",
+    "definicion": "Período anterior a la escritura en la historia humana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paris",
+    "definicion": "Capital de Francia donde estalló la Revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quechua",
+    "definicion": "Lengua del Imperio Inca hablada aún hoy.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quijote",
+    "definicion": "Personaje literario símbolo de España del Siglo de Oro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilombo",
+    "definicion": "Asentamiento de esclavos fugitivos en Brasil colonial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinto",
+    "definicion": "Impuesto del veinte por ciento que pagaban colonos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quorum",
+    "definicion": "Número mínimo de miembros para sesionar en parlamentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "roma",
+    "definicion": "Ciudad italiana capital del mayor imperio de la antigüedad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "revolucion",
+    "definicion": "Cambio radical y violento en un sistema político.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rey",
+    "definicion": "Gobernante hereditario de un reino o monarquía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "republica",
+    "definicion": "Sistema de gobierno donde el poder lo ejerce el pueblo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reconquista",
+    "definicion": "Proceso medieval de recuperación de España de los moros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "san martin",
+    "definicion": "Libertador argentino que cruzó los Andes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sparta",
+    "definicion": "Ciudad griega conocida por sus guerreros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "stalin",
+    "definicion": "Dictador soviético que gobernó la URSS décadas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "segunda",
+    "definicion": "Guerra Mundial que mató a más de 70 millones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "siglo",
+    "definicion": "Período de cien años en la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tutankamon",
+    "definicion": "Faraón egipcio cuya tumba fue descubierta en 1922.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "troya",
+    "definicion": "Ciudad legendaria destruida en guerra narrada por Homero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "templarios",
+    "definicion": "Orden de caballeros medievales muy poderosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tirano",
+    "definicion": "Gobernante que ejerce el poder de forma abusiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tratado",
+    "definicion": "Acuerdo entre países que pone fin a guerras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urss",
+    "definicion": "Unión Soviética disuelta en 1991.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unesco",
+    "definicion": "Organismo de la ONU que protege el patrimonio cultural.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "union",
+    "definicion": "Alianza entre países durante conflictos históricos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universo",
+    "definicion": "Concepto cosmológico estudiado desde la antigüedad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urbanismo",
+    "definicion": "Organización de ciudades desde las primeras civilizaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vikingo",
+    "definicion": "Guerrero nórdico que navegó y conquistó costas europeas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "versalles",
+    "definicion": "Palacio francés y tratado que terminó la Primera Guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vietnam",
+    "definicion": "País asiático donde Estados Unidos libró una guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vampiro",
+    "definicion": "Figura mítica surgida del folklore europeo medieval.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valiente",
+    "definicion": "Soldado que combatió con coraje en guerras históricas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "washington",
+    "definicion": "Primer presidente de Estados Unidos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "waterloo",
+    "definicion": "Batalla donde fue derrotado definitivamente Napoleón.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wilson",
+    "definicion": "Presidente estadounidense que propuso la Liga de Naciones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "watt",
+    "definicion": "Inventor escocés de la máquina de vapor.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wright",
+    "definicion": "Hermanos que construyeron el primer avión en 1903.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerxes",
+    "definicion": "Rey persa que invadió Grecia en el siglo V a.C.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mexica",
+    "definicion": "Nombre original del pueblo azteca.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mexico",
+    "definicion": "País americano con raíces aztecas y mayas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "texano",
+    "definicion": "Relativo a Texas, estado disputado entre México y EE.UU.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "saxones",
+    "definicion": "Pueblo germánico que invadió Inglaterra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yalta",
+    "definicion": "Conferencia de 1945 donde se repartió el mundo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yugoslavia",
+    "definicion": "País balcánico que se disolvió en los años noventa.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yanqui",
+    "definicion": "Nombre con que se llama al ciudadano estadounidense.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yucatan",
+    "definicion": "Península mexicana con gran historia maya.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "ayllu",
+    "definicion": "Comunidad familiar básica del Imperio Inca.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zar",
+    "definicion": "Título del emperador ruso hasta la Revolución de 1917.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zapata",
+    "definicion": "Líder campesino de la Revolución Mexicana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoroastro",
+    "definicion": "Profeta persa fundador del zoroastrismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zulu",
+    "definicion": "Pueblo africano que resistió la colonización inglesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zeus",
+    "definicion": "Dios principal de la mitología griega.",
+    "tipo": "empieza"
+  }
+]

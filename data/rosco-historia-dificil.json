@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "absolutismo",
+    "definicion": "Sistema donde el monarca tiene poder ilimitado sin control.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "acefalia",
+    "definicion": "Estado político sin jefe reconocido de gobierno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anacronismo",
+    "definicion": "Error de situar algo en tiempo histórico incorrecto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anarcocomunismo",
+    "definicion": "Corriente que unía anarquismo y propiedad colectiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "antinomia",
+    "definicion": "Contradicción entre dos leyes o principios históricos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bakunismo",
+    "definicion": "Corriente anarquista del ruso Mijaíl Bakunin.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bonapartismo",
+    "definicion": "Sistema político basado en el cesarismo de Napoleón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bracero",
+    "definicion": "Trabajador migrante mexicano en el programa agrícola de EE.UU.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "burocracia",
+    "definicion": "Sistema administrativo que Weber analizó en el Estado moderno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "burguesía",
+    "definicion": "Clase social protagonista de las revoluciones liberales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caudillismo",
+    "definicion": "Fenómeno latinoamericano de liderazgo personalista armado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cesarismo",
+    "definicion": "Forma de gobierno con poder personal absoluto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "chauvinismo",
+    "definicion": "Exaltación extrema y agresiva de la nación propia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "clientelismo",
+    "definicion": "Práctica política de intercambiar favores por votos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "constitucionalismo",
+    "definicion": "Movimiento que limitó el poder del rey mediante leyes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "demagogia",
+    "definicion": "Manipulación política del pueblo mediante promesas falsas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "despotismo ilustrado",
+    "definicion": "Forma de gobierno absoluto reformista del siglo XVIII.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dialéctica",
+    "definicion": "Método histórico hegeliano y marxista de análisis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diáspora",
+    "definicion": "Dispersión forzada de un pueblo como el judío.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "doctrina monroe",
+    "definicion": "Política de EE.UU. que rechazó la intervención europea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "enciclopedismo",
+    "definicion": "Movimiento intelectual francés que recopiló el saber.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "espartaquismo",
+    "definicion": "Movimiento revolucionario alemán de Rosa Luxemburgo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estamentalismo",
+    "definicion": "Sistema social del Antiguo Régimen en tres estamentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "etnocentrismo",
+    "definicion": "Visión que juzga otras culturas desde la propia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eurocentrismo",
+    "definicion": "Tendencia a ver la historia desde la perspectiva europea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "falangismo",
+    "definicion": "Movimiento fascista español de José Antonio Primo de Rivera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "feudatario",
+    "definicion": "Vasallo que recibía un feudo a cambio de servicio militar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fisiocratismo",
+    "definicion": "Escuela económica que creía que la riqueza venía de la tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "forismo",
+    "definicion": "Sistema de derechos históricos en el País Vasco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "francmasonería",
+    "definicion": "Sociedad secreta que influyó en las revoluciones liberales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "ghibelino",
+    "definicion": "Facción italiana medieval que apoyaba al Emperador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "girondino",
+    "definicion": "Facción moderada de la Revolución Francesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "glasnost",
+    "definicion": "Política de transparencia de Gorbachov en la URSS.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gobernar",
+    "definicion": "Acción de dirigir el Estado que fue monopolio real.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gramscismo",
+    "definicion": "Teoría política del marxista italiano Antonio Gramsci.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hegelianismo",
+    "definicion": "Corriente filosófica de Hegel que influyó en Marx.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "heliocéntrico",
+    "definicion": "Modelo astronómico de Copérnico que desafió a la Iglesia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hegemonía",
+    "definicion": "Dominio de una clase o nación sobre otras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "historiografía",
+    "definicion": "Estudio de cómo se ha escrito y contado la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hugonote",
+    "definicion": "Protestante francés perseguido en el siglo XVI y XVII.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iconoclasia",
+    "definicion": "Movimiento que destruyó imágenes religiosas en Bizancio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "imperialismo",
+    "definicion": "Expansión territorial y económica de potencias europeas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "internacionalismo",
+    "definicion": "Movimiento obrero que unía trabajadores de todo el mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "irredentismo",
+    "definicion": "Movimiento para recuperar territorios de habla propia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iusnaturalismo",
+    "definicion": "Teoría de que existen leyes naturales anteriores al Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jacobinismo",
+    "definicion": "Radicalismo igualitario surgido en la Revolución Francesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jansenismo",
+    "definicion": "Corriente católica rigorista condenada por el Papa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jesucristo",
+    "definicion": "Figura que dividió el tiempo histórico en a.C. y d.C.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "josefinismo",
+    "definicion": "Política regalista del emperador José II de Austria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junkerismo",
+    "definicion": "Clase terrateniente prusiana que apoyó el militarismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "komintern",
+    "definicion": "Internacional Comunista fundada por Lenin en 1919.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kulak",
+    "definicion": "Campesino rico soviético liquidado en la colectivización.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kronstadt",
+    "definicion": "Rebelión de marineros soviéticos reprimida por Lenin.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kerensky",
+    "definicion": "Jefe del gobierno provisional ruso antes de Lenin.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kolkhoz",
+    "definicion": "Granja colectiva soviética forzada bajo Stalin.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "leninismo",
+    "definicion": "Adaptación del marxismo hecha por Lenin para la revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "legitimismo",
+    "definicion": "Defensa del derecho dinástico hereditario al trono.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liberalismo",
+    "definicion": "Doctrina que exaltó la libertad individual frente al Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luddismo",
+    "definicion": "Movimiento que destruyó máquinas para frenar el progreso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lusofonia",
+    "definicion": "Herencia cultural de los países colonizados por Portugal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maniqueismo",
+    "definicion": "Religión persa que dividía el mundo en bien y mal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maoísmo",
+    "definicion": "Variante china del marxismo-leninismo de Mao Zedong.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "marxismo",
+    "definicion": "Teoría de Karl Marx sobre el materialismo histórico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mercantilismo",
+    "definicion": "Política económica colonial de acumulación de metales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "menchevique",
+    "definicion": "Facción moderada del partido socialdemócrata ruso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neoconservadurismo",
+    "definicion": "Movimiento político de derecha surgido en EE.UU. en los 70.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nepotismo",
+    "definicion": "Favoritismo a parientes en cargos públicos desde el papado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nihilismo",
+    "definicion": "Movimiento ruso que negaba toda autoridad y tradición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nomenklatura",
+    "definicion": "Elite burocrática privilegiada del sistema soviético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "normando",
+    "definicion": "Pueblo vikingo que conquistó Inglaterra en 1066.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Ave de las pampas presente en la vida precolombina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol usado en construcciones de la época colonial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñería",
+    "definicion": "a Ñ. Exceso de minuciosidad en el análisis histórico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "a Ñ. Cultivo africano trasladado por esclavos a América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. Plato traído al Río de la Plata por inmigrantes italianos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oligarquía",
+    "definicion": "Gobierno de pocos que concentran poder y riqueza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ontología",
+    "definicion": "Base filosófica de los sistemas históricos de pensamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oportunismo",
+    "definicion": "Posición política que cambia según las circunstancias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orientalismo",
+    "definicion": "Visión occidental distorsionada de las culturas orientales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ostracismo",
+    "definicion": "Exilio decidido por votación popular en la democracia ateniense.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "panamericanismo",
+    "definicion": "Movimiento que buscó la unión política de América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "parlamentarismo",
+    "definicion": "Sistema donde el gobierno depende del parlamento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paternalismo",
+    "definicion": "Relación de poder que trata a los gobernados como niños.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "patrimonialismo",
+    "definicion": "Sistema donde el gobernante trata el Estado como propio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "perestroika",
+    "definicion": "Reforma económica de Gorbachov que disolvió la URSS.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quietismo",
+    "definicion": "Movimiento místico que rechazó la acción política.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quijotismo",
+    "definicion": "Idealismo utópico en movimientos históricos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinto",
+    "definicion": "Impuesto de la Corona española sobre metales americanos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilombismo",
+    "definicion": "Resistencia de esclavos fugitivos en el Brasil colonial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quirinal",
+    "definicion": "Centro del poder político italiano desde la Unificación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "regalismo",
+    "definicion": "Doctrina que subordinaba la Iglesia al poder real.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "republicanismo",
+    "definicion": "Movimiento que luchó contra las monarquías.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "revisionismo",
+    "definicion": "Corriente que revisó y moderó el marxismo ortodoxo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "roca",
+    "definicion": "Presidente argentino que consolidó el Estado a fines del XIX.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rosismo",
+    "definicion": "Sistema político de Juan Manuel de Rosas en Argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "saint simonismo",
+    "definicion": "Socialismo utópico del conde Saint-Simon.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sanscrito",
+    "definicion": "Lengua sagrada de la India que reveló las culturas védicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "señorio",
+    "definicion": "Territorio bajo dominio de un noble medieval.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sindicalismo",
+    "definicion": "Movimiento obrero organizado en sindicatos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "soberanismo",
+    "definicion": "Movimiento que defiende la soberanía plena de una nación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tacitismo",
+    "definicion": "Arte de gobernar inspirado en el historiador romano Tácito.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "teocracia",
+    "definicion": "Sistema donde el poder político y religioso se fusionan.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "termidoriano",
+    "definicion": "Reacción moderada que terminó el Terror en la Revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "titoísmo",
+    "definicion": "Comunismo yugoslavo independiente de la URSS.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trotskismo",
+    "definicion": "Corriente marxista opuesta al estalinismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultramontanismo",
+    "definicion": "Corriente que defendía el poder absoluto del Papa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unitarismo",
+    "definicion": "Sistema político que centraliza el poder en el Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universalismo",
+    "definicion": "Tendencia a imponer valores propios como globales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utopismo",
+    "definicion": "Socialismo que propuso modelos sociales sin base real.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uribismo",
+    "definicion": "Movimiento político colombiano surgido con Álvaro Uribe.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vanguardismo",
+    "definicion": "Movimiento artístico y político de ruptura con la tradición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vasallaje",
+    "definicion": "Relación de dependencia del vasallo hacia el señor feudal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velayat",
+    "definicion": "Principio islámico de gobierno de los juristas en Irán.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vendetta",
+    "definicion": "Venganza de sangre tradicional en culturas mediterráneas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "virreinato",
+    "definicion": "Unidad administrativa colonial española en América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "weberismo",
+    "definicion": "Sociología de Max Weber sobre burocracia y capitalismo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whiggismo",
+    "definicion": "Interpretación de la historia como progreso liberal.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wilhelminismo",
+    "definicion": "Período imperial alemán bajo Guillermo II.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wittfogel",
+    "definicion": "Teórico del despotismo oriental y el control del agua.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wolfowitz",
+    "definicion": "Ideólogo neoconservador del gobierno de Bush.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenofobia",
+    "definicion": "Rechazo al extranjero que impulsó guerras y purgas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "ximenez",
+    "definicion": "Cardenal inquisidor español de Isabel la Católica.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "texcoco",
+    "definicion": "Aliado azteca convertido en clave para Cortés.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "saxones",
+    "definicion": "Pueblo germánico que formó la base de Inglaterra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mexica",
+    "definicion": "Nombre propio de los aztecas conquistados por España.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yihad",
+    "definicion": "Concepto islámico de esfuerzo, a veces interpretado como guerra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "ayllu",
+    "definicion": "Célula familiar comunitaria del Imperio Inca.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoruba",
+    "definicion": "Pueblo africano esclavo que preservó su cultura en Brasil.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeltsin",
+    "definicion": "Primer presidente ruso que sucedió a la URSS.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yucatan",
+    "definicion": "Epicentro de la civilización maya clásica.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zarismo",
+    "definicion": "Sistema autocrático ruso abolido en la Revolución de 1917.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zionismo",
+    "definicion": "Movimiento que creó el Estado de Israel en 1948.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoroastrismo",
+    "definicion": "Religión persa que influyó en el judaísmo y el cristianismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zugzwang",
+    "definicion": "Situación donde cualquier movimiento empeora la posición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zwinglismo",
+    "definicion": "Reforma protestante suiza de Ulrico Zuinglio.",
+    "tipo": "empieza"
+  }
+]

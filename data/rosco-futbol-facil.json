@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "arquero",
+    "definicion": "Jugador que protege la portería e intenta evitar que entre el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "area",
+    "definicion": "Rectángulo blanco donde se penaliza con mano o falta grave.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "asistencia",
+    "definicion": "Pase que facilita que un compañero marque un gol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "ataque",
+    "definicion": "Grupo de jugadores que busca marcar goles en el equipo contrario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arbitro",
+    "definicion": "Persona que dirige el partido y hace cumplir las reglas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "balon",
+    "definicion": "Esfera de cuero o plástico que se patean en el fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "banco",
+    "definicion": "Lugar donde se sientan los jugadores suplentes esperando entrar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barrera",
+    "definicion": "Línea de jugadores que se forman para defender un tiro libre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boca",
+    "definicion": "Equipo argentino muy popular, conocido como Boca Juniors.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boton",
+    "definicion": "Insignia pequeña que llevan los capitanes de los equipos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cancha",
+    "definicion": "Campo rectangular donde se juega el fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "capit",
+    "definicion": "Líder de un equipo que lleva brazalete distintivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "carrera",
+    "definicion": "Movimiento rápido de un jugador para alcanzar el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "celeste",
+    "definicion": "Color de la camiseta de la selección argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "centro",
+    "definicion": "Pase lateral hacia el área rival desde las bandas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "defensa",
+    "definicion": "Jugador que protege la portería propia evitando goles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "delantero",
+    "definicion": "Jugador ofensivo cuya función principal es marcar goles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "deporte",
+    "definicion": "Actividad física competitiva, el fútbol es uno de los más populares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diagonal",
+    "definicion": "Pase inclinado que atrapa desprevenido al rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "disciplina",
+    "definicion": "Orden y cumplimiento de reglas en un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "equipo",
+    "definicion": "Conjunto de once jugadores que juegan juntos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "entrada",
+    "definicion": "Ticket que compran los espectadores para ver el partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "entrenador",
+    "definicion": "Persona que dirige y prepara técnicamente al equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esquina",
+    "definicion": "Bandera en los ángulos del campo, también el tiro de córner.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estadio",
+    "definicion": "Gran estructura donde se juegan los partidos de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "falta",
+    "definicion": "Infracción de las reglas del juego penalizada con un tiro libre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fase",
+    "definicion": "Etapa de una competencia o torneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fifa",
+    "definicion": "Organización mundial que rige las reglas del fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "figura",
+    "definicion": "Jugador estrella o más destacado del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "final",
+    "definicion": "Último partido de una competencia donde se define el campeón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gol",
+    "definicion": "Anotación que ocurre cuando el balón entra completamente en la portería.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "goleada",
+    "definicion": "Victoria con muchos goles de diferencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "goleador",
+    "definicion": "Delantero que destaca por su capacidad de anotar muchos goles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "grada",
+    "definicion": "Asientos escalonados donde se sientan los espectadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guante",
+    "definicion": "Equipo de protección que usa el arquero en las manos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hinchada",
+    "definicion": "Conjunto de aficionados apasionados de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hincha",
+    "definicion": "Aficionado que sigue apasionadamente a un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "historia",
+    "definicion": "Récord y trayectoria de un equipo a lo largo del tiempo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holanda",
+    "definicion": "País europeo con tradición de buen fútbol técnico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "honor",
+    "definicion": "Prestigio y respeto que gana un equipo por sus logros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "independiente",
+    "definicion": "Equipo argentino de Avellaneda muy ganador y tradicional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inesperado",
+    "definicion": "Resultado sorpresivo que no se esperaba en un partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "infraccion",
+    "definicion": "Violación de una regla que resulta en penalización.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "interception",
+    "definicion": "Acción de interceptar un pase antes de que llegue al compañero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intensidad",
+    "definicion": "Fuerza y energía con que se juega un partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juego",
+    "definicion": "Acción de practicar fútbol en la cancha.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jugada",
+    "definicion": "Secuencia de movimientos coordinados para intentar anotar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jugador",
+    "definicion": "Persona que practica fútbol en un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jueves",
+    "definicion": "Día común en que se juegan partidos de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junta",
+    "definicion": "Directiva que administra un club de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kavani",
+    "definicion": "Futbolista uruguayo goleador de nivel internacional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kicker",
+    "definicion": "Jugador que realiza lanzamientos de tiros libres o penales.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kick",
+    "definicion": "Patada o golpe del balón en el fútbol.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kempes",
+    "definicion": "Futbolista argentino legendario campeón del mundo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "koeman",
+    "definicion": "Futbolista holandés convertido en entrenador de élite.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lateral",
+    "definicion": "Jugador defensivo que cubre los costados del campo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "ligadura",
+    "definicion": "Vendaje o cinta que usan los jugadores en tobillos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liga",
+    "definicion": "Competencia regular donde juegan todos contra todos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "linea",
+    "definicion": "Demarcación blanca del campo o fila de jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "linier",
+    "definicion": "Árbitro asistente que marca los fueras de juego y saque de banda.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "magia",
+    "definicion": "Habilidad extraordinaria en el manejo del balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "magnifico",
+    "definicion": "Jugador o equipo que juega de forma espectacular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "malicia",
+    "definicion": "Astucia para engañar al rival dentro del juego.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mano",
+    "definicion": "Infracción cuando se toca el balón con la mano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "marcador",
+    "definicion": "Tablero donde se muestra el resultado y tiempo del partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nacional",
+    "definicion": "Selección de jugadores que representa a un país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neymar",
+    "definicion": "Futbolista brasileño de talla mundial muy talentoso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nino",
+    "definicion": "Jugador joven que destaca por su talento temprano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nocaut",
+    "definicion": "Gol de forma tan brillante que deja sin reacción al rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "numeracion",
+    "definicion": "Sistema de números en las camisetas de los jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Símbolo de Argentina, país con gran tradición futbolística.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "a Ñ. Ave que representa a los equipos argentinos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñiquicia",
+    "definicion": "a Ñ. Detalles técnicos y tácticos de un juego.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Jugador que juega de forma muy correcta pero sin creatividad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñería",
+    "definicion": "a Ñ. Forma de jugar muy técnica pero aburrida y pasiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ofensiva",
+    "definicion": "Acción de atacar e intentar marcar goles al rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "olimpiada",
+    "definicion": "Torneo de fútbol en los juegos olímpicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "onda",
+    "definicion": "Pasión y entusiasmo de los aficionados en el estadio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ondulacion",
+    "definicion": "Movimiento del balón cuando toma una trayectoria curva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orden",
+    "definicion": "Organización táctica de los jugadores en el campo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pais",
+    "definicion": "Nación que compite en torneos internacionales de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pase",
+    "definicion": "Acción de enviar el balón a un compañero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "patada",
+    "definicion": "Golpe dado con el pie al balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "penal",
+    "definicion": "Sanción máxima que se ejecuta desde los once metros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pelota",
+    "definicion": "Otro nombre que se le da al balón de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quince",
+    "definicion": "Número de jugadores que debe tener un equipo completo en el campo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinceavo",
+    "definicion": "Posición ordinal en una tabla de clasificación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinientos",
+    "definicion": "Cantidad de goles que ha marcado un futbolista en su carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilla",
+    "definicion": "Parte inferior del zapato que toca el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quincena",
+    "definicion": "Período de dos semanas entre partidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rafa",
+    "definicion": "Ráfaga de goles consecutivos de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rabia",
+    "definicion": "Pasión e intensidad que juegan los futbolistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "racha",
+    "definicion": "Período de buenos o malos resultados consecutivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ranking",
+    "definicion": "Posición de un equipo en la tabla de clasificación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "raya",
+    "definicion": "Línea blanca del campo que marca los límites.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sabado",
+    "definicion": "Día de la semana cuando comúnmente se juegan muchos partidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "saque",
+    "definicion": "Forma de reanudar el juego después de una pausa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sede",
+    "definicion": "Estadio donde juega un equipo de manera local.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "semana",
+    "definicion": "Período entre dos jornadas de competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sensacion",
+    "definicion": "Jugador joven que causa impacto inmediatamente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tabla",
+    "definicion": "Clasificación que muestra los puntos de cada equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tacaña",
+    "definicion": "Defensa cerrada que dificulta el ataque rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tactica",
+    "definicion": "Plan y estrategia que usa un equipo para jugar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "talento",
+    "definicion": "Habilidad natural de un futbolista para jugar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tarjeta",
+    "definicion": "Cartulina roja o amarilla que saca el árbitro como sanción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "undécimo",
+    "definicion": "Posición número once, generalmente el puntero izquierdo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uniforme",
+    "definicion": "Conjunto de camiseta, pantalón y medias de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "union",
+    "definicion": "Cohesión y trabajo en equipo de los jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universidad",
+    "definicion": "Institución que también tiene equipos de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uruguayo",
+    "definicion": "Jugador o selección del país Uruguay, pionero del fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vaca",
+    "definicion": "Equipo poco ofensivo que solo defiende y contraataca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vallejo",
+    "definicion": "Futbolista peruano conocido por su gol importante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "varias",
+    "definicion": "Múltiples ocasiones de gol en un partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velocidad",
+    "definicion": "Rapidez de los jugadores en sus desplazamientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "victoria",
+    "definicion": "Triunfo de un equipo sobre otro en un partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wanda",
+    "definicion": "Estadio de Atlético Madrid donde juegan sus partidos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whistle",
+    "definicion": "Sonido del silbato del árbitro para dirigir el juego.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "white",
+    "definicion": "Color blanco de líneas y accesorios en el campo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wiggle",
+    "definicion": "Movimiento ondulante del balón en su trayectoria.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "winning",
+    "definicion": "Espíritu ganador y mentalidad de victoria.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xavi",
+    "definicion": "Futbolista español legendario del Barcelona.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "extremo",
+    "definicion": "Jugador ofensivo que juega en los costados del campo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exito",
+    "definicion": "Logro importante de un equipo o jugador.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "excelencia",
+    "definicion": "Calidad superior del juego de un equipo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exibicion",
+    "definicion": "Partido amistoso que no cuenta para la competencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yerry",
+    "definicion": "Futbolista colombiano de gran potencial defensivo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yo",
+    "definicion": "Decisión personal de un jugador de ser protagonista.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "youth",
+    "definicion": "Cantera o equipo de divisiones menores de un club.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yesterday",
+    "definicion": "Referencia a partidos o épocas pasadas del fútbol.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yearn",
+    "definicion": "Anhelo de ganar un torneo o campeonato.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zalatan",
+    "definicion": "Futbolista sueco legendario por su fuerza y gol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zagal",
+    "definicion": "Defensa central que resguarda la portería.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zamora",
+    "definicion": "Premio al portero menos goleado de la temporada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zancada",
+    "definicion": "Movimiento largo de pierna para alcanzar el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zozobra",
+    "definicion": "Incertidumbre y angustia en los hinchas ante un resultado.",
+    "tipo": "empieza"
+  }
+]

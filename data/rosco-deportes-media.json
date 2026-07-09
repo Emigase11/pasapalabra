@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "agonista",
+    "definicion": "Músculo que realiza movimiento principal en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "aero",
+    "definicion": "Posición aerodinámica en ciclismo de contrarreloj.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agarre",
+    "definicion": "Forma de agarrar una raqueta o bastón deportivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agosadero",
+    "definicion": "Lugar donde descansan atletas entre entrenamientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agonista",
+    "definicion": "Deportista que compite en una disciplina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "backhand",
+    "definicion": "Golpe de revés en tenis con la espalda hacia la red.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "backstroke",
+    "definicion": "Estilo de nado de espalda en natación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biathlon",
+    "definicion": "Competencia combinada de esquí y tiro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "breaststroke",
+    "definicion": "Estilo de nado de pecho sincronizado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "breakpoint",
+    "definicion": "Oportunidad de romper el saque en tenis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "calienta",
+    "definicion": "Preparación muscular antes de competir.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cambio",
+    "definicion": "Entrada de un atleta suplente en relevos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cluch",
+    "definicion": "Momento decisivo de una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "contrarreloj",
+    "definicion": "Modalidad donde cada atleta corre solo contra el tiempo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "counterattack",
+    "definicion": "Movimiento rápido de ataque sorpresivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "deport",
+    "definicion": "Conducta deportiva y respeto en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "descanso",
+    "definicion": "Período de recuperación entre entrenamientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "doping",
+    "definicion": "Uso ilegal de sustancias para mejorar rendimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dropshot",
+    "definicion": "Golpe suave que cae cerca de la red.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dorsales",
+    "definicion": "Números en la espalda para identificar atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "endurance",
+    "definicion": "Capacidad de resistencia en pruebas largas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "espacio",
+    "definicion": "Área del terreno donde juega un deportista.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esprín",
+    "definicion": "Aceleración final en una carrera de fondo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estilo",
+    "definicion": "Manera particular de ejecutar técnica deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estirada",
+    "definicion": "Estiramiento muscular para prevenir lesiones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "floja",
+    "definicion": "Cuerda sin tensión en tenis o badminton.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "forehand",
+    "definicion": "Golpe de derecha en tenis hacia adelante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fosbury",
+    "definicion": "Técnica de salto alto hacia atrás.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "freestyle",
+    "definicion": "Estilo libre en natación o esquí.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "final",
+    "definicion": "Último enfrentamiento de una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gapper",
+    "definicion": "Jugador que cubre espacios defensivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "golpe",
+    "definicion": "Contacto del implemento con el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gran",
+    "definicion": "Torneo importante como Grand Slam en tenis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gripe",
+    "definicion": "Enfermedad que afecta el rendimiento atlético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "giros",
+    "definicion": "Rotaciones corporales en esquí o gimnasia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hat",
+    "definicion": "Tres goles anotados por un jugador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hamstring",
+    "definicion": "Músculo posterior del muslo en deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "handstand",
+    "definicion": "Posición de manos en gimnasia acrobática.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hard",
+    "definicion": "Superficie rígida en canchas de tenis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hattrick",
+    "definicion": "Tres logros consecutivos de un atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "indoor",
+    "definicion": "Competencia realizada en lugar cubierto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "impacto",
+    "definicion": "Choque del implemento con el proyectil.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intenso",
+    "definicion": "Nivel máximo de esfuerzo en entrenamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inclinación",
+    "definicion": "Ángulo del cuerpo en posiciones técnicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isocinética",
+    "definicion": "Técnica de entrenamiento de fuerza constante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jab",
+    "definicion": "Golpe rápido corto en boxeo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jumping",
+    "definicion": "Saltos repetitivos en entrenamiento de potencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junior",
+    "definicion": "Categoría de competencia para menores de edad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jinete",
+    "definicion": "Deportista que monta caballos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jackknife",
+    "definicion": "Posición en clavados muy flexionada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kayo",
+    "definicion": "Golpe noquante que deja inconsciente.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kick",
+    "definicion": "Patada en artes marciales o natación.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "knockout",
+    "definicion": "Victoria por nocaut en boxeo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "knee",
+    "definicion": "Rodilla en movimientos de deportistas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kip",
+    "definicion": "Movimiento en anillas de gimnasia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lanzador",
+    "definicion": "Atleta que lanza en atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "ligne",
+    "definicion": "Posición en carrera de caballos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lob",
+    "definicion": "Golpe alto que sobrepasa el rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "long",
+    "definicion": "Distancia larga en competencias atléticas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "logotipo",
+    "definicion": "Símbolo de un equipo o federación deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "medición",
+    "definicion": "Registro de tiempo o distancia en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "meta",
+    "definicion": "Línea de llegada en una carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "momentum",
+    "definicion": "Ventaja ganada durante una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mudanza",
+    "definicion": "Cambio de posición defensiva rápido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "muscular",
+    "definicion": "Relativo al desarrollo de músculos atlético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "naranja",
+    "definicion": "Color de pelotas de tenis para mejor visión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neutral",
+    "definicion": "Posición balanceada en técnica deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "noche",
+    "definicion": "Hora de competencias en iluminación artificial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nuca",
+    "definicion": "Parte trasera del cuello en deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nutricion",
+    "definicion": "Alimentación adecuada para rendimiento atlético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Atleta que juega con demasiada técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Ave símbolo de velocidad en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñique",
+    "definicion": "a Ñ. Detalle técnico importante en ejecución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol de madera dura en bastones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñería",
+    "definicion": "a Ñ. Forma de jugar con exceso de técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "outdoor",
+    "definicion": "Competencia realizada al aire libre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oficial",
+    "definicion": "Persona que certifica resultados válidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oponente",
+    "definicion": "Rival directo en una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "overstep",
+    "definicion": "Línea de falta en atletismo de lanzamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "overhead",
+    "definicion": "Golpe por encima de la cabeza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pasada",
+    "definicion": "Movimiento de pase a otro atleta en relevo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "peak",
+    "definicion": "Punto máximo de forma física de un atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "penalti",
+    "definicion": "Castigo por infracción en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "perspectiva",
+    "definicion": "Ángulo de visión en un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "plaqueta",
+    "definicion": "Célula sanguínea afectada por esfuerzo extremo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quédarse",
+    "definicion": "Mantenerse en posición defensiva sin avanzar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queja",
+    "definicion": "Reclamo sobre decisión de árbitro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queme",
+    "definicion": "Agotamiento total de energía en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quiente",
+    "definicion": "Brazada rápida en nado sincronizado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quicio",
+    "definicion": "Pivote o centro de rotación corporal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "raqueta",
+    "definicion": "Implemento usado en tenis o badminton.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "recorrido",
+    "definicion": "Trayecto completo en una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "relevista",
+    "definicion": "Atleta que participa en carrera de relevos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "resistencia",
+    "definicion": "Capacidad de aguantar esfuerzo prolongado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ritmo",
+    "definicion": "Velocidad sostenida durante una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "salida",
+    "definicion": "Momento cuando comienza una carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "segundo",
+    "definicion": "Posición segunda en una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "semifinal",
+    "definicion": "Ronda previa a la final de torneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "servicio",
+    "definicion": "Saque inicial que hace un jugador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "spurt",
+    "definicion": "Aceleración repentina en carrera de fondo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "táctico",
+    "definicion": "Relativo a la estrategia de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "técnica",
+    "definicion": "Forma correcta de ejecutar movimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tempo",
+    "definicion": "Ritmo sostenido de juego del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tercera",
+    "definicion": "Posición tercera en clasificación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "timeout",
+    "definicion": "Pausa solicitada durante competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultramaratón",
+    "definicion": "Carrera mucho más larga que maratón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uniforme",
+    "definicion": "Ropa estándar de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universal",
+    "definicion": "Que se aplica en todos los deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "upper",
+    "definicion": "Golpe hacia arriba en boxeo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "usain",
+    "definicion": "Velocista jamaicano más rápido del mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velocista",
+    "definicion": "Atleta especializado en carreras cortas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vencimiento",
+    "definicion": "Momento donde se confirma la derrota.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "ventaja",
+    "definicion": "Posición favorable durante competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "verificacion",
+    "definicion": "Confirmación de resultado por árbitros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volante",
+    "definicion": "Proyectil usado en badminton.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wattage",
+    "definicion": "Potencia generada por atleta en vatios.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "walkover",
+    "definicion": "Victoria sin competir en torneo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "warmup",
+    "definicion": "Calentamiento previo a competencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "webbing",
+    "definicion": "Membrana entre dedos en nado.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whipsaw",
+    "definicion": "Movimiento de rebote en saque.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenofobia",
+    "definicion": "Rechazo hacia atletas extranjeros.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xbox",
+    "definicion": "Videojuego con simuladores deportivos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xiphoid",
+    "definicion": "Estructura ósea en torso atleta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "x-factor",
+    "definicion": "Elemento sorpresa en competencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerosis",
+    "definicion": "Deshidratación en atletas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yardage",
+    "definicion": "Distancia medida en yardas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yearbook",
+    "definicion": "Anuario de estadísticas deportivas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeti",
+    "definicion": "Escalador legendario de montaña.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoke",
+    "definicion": "Barra de levantamiento en halterofilia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "youth",
+    "definicion": "Categoría de menores en deportes.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zeitgeist",
+    "definicion": "Espíritu competitivo de una era.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zigzag",
+    "definicion": "Movimiento diagonal en esquí slalom.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zonificar",
+    "definicion": "Asignar espacios defensivos a jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zonal",
+    "definicion": "Defensa que cubre un área no un rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoom",
+    "definicion": "Acercamiento de cámara en transmisiones.",
+    "tipo": "empieza"
+  }
+]

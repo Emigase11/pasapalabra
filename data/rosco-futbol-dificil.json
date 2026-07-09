@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "arrascaeta",
+    "definicion": "Futbolista uruguayo centrocampista de Liverpool y Slavia Praga.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "atalanta",
+    "definicion": "Equipo italiano revelación con juego ofensivo espectacular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "antognoni",
+    "definicion": "Futbolista italiano legendario de la Juventus.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "alineacion",
+    "definicion": "Formación táctica precisa en la que se posiciona el equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anticipacion",
+    "definicion": "Capacidad de prever el movimiento del rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bergkamp",
+    "definicion": "Delantero holandés de técnica refinada del Arsenal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bodaun",
+    "definicion": "Futbolista alemán mediocampista defensivo muy táctico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "benzema",
+    "definicion": "Delantero francés ganador de Champions con Real Madrid.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "benitez",
+    "definicion": "Entrenador español táctico conocido por sus ajustes defensivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "beckenbauer",
+    "definicion": "Defensa alemán legendario que revolucionó la posición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cantona",
+    "definicion": "Futbolista francés controvertido pero extraordinariamente talentoso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "costacurta",
+    "definicion": "Defensa italiano central de gran estructura física.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cruyff",
+    "definicion": "Futbolista holandés revolucionario del Ajax y Barcelona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "contra",
+    "definicion": "Táctica donde se ataca al rival cuando pierde el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "contextura",
+    "definicion": "Estructura física de un futbolista adaptada a su posición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "desmarc",
+    "definicion": "Movimiento ofensivo para evitar la marca rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "descanso",
+    "definicion": "Intervalo de cuarenta y cinco minutos entre tiempos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dalglish",
+    "definicion": "Futbolista escocés legendario del Liverpool.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinamica",
+    "definicion": "Movimiento y ritmo de juego de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dijkstra",
+    "definicion": "Algoritmo usado para analizar rutas de pases óptimas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "effenberg",
+    "definicion": "Centrocampista alemán del Bayern de carácter fuerte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eusebio",
+    "definicion": "Futbolista portugués legendario de la década de 1960.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estrategia",
+    "definicion": "Plan a largo plazo que implementa un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "enganche",
+    "definicion": "Posición de delantero centro que distribuye juego ofensivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "enmascarado",
+    "definicion": "Delantero que se posiciona de forma engañosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "foneca",
+    "definicion": "Entrenador portugués táctico que ganó con Porto y Chelsea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "figueroa",
+    "definicion": "Futbolista chileno defensa legendario del fútbol suramericano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "figo",
+    "definicion": "Futbolista portugués que jugó en Barcelona y Real Madrid.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fineses",
+    "definicion": "Táctica de cerrarse en defensa durante los últimos minutos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "florentino",
+    "definicion": "Término para juego lateral sin ambición ofensiva clara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gentile",
+    "definicion": "Defensa italiano considerado uno de los mejores de su época.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gattuso",
+    "definicion": "Centrocampista italiano defensivo de juego muy viril.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guardiola",
+    "definicion": "Entrenador español conocido por su control del juego.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gestorama",
+    "definicion": "Sistema de análisis estadístico del rendimiento futbolístico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gegenpressing",
+    "definicion": "Presión inmediata tras pérdida de balón del rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hierro",
+    "definicion": "Defensa español capitán del Real Madrid y su selección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hoeness",
+    "definicion": "Futbolista alemán leyenda del Bayern con gran potencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hagi",
+    "definicion": "Futbolista rumano de habilidad extraordinaria y talento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holding",
+    "definicion": "Centrocampista defensivo que actúa como protector de defensa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hábito",
+    "definicion": "Patrón repetitivo en el movimiento de los jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "ibrahimovic",
+    "definicion": "Delantero sueco de gran potencia física y técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intercesor",
+    "definicion": "Jugador que actúa entre líneas ofensivas y defensivas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "india",
+    "definicion": "Selección de país emergente en desarrollo futbolístico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "injuria",
+    "definicion": "Ofensa verbal que resulta en amonestación del árbitro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "integridad",
+    "definicion": "Cualidad de un equipo que mantiene su estructura táctica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jardim",
+    "definicion": "Entrenador portugués táctico ganador con Mónaco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jairzinho",
+    "definicion": "Futbolista brasileño ala del mundial 1970.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jomartins",
+    "definicion": "Defensa que realiza marcaje hombre a hombre constante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jurgen",
+    "definicion": "Entrenador alemán conocido por intensidad en el juego.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jordao",
+    "definicion": "Futbolista portugués centrocampista de técnica depurada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "klinsman",
+    "definicion": "Delantero alemán que ganó Mundiales como jugador.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "klinsmann",
+    "definicion": "Futbolista alemán goleador de selecciones europeas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kompany",
+    "definicion": "Defensa belga capitán del Manchester City.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kahn",
+    "definicion": "Portero alemán legendario del Bayern Munich.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kalvin",
+    "definicion": "Centrocampista holandés defensivo de estructura sólida.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "laudrup",
+    "definicion": "Centrocampista danés técnico de Barcelona y Real Madrid.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "laskowski",
+    "definicion": "Defensa polaco centrocampista defensivo muy físico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lobanovski",
+    "definicion": "Entrenador soviético precursor del fútbol científico moderno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lato",
+    "definicion": "Lateral izquierdo polaco de estructura defensiva envidiable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "ligera",
+    "definicion": "Táctica ofensiva de ataque rápido con pases precisos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mourinho",
+    "definicion": "Entrenador portugués ganador de Ligas de Campeones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maldini",
+    "definicion": "Defensa italiano leyenda del Milan por muchas décadas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "matthäus",
+    "definicion": "Centrocampista alemán universal que ganó Mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "meandreo",
+    "definicion": "Patrón de juego lateral que evita la definición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "modulacion",
+    "definicion": "Ajuste táctico durante el transcurso del partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neeskens",
+    "definicion": "Centrocampista holandés del Ajax precursor del mediocampismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nesta",
+    "definicion": "Defensa italiano central de estructura defensiva sólida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nantes",
+    "definicion": "Club francés ganador de Ligas francesas consecutivas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nemesio",
+    "definicion": "Árbitro de gran trayectoria en competencias internacionales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "niclaes",
+    "definicion": "Defensa holandés especialista en coberturas defensivas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Futbolista que juega con demasiada corrección técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Símbolo de la selección argentina en su historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñiquicia",
+    "definicion": "a Ñ. Pequeño detalle técnico que marca diferencia en el juego.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñería",
+    "definicion": "a Ñ. Forma de jugar caracterizada por exceso de técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol de madera dura metáfora de defensa inquebrantable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ortega",
+    "definicion": "Portero argentino que ganó Libertadores y Mercosur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "organización",
+    "definicion": "Estructura sistemática del equipo en diferentes fases.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ombudsman",
+    "definicion": "VAR encargado de supervisar decisiones arbitrales complejas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orquestador",
+    "definicion": "Centrocampista que dirije el juego desde el medio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orthoganal",
+    "definicion": "Movimiento de jugadores en ángulos perpendiculares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "piquet",
+    "definicion": "Defensa español que ganó múltiples títulos con Barcelona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "platini",
+    "definicion": "Futbolista francés ganador de Balón de Oro consecutivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "proactivo",
+    "definicion": "Equipo que adelanta su presión sin esperar el movimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pressing",
+    "definicion": "Presión coordinada del equipo sobre el rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "planificacion",
+    "definicion": "Preparación estratégica a medio y largo plazo de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quintessence",
+    "definicion": "Forma más pura de expresión del talento futbolístico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilombada",
+    "definicion": "Acción de juego caótica sin orden ni concierto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queda",
+    "definicion": "Movimiento donde se espera a que avance el rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "querencia",
+    "definicion": "Zona del campo donde un jugador se siente cómodo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queipo",
+    "definicion": "Defensa de era antigua que jugaba con gran corpulencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rijkaard",
+    "definicion": "Centrocampista holandés defensivo ganador de Champions.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "romario",
+    "definicion": "Delantero brasileño goleador que ganó Mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "redondo",
+    "definicion": "Centrocampista argentino con toque de balón extraordinario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rotura",
+    "definicion": "Momento donde se pierde la forma defensiva del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "recepcion",
+    "definicion": "Control del balón en el primer toque tras recibirlo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sammer",
+    "definicion": "Defensa alemán que revolucionó la posición central.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "senna",
+    "definicion": "Centrocampista defensivo brasileño de Brasil en Mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "schumacher",
+    "definicion": "Portero alemán controvertido de gran envergadura física.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sistema",
+    "definicion": "Estructura de juego adoptada por el equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "somoza",
+    "definicion": "Defensa español de defensa personal muy cercana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tigana",
+    "definicion": "Centrocampista francés dinámico del Bordeaux.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tigerspeelmannen",
+    "definicion": "Término holandés para futbolistas versátiles y completos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tassotti",
+    "definicion": "Lateral italiano defensor del AC Milan durante décadas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "transicion",
+    "definicion": "Fase donde se cambia de defensa a ataque o viceversa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "triangulacion",
+    "definicion": "Movimiento donde tres jugadores forman triángulo de apoyo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "univers",
+    "definicion": "Concepto de juego donde todo jugador domina todas posiciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uwe",
+    "definicion": "Futbolista alemán lateral defensivo de estructura robusta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "undercover",
+    "definicion": "Estrategia donde se oculta la verdadera formación táctica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultradefensiva",
+    "definicion": "Táctica con cinco defensores para cerrar completamente la portería.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unanimidad",
+    "definicion": "Acuerdo total en la táctica y ejecución del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "voeller",
+    "definicion": "Delantero alemán goleador de cabezazo extraordinario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vialli",
+    "definicion": "Delantero italiano ganador de Mundiales con selección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "varela",
+    "definicion": "Futbolista uruguayo capitán de selección mítico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "versatilidad",
+    "definicion": "Capacidad de un jugador para jugar en múltiples posiciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "verticalidad",
+    "definicion": "Capacidad de juego directo hacia portería contraria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "woller",
+    "definicion": "Delantero alemán potencia en cabeza y carrera.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wright",
+    "definicion": "Delantero inglés de velocidad explosiva y técnica.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wojtowicz",
+    "definicion": "Delantero polaco goleador de competencias europeas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whitehead",
+    "definicion": "Defensa inglés de gran autoridad en área.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "warnke",
+    "definicion": "Portero alemán de larga trayectoria profesional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "ximenez",
+    "definicion": "Futbolista español de técnica refinada y elegancia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xanthos",
+    "definicion": "Equipo que juega con sistema ofensivo de extremos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exposition",
+    "definicion": "Manera en que se muestra el juego ofensivo del equipo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "excavador",
+    "definicion": "Centrocampista defensivo que excava balones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exacerbacion",
+    "definicion": "Intensificación de la presión durante el juego.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yanez",
+    "definicion": "Futbolista argentino delantero de potencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yarmolenko",
+    "definicion": "Futbolista ucraniano extremo derecho polivalente.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yuen",
+    "definicion": "Centrocampista asiático de estructura robusta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yuan",
+    "definicion": "Futbolista chino que juega en ligas europeas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yantra",
+    "definicion": "Formación geométrica de posicionamiento defensivo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "ziber",
+    "definicion": "Futbolista alemán mediocampista defensivo de gran cobertura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zamora",
+    "definicion": "Portero español legendario del Real Madrid.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zubizarreta",
+    "definicion": "Portero español ganador de Mundiales y Ligas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zullo",
+    "definicion": "Lateral español defensivo de estructura robusta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zavaleta",
+    "definicion": "Futbolista paraguayo lateral defensivo de potencia.",
+    "tipo": "empieza"
+  }
+]

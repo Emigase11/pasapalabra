@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "austerlitz",
+    "definicion": "Batalla de 1805 donde Napoleón derrotó a Austria y Rusia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "armisticio",
+    "definicion": "Acuerdo para cesar el fuego que terminó la Primera Guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "aristocracia",
+    "definicion": "Clase noble que gobernó Europa durante siglos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anarquismo",
+    "definicion": "Movimiento político que rechaza el Estado y la autoridad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "ayacucho",
+    "definicion": "Batalla de 1824 que selló la independencia sudamericana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bastilla",
+    "definicion": "Prisión parisina cuya toma en 1789 inició la Revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bismarck",
+    "definicion": "Canciller prusiano que unificó Alemania en el siglo XIX.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bolchevique",
+    "definicion": "Facción revolucionaria rusa liderada por Lenin.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "borbón",
+    "definicion": "Dinastía francesa y española de la Edad Moderna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bustamante",
+    "definicion": "Político mexicano de la época de la independencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "capitalismo",
+    "definicion": "Sistema económico basado en la propiedad privada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "carta magna",
+    "definicion": "Documento inglés de 1215 que limitó el poder del rey.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "colonialismo",
+    "definicion": "Dominio político y económico de un país sobre otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "comunismo",
+    "definicion": "Sistema donde los medios de producción son colectivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "concordato",
+    "definicion": "Acuerdo entre el Vaticano y un Estado soberano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "declaracion",
+    "definicion": "Documento que proclamó la independencia de los EE.UU.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "desamortizacion",
+    "definicion": "Proceso de venta de bienes eclesiásticos en el siglo XIX.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "despotismo",
+    "definicion": "Forma de gobierno con poder absoluto sin límites.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diaspora",
+    "definicion": "Dispersión de un pueblo fuera de su territorio original.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dictadura",
+    "definicion": "Gobierno autoritario de una sola persona sin control.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "encomienda",
+    "definicion": "Sistema colonial que entregaba indios a colonos españoles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estoicismo",
+    "definicion": "Filosofía romana que influyó en el pensamiento occidental.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "etrusc",
+    "definicion": "Pueblo antiguo que habitó Italia antes que los romanos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "exodo",
+    "definicion": "Migración masiva de un pueblo desde su tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "expansionismo",
+    "definicion": "Política de ampliar el territorio de un Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fascismo",
+    "definicion": "Ideología totalitaria surgida en Italia con Mussolini.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "federalismo",
+    "definicion": "Sistema político que divide el poder entre estados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "feudo",
+    "definicion": "Territorio que un señor entregaba a un vasallo medieval.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "franquismo",
+    "definicion": "Dictadura española de Francisco Franco de 1939 a 1975.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frigia",
+    "definicion": "Antiguo reino de Asia Menor conocido por el rey Midas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "genocidio",
+    "definicion": "Exterminio sistemático de un grupo étnico o religioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guerrilla",
+    "definicion": "Forma de combate irregular contra un ejército mayor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guillotina",
+    "definicion": "Instrumento de decapitación masivo de la Revolución Francesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guelfo",
+    "definicion": "Facción italiana medieval partidaria del Papa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gulag",
+    "definicion": "Campo de trabajo forzado de la Unión Soviética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hegemonia",
+    "definicion": "Dominio político o militar de un Estado sobre otros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hereje",
+    "definicion": "Persona que contradecía la doctrina oficial de la Iglesia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "habsburgo",
+    "definicion": "Dinastía que gobernó Austria y España en la Edad Moderna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holocausto",
+    "definicion": "Exterminio sistemático de seis millones de judíos por los nazis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "humanismo",
+    "definicion": "Movimiento cultural del Renacimiento que valoró al ser humano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "imperialismo",
+    "definicion": "Política de dominar otros pueblos por la fuerza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "ilustracion",
+    "definicion": "Movimiento intelectual del siglo XVIII que exaltó la razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "indigenismo",
+    "definicion": "Movimiento político que reivindica los derechos indígenas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inquisicion",
+    "definicion": "Tribunal eclesiástico que persiguió la herejía en Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intifada",
+    "definicion": "Levantamiento popular palestino contra la ocupación israelí.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jacobino",
+    "definicion": "Miembro radical de la Revolución Francesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jansenismo",
+    "definicion": "Movimiento religioso que tensionó con la Iglesia Católica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jenofonte",
+    "definicion": "Historiador griego discípulo de Sócrates.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jesuitas",
+    "definicion": "Orden religiosa fundada por Ignacio de Loyola en 1540.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jornada",
+    "definicion": "Batalla o expedición militar en la historia española.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kruschev",
+    "definicion": "Líder soviético que enfrentó a EE.UU. en la crisis de los misiles.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kolak",
+    "definicion": "Campesino rico perseguido por Stalin.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kafka",
+    "definicion": "Escritor que retrató la burocracia opresiva del siglo XX.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kim",
+    "definicion": "Apellido de la dinastía que gobierna Corea del Norte.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kulak",
+    "definicion": "Terrateniente ruso liquidado durante la colectivización.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "laicismo",
+    "definicion": "Principio de separación del Estado y la Iglesia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "latifundio",
+    "definicion": "Gran propiedad de tierra que caracterizó la colonia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liberalismo",
+    "definicion": "Ideología que defiende la libertad individual frente al Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luddismo",
+    "definicion": "Movimiento que destruyó máquinas en la Revolución Industrial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lusitania",
+    "definicion": "Barco hundido en 1915 que aceleró la entrada de EE.UU. a la guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maquiavelo",
+    "definicion": "Pensador florentino que escribió El Príncipe.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "marsellesa",
+    "definicion": "Himno nacional francés surgido de la Revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mercantilismo",
+    "definicion": "Sistema económico colonial que acumulaba metales preciosos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mesopotomia",
+    "definicion": "Región entre los ríos Tigris y Éufrates cuna de civilización.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "monarca",
+    "definicion": "Gobernante hereditario de un reino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nacionalismo",
+    "definicion": "Ideología que exalta la identidad y soberanía de una nación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neokolonialismo",
+    "definicion": "Dominación económica moderna de países pobres por ricos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nobleza",
+    "definicion": "Clase social privilegiada de la Europa medieval.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nomada",
+    "definicion": "Pueblo sin asentamiento fijo que migra continuamente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nuremberg",
+    "definicion": "Ciudad alemana donde se juzgó a los criminales de guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Ave que poblaba las pampas donde vivían los pueblos originarios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol cuya madera usaron los colonos en construcciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. Comida traída por la inmigración italiana al cono sur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "a Ñ. Tubérculo cultivado por esclavos africanos en América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Término para describir un historiador demasiado detallista.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oligarquia",
+    "definicion": "Gobierno ejercido por un pequeño grupo privilegiado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "onu",
+    "definicion": "Organización de Naciones Unidas fundada en 1945.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "opresion",
+    "definicion": "Sometimiento de un pueblo por otro mediante la fuerza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "otan",
+    "definicion": "Alianza militar occidental creada tras la Segunda Guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ostracismo",
+    "definicion": "Exilio temporal votado por los ciudadanos en Atenas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "parlamento",
+    "definicion": "Institución legislativa nacida en la Inglaterra medieval.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "patriarca",
+    "definicion": "Jefe de una familia o comunidad religiosa histórica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "plebiscito",
+    "definicion": "Votación popular para decidir sobre asuntos del Estado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "populismo",
+    "definicion": "Movimiento político que apela directamente al pueblo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "protectorado",
+    "definicion": "Territorio dominado por otro Estado de forma oficial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quechua",
+    "definicion": "Lengua del Imperio Inca hablada por millones aún hoy.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilombo",
+    "definicion": "Comunidad de esclavos fugitivos en Brasil colonial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quirinal",
+    "definicion": "Colina de Roma sede del gobierno italiano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinto",
+    "definicion": "Impuesto colonial del veinte por ciento para la Corona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quorum",
+    "definicion": "Número mínimo requerido para votar en una asamblea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "republica",
+    "definicion": "Sistema de gobierno elegido por el pueblo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "renacimiento",
+    "definicion": "Período cultural del siglo XV que rescató valores clásicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reforma",
+    "definicion": "Movimiento religioso del siglo XVI que dividió el cristianismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rivadavia",
+    "definicion": "Primer presidente argentino de la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "romanticismo",
+    "definicion": "Movimiento cultural del siglo XIX que valoró la emoción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "socialismo",
+    "definicion": "Sistema económico donde los medios de producción son públicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "soberanía",
+    "definicion": "Poder supremo de un Estado sobre su territorio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sufragio",
+    "definicion": "Derecho al voto conquistado por hombres y mujeres.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sumeria",
+    "definicion": "Civilización mesopotamica que inventó la escritura cuneiforme.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "siervo",
+    "definicion": "Campesino atado a la tierra del señor feudal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tiranía",
+    "definicion": "Gobierno despótico sin respeto por las leyes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "teocracia",
+    "definicion": "Gobierno ejercido por líderes religiosos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "totalitarismo",
+    "definicion": "Sistema político que controla todos los aspectos de la vida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tratado",
+    "definicion": "Acuerdo formal entre dos o más países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tribuno",
+    "definicion": "Magistrado romano que defendía los derechos del pueblo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unitario",
+    "definicion": "Facción política argentina que concentraba el poder en Buenos Aires.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utopia",
+    "definicion": "Sociedad perfecta imaginada por Tomás Moro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urss",
+    "definicion": "Estado soviético que existió de 1922 a 1991.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unificacion",
+    "definicion": "Proceso de unión de estados como el alemán e italiano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultramontano",
+    "definicion": "Sector católico que apoyaba el poder absoluto del Papa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vasallo",
+    "definicion": "Persona que juraba fidelidad a un señor feudal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vendea",
+    "definicion": "Región francesa que se rebeló contra la Revolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "virreinato",
+    "definicion": "Territorio colonial gobernado por un virrey.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "voto",
+    "definicion": "Derecho conquistado lentamente en las democracias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vuelta",
+    "definicion": "Retorno de un exiliado político a su patria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "weimar",
+    "definicion": "República alemana entre guerras que precedió al nazismo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wellington",
+    "definicion": "General inglés que derrotó a Napoleón en Waterloo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wilson",
+    "definicion": "Presidente americano que propuso los 14 puntos de paz.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whig",
+    "definicion": "Partido político liberal inglés del siglo XVII.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wittenberg",
+    "definicion": "Ciudad donde Lutero clavó sus 95 tesis en 1517.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenofobia",
+    "definicion": "Rechazo al extranjero que motivó guerras históricas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "ximenez",
+    "definicion": "Cardenal español de la época de los Reyes Católicos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mexica",
+    "definicion": "Nombre originario de los aztecas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "texcoco",
+    "definicion": "Ciudad aliada de los aztecas destruida por Cortés.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "saxonia",
+    "definicion": "Región alemana donde comenzó la Reforma Protestante.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yalta",
+    "definicion": "Conferencia de 1945 que dividió Europa en zonas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "ayllu",
+    "definicion": "Unidad social básica del Imperio Inca.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoruba",
+    "definicion": "Pueblo africano esclavizado y trasladado a América.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yucatan",
+    "definicion": "Península donde floreció la civilización maya.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yugoslavia",
+    "definicion": "País balcánico fragmentado tras la Guerra Fría.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zarismo",
+    "definicion": "Sistema autocrático de los zares en Rusia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zapata",
+    "definicion": "Caudillo campesino de la Revolución Mexicana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zionism",
+    "definicion": "Movimiento que buscó crear un Estado judío en Palestina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zulu",
+    "definicion": "Nación africana que resistió el colonialismo inglés.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zuloaga",
+    "definicion": "Político conservador mexicano del siglo XIX.",
+    "tipo": "empieza"
+  }
+]

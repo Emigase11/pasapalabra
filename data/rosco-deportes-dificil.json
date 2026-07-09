@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "aerofobia",
+    "definicion": "Miedo irracional a volar en deportistas acróbatas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agonista",
+    "definicion": "Músculo que contrae en movimiento principal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agorafobia",
+    "definicion": "Fobia a espacios abiertos en atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "algometria",
+    "definicion": "Medición del umbral de dolor en deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "antagonista",
+    "definicion": "Músculo opuesto al movimiento principal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "balistico",
+    "definicion": "Movimiento explosivo sin control muscular consciente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barodontalgia",
+    "definicion": "Dolor dental por cambios de presión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "baroreceptor",
+    "definicion": "Sensor de presión en cuerpo de atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bicefalico",
+    "definicion": "Músculo con dos cabezas como bíceps.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bioestadistica",
+    "definicion": "Análisis estadístico de datos biológicos deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "catabolia",
+    "definicion": "Descomposición de moléculas en cuerpo atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cinesiogia",
+    "definicion": "Estudio del movimiento humano en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cinestesia",
+    "definicion": "Percepción de movimiento corporal en espacio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cisteina",
+    "definicion": "Aminoácido importante en síntesis proteica atlética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cisterna",
+    "definicion": "Espacio en músculo donde se almacena calcio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "desentrenamiento",
+    "definicion": "Pérdida de capacidad por falta de actividad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diapason",
+    "definicion": "Rango de movimiento de una articulación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinamometria",
+    "definicion": "Medición de fuerza muscular con instrumentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diástasis",
+    "definicion": "Separación de músculos abdominales en atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diplopia",
+    "definicion": "Visión doble causada por impactos deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "elastancia",
+    "definicion": "Capacidad de recuperación elástica muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "electrolitos",
+    "definicion": "Minerales esenciales para función muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "empiema",
+    "definicion": "Infección de cavidad pleural en atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "endomisio",
+    "definicion": "Tejido conectivo alrededor de fibra muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "epigastrio",
+    "definicion": "Región abdominal superior donde golpean atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fasciculo",
+    "definicion": "Agrupación de fibras musculares en haz.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fenestracion",
+    "definicion": "Abertura quirúrgica en técnica deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fibromialgía",
+    "definicion": "Dolor muscular crónico en deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fitonadiona",
+    "definicion": "Vitamina K importante para coagulación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flagelación",
+    "definicion": "Movimiento de látigo en ciertos movimientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gametogénesis",
+    "definicion": "Producción de gametos afectada por estrés.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "glicolisis",
+    "definicion": "Proceso de energía en músculos durante ejercicio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gluconeogénesis",
+    "definicion": "Creación de glucosa desde no-carbohidratos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gonalgia",
+    "definicion": "Dolor en la rodilla de deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "goniometría",
+    "definicion": "Medición de ángulos de flexibilidad articular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hemorragia",
+    "definicion": "Sangrado por traumatismo en deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hemoglobina",
+    "definicion": "Proteína transportadora de oxígeno en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hidrófobia",
+    "definicion": "Miedo patológico al agua en nadadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hipertrofia",
+    "definicion": "Aumento excesivo de tamaño muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hipervolemia",
+    "definicion": "Exceso de volumen sanguíneo en atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inervacion",
+    "definicion": "Suministro de nervios a músculos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inhibicion",
+    "definicion": "Supresión de respuesta muscular automática.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "interesticio",
+    "definicion": "Espacio entre células musculares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isquemia",
+    "definicion": "Falta de riego sanguíneo en músculo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isotónica",
+    "definicion": "Contracción manteniendo tensión constante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jalapa",
+    "definicion": "Planta usada en medicina deportiva tradicional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jaqueca",
+    "definicion": "Migraña frecuente en atletas de resistencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jareta",
+    "definicion": "Costura reforzada en equipos deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "javanese",
+    "definicion": "Técnica de levantamiento importada de Indonesia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jícama",
+    "definicion": "Tubérculo nutritivo para dieta deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kainina",
+    "definicion": "Sustancia inflamatoria en lesiones musculares.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kainesiólogo",
+    "definicion": "Especialista en movimiento humano.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "katatermia",
+    "definicion": "Baja de temperatura corporal post-ejercicio.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kinesiología",
+    "definicion": "Estudio científico del movimiento.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "klorofila",
+    "definicion": "Pigmento en plantas para suplementos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lactacidemia",
+    "definicion": "Acumulación de ácido láctico en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "laminectomía",
+    "definicion": "Cirugía de columna en atletas lesionados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "laxitud",
+    "definicion": "Flexibilidad excesiva de ligamentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "ligamentoplastia",
+    "definicion": "Reconstrucción quirúrgica de ligamentos rotos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lipidemia",
+    "definicion": "Niveles de grasas anormales en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mialgia",
+    "definicion": "Dolor muscular general en atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "miastenia",
+    "definicion": "Debilidad muscular patológica grave.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "miocardia",
+    "definicion": "Inflamación del músculo cardíaco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "miofascial",
+    "definicion": "Relacionado a músculo y su envoltura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "miofibrila",
+    "definicion": "Unidad contráctil fundamental del músculo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "necrosis",
+    "definicion": "Muerte de células en tejido muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nefritis",
+    "definicion": "Inflamación de riñones por estrés deportivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neuropatía",
+    "definicion": "Enfermedad del sistema nervioso periférico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neurotoxina",
+    "definicion": "Sustancia tóxica para nervios atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nimotoxemia",
+    "definicion": "Intoxicación por amoníaco en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. Atleta que cobra sin trabajar realmente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Ave que simboliza velocidad extrema.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Deportista que juega con exceso técnico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñique",
+    "definicion": "a Ñ. Detalle pequeño pero importante técnicamente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Madera dura símbolo de fortaleza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "osteomielitis",
+    "definicion": "Infección ósea por lesión deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "osteoporosis",
+    "definicion": "Debilitamiento óseo en ciertos deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "osteotomía",
+    "definicion": "Fractura quirúrgica controlada de hueso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "otoconia",
+    "definicion": "Cristales en oído interno afectados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oxímetro",
+    "definicion": "Instrumento que mide oxígeno en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "parestesia",
+    "definicion": "Hormigueo anormal en nervios periféricos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pericondrio",
+    "definicion": "Membrana alrededor del cartílago articular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "perimisio",
+    "definicion": "Tejido conectivo alrededor de fascículos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "periostio",
+    "definicion": "Membrana que cubre superficie ósea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "piruvato",
+    "definicion": "Producto de metabolismo de glucosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queratitis",
+    "definicion": "Inflamación de córnea por lesión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "querencia",
+    "definicion": "Tendencia del atleta a una zona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quercetina",
+    "definicion": "Antioxidante en alimentos para deportistas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queratosis",
+    "definicion": "Engrosamiento de piel por roce.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queilitis",
+    "definicion": "Inflamación de labios por fricción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rabdomiolisis",
+    "definicion": "Destrucción muscular masiva por esfuerzo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "resorcinol",
+    "definicion": "Químico usado en linimentos deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "retrorrectal",
+    "definicion": "Espacio entre recto y peritoneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rhabdomancia",
+    "definicion": "Adivinación de fortaleza muscular futura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rinitis",
+    "definicion": "Inflamación nasal en atletas de altura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarcolema",
+    "definicion": "Membrana que envuelve fibra muscular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarcómero",
+    "definicion": "Unidad contráctil del músculo estriado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarcoplasma",
+    "definicion": "Citoplasma del músculo esquelético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarcoidosis",
+    "definicion": "Enfermedad inflamatoria sistémica rara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sarcoma",
+    "definicion": "Tumor maligno en tejido blando.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "telangiectasia",
+    "definicion": "Dilatación anormal de capilares superficiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tendinitis",
+    "definicion": "Inflamación de tendones por uso excesivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tenodesis",
+    "definicion": "Fijación quirúrgica de tendón a hueso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tenoperiostitis",
+    "definicion": "Inflamación de tendón e inserción ósea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tenotomía",
+    "definicion": "Corte quirúrgico de tendón en atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uremia",
+    "definicion": "Intoxicación por acúmulo de urea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uretritis",
+    "definicion": "Inflamación de uretra por trauma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uricemia",
+    "definicion": "Niveles de ácido úrico en sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urticaria",
+    "definicion": "Reacción alérgica en piel de atleta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utrículo",
+    "definicion": "Estructura en oído interno para equilibrio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valgismo",
+    "definicion": "Desviación angular hacia afuera de extremidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "varismo",
+    "definicion": "Desviación angular hacia adentro de extremidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vasoconstriccion",
+    "definicion": "Estrechamiento de vasos sanguíneos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vasodilatacion",
+    "definicion": "Ensanchamiento de vasos sanguíneos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vesicopatía",
+    "definicion": "Enfermedad de vejiga en atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "whiplash",
+    "definicion": "Lesión de cuello por movimiento brusco.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wig",
+    "definicion": "Peluca usada por algunos atletas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "winging",
+    "definicion": "Prominencia anormal de escápula.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "withers",
+    "definicion": "Parte más alta del lomo del caballo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wobbling",
+    "definicion": "Movimiento inestable en deportista.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xantoma",
+    "definicion": "Depósito de lípidos en piel.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xantopsia",
+    "definicion": "Visión amarillenta tras golpe.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenelágia",
+    "definicion": "Dolor en tejido conectivo de atleta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xeroftalmia",
+    "definicion": "Sequedad ocular en deportistas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xilidina",
+    "definicion": "Compuesto químico en analgésicos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yatrogenia",
+    "definicion": "Enfermedad causada por tratamiento.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yerbadera",
+    "definicion": "Planta medicinal para lesiones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeso",
+    "definicion": "Vendaje de inmovilización ósea.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yodismo",
+    "definicion": "Intoxicación por yodo excesivo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoduro",
+    "definicion": "Compuesto del yodo con otro elemento.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoonosis",
+    "definicion": "Enfermedad transmitida de animales a humanos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zootecnia",
+    "definicion": "Ciencia de crianza de animales deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zootropismo",
+    "definicion": "Atracción de organismo hacia otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona",
+    "definicion": "Área corporal específica donde afecta lesión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoonosis",
+    "definicion": "Enfermedad transmisible animal a atleta.",
+    "tipo": "empieza"
+  }
+]

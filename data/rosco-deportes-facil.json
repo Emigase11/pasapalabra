@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "atleta",
+    "definicion": "Persona que practica deportes competitivos profesionalmente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arco",
+    "definicion": "Instrumento de tiro con flecha usado en competencias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arbitro",
+    "definicion": "Juez que supervisa el cumplimiento de reglas en un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "atletismo",
+    "definicion": "Deporte que incluye carreras, saltos y lanzamientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anillos",
+    "definicion": "Aparato de gimnasia donde se realizan figuras colgantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "basquet",
+    "definicion": "Deporte donde dos equipos lanzan una pelota a una canasta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boxeo",
+    "definicion": "Deporte de combate donde se golpea con guantes en los puños.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bicicleta",
+    "definicion": "Vehículo de dos ruedas usado en carreras y paseos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "badminton",
+    "definicion": "Deporte donde se golpea un volante con raquetas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barras",
+    "definicion": "Aparatos de gimnasia femenina paralelos o asimétricas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "carreras",
+    "definicion": "Competencia donde los atletas corren para ganar distancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "ciclismo",
+    "definicion": "Deporte de competencia en bicicleta en distancias largas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "campeonato",
+    "definicion": "Torneo o competencia donde se determina un campeón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "clavados",
+    "definicion": "Deporte acuático de saltos desde plataforma alta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "criquet",
+    "definicion": "Deporte de bate y pelota popular en países británicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "deporte",
+    "definicion": "Actividad física competitiva con reglas establecidas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "descenso",
+    "definicion": "Modalidad de esquí en montañas nevadas con velocidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "disco",
+    "definicion": "Objeto circular de metal que se lanza en atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "danza",
+    "definicion": "Movimiento rítmico que se puede practicar competitivamente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "duatlón",
+    "definicion": "Competencia que combina corrida y ciclismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "equitacion",
+    "definicion": "Deporte de montar a caballo en competencias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esgrima",
+    "definicion": "Deporte de combate con espadas o floretes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esqui",
+    "definicion": "Deporte de invierno que se practica en nieve.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escalada",
+    "definicion": "Deporte de subir montañas o paredes verticales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "entrenamiento",
+    "definicion": "Preparación física para competir en un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "formula",
+    "definicion": "Categoría de carreras de autos de velocidad máxima.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frisbee",
+    "definicion": "Disco volador usado en competencias de lanzamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "florete",
+    "definicion": "Espada usada en la esgrima olímpica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flecha",
+    "definicion": "Proyectil usado en el deporte del tiro con arco.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "futsal",
+    "definicion": "Variante del fútbol que se juega en cancha cubierta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gimnasia",
+    "definicion": "Deporte de ejercicios acrobáticos con o sin aparatos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "golf",
+    "definicion": "Deporte donde se golpea una pelota hacia hoyos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "halterofilia",
+    "definicion": "Deporte de levantamiento de pesas en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gyroscope",
+    "definicion": "Instrumento usado en equilibrio acrobático.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guantes",
+    "definicion": "Equipo de protección usado en boxeo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hockey",
+    "definicion": "Deporte donde se golpea una pelota con un bastón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hielo",
+    "definicion": "Superficie donde se patina o se juega hockey.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "halteras",
+    "definicion": "Pesas usadas en el deporte de levantamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "heptathlon",
+    "definicion": "Competencia de siete disciplinas de atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hurdle",
+    "definicion": "Carrera con obstáculos en atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "invierno",
+    "definicion": "Estación con deportes en nieve como esquí.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inscripcion",
+    "definicion": "Registro de un atleta para competir.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intensidad",
+    "definicion": "Nivel de esfuerzo en el entrenamiento deportivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "importante",
+    "definicion": "Título o premio que ganó un campeón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "instinto",
+    "definicion": "Reacción natural de un atleta en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jabalina",
+    "definicion": "Lanza que se lanza en atletismo para distancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "judo",
+    "definicion": "Arte marcial japonés de defensa y ataque.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jockey",
+    "definicion": "Jinete profesional que monta caballos de carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jambon",
+    "definicion": "Posición de piernas en gimnasia muy abierta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jersey",
+    "definicion": "Camiseta de ciclista con colores del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "karate",
+    "definicion": "Arte marcial japonés de golpes y patadas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kayak",
+    "definicion": "Embarcación pequeña para deporte acuático.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kendo",
+    "definicion": "Arte marcial japonés con espadas de bambú.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kick",
+    "definicion": "Patada usada en artes marciales.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kilómetro",
+    "definicion": "Unidad de distancia en carreras de larga distancia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lanzamiento",
+    "definicion": "Movimiento de arrojar algo en atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "levantamiento",
+    "definicion": "Acción de elevar pesas en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liga",
+    "definicion": "Competencia regular entre equipos de un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lingote",
+    "definicion": "Forma de pesa usada en halterofilia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lucha",
+    "definicion": "Deporte de combate donde se intenta derribar al rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maratón",
+    "definicion": "Carrera de larga distancia de 42 kilómetros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "marcha",
+    "definicion": "Movimiento rítmico de caminar rápido en atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "medallero",
+    "definicion": "Conteo de medallas ganadas en competencias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "monte",
+    "definicion": "Prueba ecuestre de saltos por terrenos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "montaña",
+    "definicion": "Terreno donde se practica ciclismo de montaña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "natacion",
+    "definicion": "Deporte acuático donde se nada en piscina o mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nivel",
+    "definicion": "Categoría o clasificación en un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nado",
+    "definicion": "Movimiento acuático de desplazamiento en agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nocaut",
+    "definicion": "Golpe que deja inconsciente al rival en boxeo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "numeracion",
+    "definicion": "Sistema de números para identificar atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Ave simboliza la velocidad en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol de madera dura usada en bastones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Atleta que juega de forma muy técnica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñique",
+    "definicion": "a Ñ. Detalle importante en técnica deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñudo",
+    "definicion": "a Ñ. Nudo en soga usada en tiro de cuerda.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "olimpiada",
+    "definicion": "Competencia deportiva mundial cada cuatro años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oro",
+    "definicion": "Metal de la medalla ganada por un campeón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "obstáculo",
+    "definicion": "Barrera a superar en carreras de atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orientacion",
+    "definicion": "Deporte de navegar con mapa por terreno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orden",
+    "definicion": "Posición final de un atleta en competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "patinaje",
+    "definicion": "Deporte sobre patines en hielo o ruedas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pesa",
+    "definicion": "Objeto de metal usado en levantamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pentathlon",
+    "definicion": "Competencia de cinco disciplinas de atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "podio",
+    "definicion": "Tarima donde suben los ganadores de medallas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "polo",
+    "definicion": "Deporte a caballo con bastón y pelota.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quince",
+    "definicion": "Número de jugadores en un equipo de rugby.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quantum",
+    "definicion": "Unidad de energía en movimiento atlético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quieta",
+    "definicion": "Posición de espera en un deporte táctico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimo",
+    "definicion": "Movimiento de cadera en danza deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quirománcia",
+    "definicion": "Análisis de movimientos en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rugby",
+    "definicion": "Deporte de equipo con balón ovalado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "raqueta",
+    "definicion": "Instrumento para golpear en tenis o badminton.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "récord",
+    "definicion": "Marca máxima lograda en una disciplina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ranking",
+    "definicion": "Posición de un atleta en clasificación mundial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "remada",
+    "definicion": "Movimiento de brazos en canotaje.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "salto",
+    "definicion": "Movimiento donde se salta altura o distancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "saltar",
+    "definicion": "Acción de elevarse del suelo para competir.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "shorts",
+    "definicion": "Pantalón corto usado en deportes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "surfing",
+    "definicion": "Deporte acuático sobre tabla en olas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sudor",
+    "definicion": "Secreción del cuerpo durante el ejercicio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tenis",
+    "definicion": "Deporte de raqueta entre dos o cuatro jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trampolín",
+    "definicion": "Aparato de saltín para clavados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "torneo",
+    "definicion": "Competencia entre múltiples participantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tracksuit",
+    "definicion": "Uniforme deportivo de pantalón y chaqueta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "triatlón",
+    "definicion": "Competencia de natación, ciclismo y carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uniforme",
+    "definicion": "Ropa estandarizada de un equipo deportivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universal",
+    "definicion": "Que aplica a todos los deportes olímpicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unidad",
+    "definicion": "Equipo o grupo de atletas coordinados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utensilio",
+    "definicion": "Herramienta usada en un deporte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "union",
+    "definicion": "Federación que agrupa equipos deportivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vela",
+    "definicion": "Deporte acuático con barcos a vela.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velocidad",
+    "definicion": "Rapidez en el desplazamiento de atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vestidor",
+    "definicion": "Lugar donde se cambian los atletas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "victoria",
+    "definicion": "Triunfo en una competencia deportiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vía",
+    "definicion": "Camino recorrido en una carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "waterpolo",
+    "definicion": "Deporte acuático de equipos en piscina.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "windsurf",
+    "definicion": "Deporte acuático sobre tabla con vela.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wrestling",
+    "definicion": "Lucha libre estilo occidental profesional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wushu",
+    "definicion": "Arte marcial chino tradicional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "whistle",
+    "definicion": "Sonido del silbato del árbitro.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xtremo",
+    "definicion": "Deportes de riesgo y adrenalina alta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "boxeo",
+    "definicion": "Deporte de combate con puños.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "sexto",
+    "definicion": "Posición en una carrera.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "próximo",
+    "definicion": "Siguiente participante en competencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "expulsado",
+    "definicion": "Atleta sacado de la competencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoga",
+    "definicion": "Disciplina de flexibilidad y meditación.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yudo",
+    "definicion": "Variación de la palabra judo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yate",
+    "definicion": "Embarcación de lujo para deportes acuáticos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yarda",
+    "definicion": "Unidad de medida en deportes anglosajones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yanqui",
+    "definicion": "Atleta de Estados Unidos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zambullida",
+    "definicion": "Salto hacia el agua en clavados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zigzag",
+    "definicion": "Movimiento en forma de zig zag en esquí.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona",
+    "definicion": "Área del campo asignada a un jugador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zancada",
+    "definicion": "Paso largo en carrera de atletismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zozobra",
+    "definicion": "Incertidumbre en el resultado de un evento.",
+    "tipo": "empieza"
+  }
+]

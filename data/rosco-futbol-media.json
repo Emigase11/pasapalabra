@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "aimar",
+    "definicion": "Mediocampista argentino legendario del Valencia y River.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "argentina",
+    "definicion": "Selección campeona del mundo en 1978, 1986 y 2022.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "atraction",
+    "definicion": "Jugador que atrae la atención de su rival mientras juega.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "acrobacia",
+    "definicion": "Habilidad espectacular en el control del balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "administracion",
+    "definicion": "Gestión de un club de fútbol profesional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boca",
+    "definicion": "Club argentino ganador de múltiples títulos internacionales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "batistuta",
+    "definicion": "Delantero argentino legendario goleador de la selección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barcelona",
+    "definicion": "Equipo catalán que ganó múltiples Champions League.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "brasil",
+    "definicion": "País cinco veces campeón del mundo de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bengala",
+    "definicion": "Pirotecnia que usan los hinchas para animar desde la tribuna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cerati",
+    "definicion": "Futbolista argentino de técnica y elegancia reconocidas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "champions",
+    "definicion": "Máxima competencia de clubes de Europa, muy prestigiosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "campeon",
+    "definicion": "Equipo que gana un torneo o temporada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cambio",
+    "definicion": "Entrada de un jugador suplente reemplazando otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "clasificacion",
+    "definicion": "Acceso a la siguiente fase de una competencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diego",
+    "definicion": "Nombre del legendario Maradona, el mejor jugador argentino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "danone",
+    "definicion": "Club de barrio donde muchos aprenden a jugar fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "defensa",
+    "definicion": "Posición o estrategia para proteger la portería propia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "derby",
+    "definicion": "Partido entre dos equipos rivales de la misma ciudad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinamarca",
+    "definicion": "Selección escandinava que llegó a finales de mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "españa",
+    "definicion": "Selección campeona de Europa en 2008, 2012 y 2024.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "iniesta",
+    "definicion": "Futbolista español legendario del Barcelona y Valencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estadual",
+    "definicion": "Torneo entre provincias o estados de un país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esquiva",
+    "definicion": "Movimiento rápido para evitar la marca de un rival.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escudo",
+    "definicion": "Emblema que representa a un equipo de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "federer",
+    "definicion": "Futbolista suizo de talla mundial en su época.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "figura",
+    "definicion": "Jugador estrella que destaca más que los demás.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "florian",
+    "definicion": "Defensa robusto que juega con dureza física.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "formacion",
+    "definicion": "Disposición táctica de los jugadores en el campo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frances",
+    "definicion": "País europeo con larga historia de éxito futbolístico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gattuso",
+    "definicion": "Mediocampista italiano conocido por su juego fuerte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "ginobili",
+    "definicion": "Futbolista argentino que jugó en ligas europeas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gracioso",
+    "definicion": "Jugador con movimientos elegantes y llenos de estilo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "grave",
+    "definicion": "Lesión importante que puede sacar un jugador de acción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gremio",
+    "definicion": "Club brasileño con fuerte tradición futbolística.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holanda",
+    "definicion": "País europeo conocido por su fútbol técnico y ofensivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "henry",
+    "definicion": "Delantero francés legendario del Arsenal de Inglaterra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "haland",
+    "definicion": "Delantero noruego actual que marca goles en cantidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "heidelberg",
+    "definicion": "Académico término para estrategia defensiva de presión alta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hambre",
+    "definicion": "Deseo intenso de los jugadores de ganar partidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iniesta",
+    "definicion": "Centrocampista español del Barcelona y la selección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inter",
+    "definicion": "Club italiano ganador de varias Copas de Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "italia",
+    "definicion": "País que fue campeón mundial en 1934, 1938 y 2006.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "impulso",
+    "definicion": "Movimiento rápido hacia adelante para atacar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intimidad",
+    "definicion": "Relación cercana entre los integrantes de un equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juventus",
+    "definicion": "Equipo italiano más ganador de su país con muchos títulos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jhon",
+    "definicion": "Nombre común de futbolistas colombianos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jair",
+    "definicion": "Futbolista que juega con velocidad y destreza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jesualdo",
+    "definicion": "Entrenador con experiencia en ligas latinoamericanas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jaque",
+    "definicion": "Situación donde el rival es obligado a defender.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kahn",
+    "definicion": "Portero alemán legendario del Bayern Múnich.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kaka",
+    "definicion": "Futbolista brasileño campeón del mundo 2002.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kant",
+    "definicion": "Defensa de características atléticas y rápidas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kassai",
+    "definicion": "Árbitro internacional conocido por sus decisiones polémicas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kronos",
+    "definicion": "Equipo que juega con velocidad y presión alta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lewandowski",
+    "definicion": "Delantero polaco goleador del Bayern y Barcelona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liverpool",
+    "definicion": "Club inglés ganador de múltiples Champions League.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "loco",
+    "definicion": "Hincha apasionado que vive intensamente el fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lideres",
+    "definicion": "Equipos que encabezan la tabla de clasificación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "liguilla",
+    "definicion": "Fase de competencia entre los mejores colocados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maradona",
+    "definicion": "Futbolista argentino considerado el mejor de todos los tiempos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "messi",
+    "definicion": "Futbolista argentino que ganó siete Balones de Oro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "milan",
+    "definicion": "Equipo italiano ganador de múltiples títulos europeos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "modric",
+    "definicion": "Centrocampista croata ganador del Balón de Oro 2018.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mundo",
+    "definicion": "Competencia global donde juegan todas las selecciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "napoli",
+    "definicion": "Equipo italiano del sur donde jugó Maradona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neymar",
+    "definicion": "Futbolista brasileño estrella del PSG y Barcelona.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neerlandes",
+    "definicion": "Selección holandesa pionera en el fútbol ofensivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neto",
+    "definicion": "Resultado sin descuentos ni descuentos en el marcador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "necesario",
+    "definicion": "Jugador imprescindible para el funcionamiento del equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandú",
+    "definicion": "a Ñ. Símbolo de la selección argentina en las camisetas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "a Ñ. Jugador muy técnico pero falto de decisión en ofensiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñiquicia",
+    "definicion": "a Ñ. Detalle técnico importante en la ejecución de un movimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "a Ñ. Árbol de madera dura, metáfora de defensa sólida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "a Ñ. Futbolista que cobra sin contribuir al equipo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "olimpico",
+    "definicion": "Gol anotado directamente de un saque de esquina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "onne",
+    "definicion": "Equipo que juega con una delantera de un solo ariete.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oviedo",
+    "definicion": "Equipo español con larga historia en la Primera División.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oportuno",
+    "definicion": "Jugador que aparece en el momento justo para anotar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ortodoxo",
+    "definicion": "Equipo que juega con formación táctica clásica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pele",
+    "definicion": "Futbolista brasileño considerado el rey del fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "psg",
+    "definicion": "Club francés que ha contratado a los mejores jugadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "platense",
+    "definicion": "Club argentino del barrio La Boca con historia tradicional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pitana",
+    "definicion": "Árbitro argentino que ha dirigido partidos de élite.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "posesion",
+    "definicion": "Estadística que mide el porcentaje de tiempo con el balón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilmes",
+    "definicion": "Club argentino que juega en Primera División.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quindici",
+    "definicion": "Formación táctica con quince defensores alineados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quintero",
+    "definicion": "Futbolista colombiano mediocampista de talento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queso",
+    "definicion": "Maniobra donde se controla el balón con destreza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quijada",
+    "definicion": "Golpe de cabeza fuerte que es muy peligroso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "riquelme",
+    "definicion": "Futbolista argentino ídolo de Boca, técnica incomparable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "river",
+    "definicion": "Club argentino con sede en Buenos Aires, muy ganador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ronaldinho",
+    "definicion": "Futbolista brasileño legendario conocido por su elegancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ronaldo",
+    "definicion": "Delantero brasileño fenómeno del fútbol de los 90.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "roma",
+    "definicion": "Equipo italiano histórico de la capital del país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "shilton",
+    "definicion": "Portero inglés legendario con muchos años en el fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "scholes",
+    "definicion": "Centrocampista inglés del Manchester United de gran calidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "spinetta",
+    "definicion": "Futbolista argentino de técnica refinada y elegancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "stockholm",
+    "definicion": "Sede de varios torneos europeos prestigiosos de fútbol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sutileza",
+    "definicion": "Jugada de gran técnica y precisión en el control.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "totti",
+    "definicion": "Futbolista italiano delantero de la Roma toda su carrera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trigole",
+    "definicion": "Jugador que forma un triángulo defensivo muy efectivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tedesco",
+    "definicion": "Entrenador técnico que implementa sistemas defensivos complejos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tafforeli",
+    "definicion": "Arquero argentino legendario de Boca Juniors.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tangible",
+    "definicion": "Resultado verificable y concreto en un partido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uruguay",
+    "definicion": "Selección campeona del mundo en 1930 y 1950.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unzueta",
+    "definicion": "Futbolista que juega con intensidad y corazón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unidos",
+    "definicion": "Equipo que mantiene cohesión y trabajo en grupo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "union",
+    "definicion": "Club argentino que juega en Primera División.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultrapreciso",
+    "definicion": "Pase exacto que llega a destino sin error.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valdano",
+    "definicion": "Futbolista argentino que ganó varios títulos en Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vigorito",
+    "definicion": "Equipo que juega con energía y presión constante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "van dijk",
+    "definicion": "Defensa holandés del Liverpool de élite mundial.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velez",
+    "definicion": "Club argentino que ganó copa Libertadores y Mercosur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vigilancia",
+    "definicion": "Sistema defensivo que marca hombre por hombre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wanchope",
+    "definicion": "Delantero paraguayo conocido por su potencia física.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "willy",
+    "definicion": "Nombre común de futbolistas argentinos del sur.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "welbeck",
+    "definicion": "Delantero inglés versátil que juega en varias posiciones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wegner",
+    "definicion": "Entrenador famoso que dirigió al Arsenal muchos años.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "windsurf",
+    "definicion": "Movimiento ondulante del balón en su trayectoria.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xavi",
+    "definicion": "Centrocampista español legendario del Barcelona.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "ximenez",
+    "definicion": "Futbolista de gran técnica en el manejo de balón.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "extremista",
+    "definicion": "Estrategia ofensiva que ataca por los extremos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exito",
+    "definicion": "Logro importante en la carrera futbolística.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exibicionista",
+    "definicion": "Futbolista que juega de forma demasiado vistosa.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yannini",
+    "definicion": "Futbolista que juega con velocidad explosiva.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yemen",
+    "definicion": "Selección de país asiático con poco desarrollo futbolístico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yepes",
+    "definicion": "Defensa colombiano que jugó en ligas europeas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoga",
+    "definicion": "Práctica de relajación que hacen algunos futbolistas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yank",
+    "definicion": "Movimiento brusco al regatear un rival.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zidane",
+    "definicion": "Futbolista francés legendario ganador de Mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zidane",
+    "definicion": "Futbolista francés legendario ganador de Mundiales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zibert",
+    "definicion": "Futbolista alemán de gran precisión en los pases.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zanetti",
+    "definicion": "Futbolista argentino ídolo de Inter durante muchos años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zaguero",
+    "definicion": "Defensa central que protege la portería principal.",
+    "tipo": "empieza"
+  }
+]
