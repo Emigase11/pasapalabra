@@ -107,15 +107,15 @@ export default function Menu() {
   const dificultades = diccionariosPorCategoria(categoria);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-10 p-6">
+    <main className="flex h-screen flex-col items-center justify-center gap-6 overflow-hidden p-4">
       <div className="text-center">
-        <h1 className="text-6xl font-black tracking-tight text-yellow-400 sm:text-7xl">
+        <h1 className="text-5xl font-black tracking-tight text-yellow-400 sm:text-6xl">
           ROSKITO
         </h1>
-        <p className="mt-3 text-lg text-slate-400">El rosco de las 27 letras</p>
+        <p className="mt-1 text-base text-slate-400">El rosco de las 27 letras</p>
       </div>
 
-      <div className="flex w-full max-w-sm flex-col gap-6 rounded-2xl bg-slate-800/80 p-6">
+      <div className="flex w-full max-w-sm flex-col gap-4 rounded-2xl bg-slate-800/80 p-5">
 
         {/* ── Selector de tiempo ────────────────────────────────────── */}
         <div>
@@ -141,7 +141,7 @@ export default function Menu() {
           </div>
 
           {modoTiempo === "personalizado" && (
-            <div className="mt-3 rounded-xl border border-slate-600 bg-slate-900/60 p-4">
+            <div className="mt-2 rounded-xl border border-slate-600 bg-slate-900/60 p-3">
               <div className="flex items-center justify-center gap-2">
                 <div className="flex flex-col items-center">
                   <input
@@ -248,16 +248,15 @@ export default function Menu() {
         <button
           onClick={empezar}
           disabled={!puedeEmpezar}
-          className="rounded-xl bg-green-600 py-4 text-xl font-black uppercase tracking-wider text-white transition-colors hover:bg-green-500 disabled:cursor-not-allowed disabled:opacity-40"
+          className="rounded-xl bg-green-600 py-3 text-xl font-black uppercase tracking-wider text-white transition-colors hover:bg-green-500 disabled:cursor-not-allowed disabled:opacity-40"
         >
           Empezar
         </button>
-      </div>
 
-      <p className="max-w-md text-center text-sm text-slate-500">
-        Respondé la palabra de cada letra antes de que se acabe el tiempo.
-        Enter para responder · Espacio o → para pasapalabra.
-      </p>
+        <p className="text-center text-xs text-slate-500">
+          Enter para responder · Espacio o → para pasapalabra
+        </p>
+      </div>
     </main>
   );
 }
