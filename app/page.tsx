@@ -40,6 +40,8 @@ export default function Menu() {
   // ── Categoría + dificultad ─────────────────────────────────────────────────
   const [categoria, setCategoria] = useState(CATEGORIAS[0]);
   const [diccionario, setDiccionario] = useState(DICCIONARIO_POR_DEFECTO.id);
+  const [dropdownAbierto, setDropdownAbierto] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
   // Recuperar último tiempo personalizado de localStorage.
   useEffect(() => {
@@ -55,9 +57,19 @@ export default function Menu() {
     if (modoTiempo === "personalizado") minutosRef.current?.focus();
   }, [modoTiempo]);
 
+  // Cierra el dropdown al hacer click fuera.
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node))
+        setDropdownAbierto(false);
+    };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, []);
+
   const seleccionarCategoria = (cat: string) => {
     setCategoria(cat);
-    // Auto-selecciona la primera dificultad de la nueva categoría.
+    setDropdownAbierto(false);
     const primero = diccionariosPorCategoria(cat)[0];
     if (primero) setDiccionario(primero.id);
   };
@@ -176,16 +188,41 @@ export default function Menu() {
           <label className="mb-2 block text-sm font-semibold uppercase tracking-wide text-slate-400">
             Categoría
           </label>
-          <div className="flex gap-2">
-            {CATEGORIAS.map((cat) => (
-              <button
-                key={cat}
-                onClick={() => seleccionarCategoria(cat)}
-                className={`flex-1 ${chip(categoria === cat)}`}
+          <div ref={dropdownRef} className="relative">
+            <button
+              onClick={() => setDropdownAbierto((v) => !v)}
+              className="flex w-full items-center justify-between rounded-xl bg-slate-700 px-4 py-3 font-bold text-white transition-colors hover:bg-slate-600"
+            >
+              <span>{categoria}</span>
+              <svg
+                className={`h-5 w-5 text-slate-400 transition-transform duration-200 ${dropdownAbierto ? "rotate-180" : ""}`}
+                fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
               >
-                {cat}
-              </button>
-            ))}
+                <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+
+            {dropdownAbierto && (
+              <ul className="absolute z-10 mt-1 w-full overflow-hidden rounded-xl border border-slate-600 bg-slate-800 shadow-xl">
+                {CATEGORIAS.map((cat) => (
+                  <li key={cat}>
+                    <button
+                      onClick={() => seleccionarCategoria(cat)}
+                      className={`flex w-full items-center justify-between px-4 py-3 font-bold transition-colors hover:bg-slate-700 ${
+                        cat === categoria ? "text-yellow-400" : "text-white"
+                      }`}
+                    >
+                      {cat}
+                      {cat === categoria && (
+                        <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
+                          <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                        </svg>
+                      )}
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            )}
           </div>
         </div>
 
