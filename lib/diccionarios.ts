@@ -25,21 +25,60 @@ const ORDEN_LETRAS = [
   "N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z",
 ];
 
+const LS_HISTORIAL = "pasapalabra_historial";
+
+type HistorialDic = Record<string, string[]>; // letra → palabras ya vistas
+
+function leerHistorial(dicId: string): HistorialDic {
+  try {
+    const todo = JSON.parse(localStorage.getItem(LS_HISTORIAL) ?? "{}");
+    return todo[dicId] ?? {};
+  } catch { return {}; }
+}
+
+function guardarHistorial(dicId: string, historial: HistorialDic): void {
+  try {
+    const todo = JSON.parse(localStorage.getItem(LS_HISTORIAL) ?? "{}");
+    todo[dicId] = historial;
+    localStorage.setItem(LS_HISTORIAL, JSON.stringify(todo));
+  } catch {}
+}
+
 /**
- * Recibe el pool completo de entradas (con múltiples candidatos por letra)
- * y devuelve 27 entradas — una aleatoria por letra — en orden canónico.
+ * Recibe el pool completo de entradas y el id del diccionario.
+ * Para cada letra elige aleatoriamente una palabra que no se haya visto
+ * recientemente. Cuando se agotan las opciones de una letra, resetea
+ * su historial y vuelve a usar todo el pool.
+ * Persiste el historial en localStorage para que sobreviva entre sesiones.
  */
-export function sortearEntradas(pool: Entrada[]): Entrada[] {
+export function sortearEntradas(pool: Entrada[], dicId: string): Entrada[] {
+  const historial = leerHistorial(dicId);
+
   const porLetra = new Map<string, Entrada[]>();
   for (const e of pool) {
     if (!porLetra.has(e.letra)) porLetra.set(e.letra, []);
     porLetra.get(e.letra)!.push(e);
   }
-  return ORDEN_LETRAS.map((letra) => {
+
+  const nuevoHistorial: HistorialDic = {};
+
+  const entradas = ORDEN_LETRAS.map((letra) => {
     const candidatos = porLetra.get(letra) ?? [];
     if (candidatos.length === 0) throw new Error(`Falta la letra ${letra}`);
-    return candidatos[Math.floor(Math.random() * candidatos.length)];
+
+    const vistos = new Set(historial[letra] ?? []);
+    const disponibles = candidatos.filter((c) => !vistos.has(c.palabra));
+    // Si ya se usaron todas, reset esa letra
+    const fuente = disponibles.length > 0 ? disponibles : candidatos;
+    if (disponibles.length === 0) vistos.clear();
+
+    const elegida = fuente[Math.floor(Math.random() * fuente.length)];
+    nuevoHistorial[letra] = Array.from(vistos).concat(elegida.palabra);
+    return elegida;
   });
+
+  guardarHistorial(dicId, nuevoHistorial);
+  return entradas;
 }
 
 export const DICCIONARIOS: Diccionario[] = [

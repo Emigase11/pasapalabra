@@ -18,7 +18,7 @@ const TITULOS_FIN: Record<MotivoFin, string> = {
 };
 
 function Partida({ diccionario, tiempoTotal }: { diccionario: Diccionario; tiempoTotal: number }) {
-  const juego = useJuego({ entradas: diccionario.entradas, tiempoTotal });
+  const juego = useJuego({ entradas: diccionario.entradas, dicId: diccionario.id, tiempoTotal });
   const letras = juego.entradas.map((e) => e.letra);
 
   return (

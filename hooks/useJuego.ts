@@ -14,6 +14,7 @@ import type {
 
 interface OpcionesJuego {
   entradas: Entrada[];
+  dicId: string;
   tiempoTotal: number;
 }
 
@@ -29,9 +30,9 @@ function siguienteJugable(estados: EstadoLetra[], desde: number): number | null 
   return null;
 }
 
-export function useJuego({ entradas: pool, tiempoTotal }: OpcionesJuego) {
+export function useJuego({ entradas: pool, dicId, tiempoTotal }: OpcionesJuego) {
   // Selección aleatoria de una entrada por letra (se re-sortea en cada reiniciar).
-  const [entradas, setEntradas] = useState<Entrada[]>(() => sortearEntradas(pool));
+  const [entradas, setEntradas] = useState<Entrada[]>(() => sortearEntradas(pool, dicId));
   const [estados, setEstados] = useState<EstadoLetra[]>(() =>
     Array<EstadoLetra>(entradas.length).fill("pendiente"),
   );
@@ -137,7 +138,7 @@ export function useJuego({ entradas: pool, tiempoTotal }: OpcionesJuego) {
   }, [fase, terminar]);
 
   const reiniciar = useCallback(() => {
-    const nuevas = sortearEntradas(pool);
+    const nuevas = sortearEntradas(pool, dicId);
     setEntradas(nuevas);
     setEstados(Array<EstadoLetra>(nuevas.length).fill("pendiente"));
     setIndiceActual(0);
@@ -145,7 +146,7 @@ export function useJuego({ entradas: pool, tiempoTotal }: OpcionesJuego) {
     setFase("jugando");
     setMotivoFin(null);
     setUltimoError(null);
-  }, [pool, tiempoTotal]);
+  }, [pool, dicId, tiempoTotal]);
 
   const aciertos = estados.filter((e) => e === "correcta").length;
   const errores = estados.filter((e) => e === "incorrecta").length;
