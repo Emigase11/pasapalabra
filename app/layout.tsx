@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Pasapalabra — El Rosco",
-  description: "El clásico juego del rosco: 27 letras, una palabra por letra.",
+  title: "Roskito",
+  description: "El juego del rosco: 27 letras, una palabra por letra.",
 };
 
 export default function RootLayout({

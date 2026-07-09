@@ -110,7 +110,7 @@ export default function Menu() {
     <main className="flex min-h-screen flex-col items-center justify-center gap-10 p-6">
       <div className="text-center">
         <h1 className="text-6xl font-black tracking-tight text-yellow-400 sm:text-7xl">
-          PASAPALABRA
+          ROSKITO
         </h1>
         <p className="mt-3 text-lg text-slate-400">El rosco de las 27 letras</p>
       </div>
