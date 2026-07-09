@@ -20,6 +20,10 @@ import geografiaFacil    from "@/data/geografia-facil.json";
 import geografiaMedia    from "@/data/geografia-media.json";
 import geografiaDificil  from "@/data/geografia-dificil.json";
 
+import cienciaFacil      from "@/data/ciencia-facil.json";
+import cienciaMedia      from "@/data/ciencia-media.json";
+import cienciaDificil    from "@/data/ciencia-dificil.json";
+
 const ORDEN_LETRAS = [
   "A","B","C","D","E","F","G","H","I","J","K","L","M",
   "N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z",
@@ -101,6 +105,10 @@ export const DICCIONARIOS: Diccionario[] = [
   { id: "geografia-facil",   categoria: "Geografía", dificultad: "Fácil",   entradas: geografiaFacil   as Entrada[] },
   { id: "geografia-media",   categoria: "Geografía", dificultad: "Media",   entradas: geografiaMedia   as Entrada[] },
   { id: "geografia-dificil", categoria: "Geografía", dificultad: "Difícil", entradas: geografiaDificil as Entrada[] },
+
+  { id: "ciencia-facil",     categoria: "Ciencia",   dificultad: "Fácil",   entradas: cienciaFacil     as Entrada[] },
+  { id: "ciencia-media",     categoria: "Ciencia",   dificultad: "Media",   entradas: cienciaMedia     as Entrada[] },
+  { id: "ciencia-dificil",   categoria: "Ciencia",   dificultad: "Difícil", entradas: cienciaDificil   as Entrada[] },
 ];
 
 /** Lista de categorías únicas en el orden en que aparecen. */

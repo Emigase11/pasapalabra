@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "atomo",
+    "definicion": "Partícula mínima de un elemento químico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "aire",
+    "definicion": "Mezcla de gases que rodea la Tierra y respiramos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agua",
+    "definicion": "Sustancia líquida formada por hidrógeno y oxígeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "astronomia",
+    "definicion": "Ciencia que estudia los astros y el universo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "animal",
+    "definicion": "Ser vivo que se mueve y se alimenta de otros seres.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bacteria",
+    "definicion": "Microorganismo unicelular que puede causar enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biologia",
+    "definicion": "Ciencia que estudia los seres vivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "botánica",
+    "definicion": "Rama de la biología que estudia las plantas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "boca",
+    "definicion": "Órgano del sistema digestivo por donde entra el alimento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "brain",
+    "definicion": "Nombre en inglés del cerebro, órgano central del sistema nervioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "celula",
+    "definicion": "Unidad básica de todo ser vivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cerebro",
+    "definicion": "Órgano más importante del sistema nervioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "corazon",
+    "definicion": "Órgano muscular que bombea la sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "clima",
+    "definicion": "Conjunto de condiciones atmosféricas de una región.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cometa",
+    "definicion": "Astro con núcleo de hielo que forma una cola al acercarse al Sol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "darwin",
+    "definicion": "Científico inglés que propuso la teoría de la evolución.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinosaurio",
+    "definicion": "Reptil prehistórico extinguido hace millones de años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dna",
+    "definicion": "Molécula que contiene la información genética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dolor",
+    "definicion": "Señal del sistema nervioso que indica daño en el cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "digestión",
+    "definicion": "Proceso por el que el cuerpo descompone los alimentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "energia",
+    "definicion": "Capacidad para realizar trabajo o producir cambios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eclipse",
+    "definicion": "Fenómeno cuando un astro queda oculto por otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "electricidad",
+    "definicion": "Forma de energía producida por el movimiento de electrones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estrella",
+    "definicion": "Bola de gas que emite luz y calor en el universo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "evolucion",
+    "definicion": "Proceso por el cual los seres vivos cambian con el tiempo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fotosintesis",
+    "definicion": "Proceso por el que las plantas convierten luz en energía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fisica",
+    "definicion": "Ciencia que estudia la materia, la energía y sus interacciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fosil",
+    "definicion": "Resto o huella de un ser vivo antiguo preservado en roca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fuerza",
+    "definicion": "Acción que puede cambiar el movimiento o forma de un objeto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fungo",
+    "definicion": "Hongo, organismo que se alimenta de materia orgánica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "galaxia",
+    "definicion": "Sistema de millones de estrellas unidas por gravedad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gravedad",
+    "definicion": "Fuerza que atrae los cuerpos hacia el centro de la Tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gen",
+    "definicion": "Unidad básica de la herencia biológica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "globulo",
+    "definicion": "Célula de la sangre que puede ser roja o blanca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gases",
+    "definicion": "Estado de la materia sin forma ni volumen fijo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hueso",
+    "definicion": "Pieza dura que forma el esqueleto del cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "higado",
+    "definicion": "Órgano que filtra toxinas y produce bilis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hipotesis",
+    "definicion": "Supuesto que se hace para explicar un fenómeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hormona",
+    "definicion": "Sustancia que regula funciones del cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hidrogeno",
+    "definicion": "Elemento más liviano y abundante del universo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intestino",
+    "definicion": "Órgano donde se absorben los nutrientes de los alimentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "imán",
+    "definicion": "Objeto que atrae metales como el hierro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "insecto",
+    "definicion": "Animal con seis patas y cuerpo dividido en tres partes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "ion",
+    "definicion": "Átomo que ganó o perdió electrones y tiene carga eléctrica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "invertebrado",
+    "definicion": "Animal que no tiene columna vertebral.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jupiter",
+    "definicion": "Planeta más grande del sistema solar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jungla",
+    "definicion": "Selva tropical densa con gran biodiversidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "joule",
+    "definicion": "Unidad de medida de la energía en el sistema internacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jardin",
+    "definicion": "Espacio con plantas cultivadas para estudio o recreo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jenner",
+    "definicion": "Médico inglés que creó la primera vacuna contra la viruela.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kelvin",
+    "definicion": "Unidad de temperatura del sistema internacional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kepler",
+    "definicion": "Astrónomo que describió las leyes del movimiento planetario.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kilo",
+    "definicion": "Prefijo que significa mil en el sistema métrico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "koala",
+    "definicion": "Marsupial australiano que come hojas de eucalipto.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "krypton",
+    "definicion": "Gas noble usado en lámparas fluorescentes.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "luz",
+    "definicion": "Radiación electromagnética que permite ver.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luna",
+    "definicion": "Satélite natural de la Tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "laboratorio",
+    "definicion": "Lugar donde se realizan experimentos científicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "larva",
+    "definicion": "Estado juvenil de algunos animales antes de su metamorfosis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "latido",
+    "definicion": "Contracción rítmica del corazón para bombear sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "molecula",
+    "definicion": "Agrupación de átomos unidos que forma la mínima unidad de una sustancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mamifero",
+    "definicion": "Animal de sangre caliente que amamanta a sus crías.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mars",
+    "definicion": "Nombre en inglés del planeta Marte, el cuarto del sistema solar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "microscopio",
+    "definicion": "Instrumento óptico para ver objetos muy pequeños.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mitosis",
+    "definicion": "División celular que produce dos células iguales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "newton",
+    "definicion": "Científico inglés que describió las leyes de la gravedad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nucleo",
+    "definicion": "Centro del átomo o de la célula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neurona",
+    "definicion": "Célula del sistema nervioso que transmite impulsos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nube",
+    "definicion": "Acumulación de vapor de agua condensada en la atmósfera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nutricion",
+    "definicion": "Proceso por el cual los seres vivos obtienen energía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave corredora sudamericana no voladora estudiada en zoología.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol cuya madera es objeto de estudio en biología vegetal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Científico que trabaja de forma excesivamente meticulosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Tubérculo tropical rico en almidón estudiado en botánica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Alimento elaborado con harina y papa, objeto de estudio nutricional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oxigeno",
+    "definicion": "Gas esencial para la respiración de los seres vivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orbita",
+    "definicion": "Trayectoria de un astro alrededor de otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oido",
+    "definicion": "Órgano que percibe los sonidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ojo",
+    "definicion": "Órgano sensorial que capta la luz.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "osmosis",
+    "definicion": "Paso de agua a través de una membrana semipermeable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "planeta",
+    "definicion": "Cuerpo celeste que orbita alrededor de una estrella.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pulmon",
+    "definicion": "Órgano que realiza el intercambio de gases en la respiración.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "proteina",
+    "definicion": "Molécula esencial para la estructura y función celular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "planta",
+    "definicion": "Ser vivo que realiza fotosíntesis y produce oxígeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "presion",
+    "definicion": "Fuerza aplicada sobre una superficie por unidad de área.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimica",
+    "definicion": "Ciencia que estudia la composición y propiedades de la materia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quark",
+    "definicion": "Partícula subatómica elemental que forma protones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queratina",
+    "definicion": "Proteína que forma el pelo, las uñas y la piel.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quiste",
+    "definicion": "Bolsa de tejido con contenido líquido o sólido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimioterapia",
+    "definicion": "Tratamiento del cáncer con medicamentos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "respiracion",
+    "definicion": "Proceso de intercambio de gases entre el organismo y el ambiente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rayos",
+    "definicion": "Radiación electromagnética descubierta por Röntgen.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reptil",
+    "definicion": "Animal de sangre fría con escamas que se arrastra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "riñon",
+    "definicion": "Órgano que filtra la sangre y produce orina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reaccion",
+    "definicion": "Proceso químico donde sustancias se transforman en otras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sol",
+    "definicion": "Estrella central de nuestro sistema solar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sangre",
+    "definicion": "Líquido rojo que transporta oxígeno por el cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sistema solar",
+    "definicion": "Conjunto del Sol y los planetas que lo orbitan.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sonido",
+    "definicion": "Vibración que se propaga en el aire y podemos escuchar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "suelo",
+    "definicion": "Capa superficial de la Tierra donde crecen las plantas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "telescopio",
+    "definicion": "Instrumento óptico para observar objetos lejanos en el cielo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "temperatura",
+    "definicion": "Medida del calor de un cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tierra",
+    "definicion": "Tercer planeta del sistema solar donde vivimos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tejido",
+    "definicion": "Conjunto de células con la misma función en un organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "terremoto",
+    "definicion": "Vibración de la corteza terrestre por movimiento de placas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universo",
+    "definicion": "Todo lo que existe, incluyendo materia, energía y espacio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urano",
+    "definicion": "Séptimo planeta del sistema solar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultrasonido",
+    "definicion": "Sonido de frecuencia muy alta usado en medicina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uña",
+    "definicion": "Lámina córnea que cubre la punta de los dedos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urease",
+    "definicion": "Enzima que descompone la urea en el organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vacuna",
+    "definicion": "Preparado biológico que genera inmunidad contra enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vena",
+    "definicion": "Vaso sanguíneo que lleva sangre al corazón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vertebrado",
+    "definicion": "Animal con columna vertebral como peces, aves y mamíferos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "virus",
+    "definicion": "Agente infeccioso muy pequeño que necesita células para reproducirse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volcan",
+    "definicion": "Abertura en la corteza terrestre por donde sale magma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "watson",
+    "definicion": "Científico que descubrió la estructura del ADN junto a Crick.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "watt",
+    "definicion": "Unidad de potencia eléctrica del sistema internacional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "weber",
+    "definicion": "Unidad de flujo magnético en física.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wolfram",
+    "definicion": "Nombre alternativo del wolframio o tungsteno.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "newton",
+    "definicion": "Error: la palabra correcta es worm, organismo que descompone materia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenon",
+    "definicion": "Gas noble usado en lámparas de alta intensidad.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "rayos x",
+    "definicion": "Radiación que atraviesa tejidos blandos para ver huesos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxido",
+    "definicion": "Compuesto formado por un elemento con oxígeno.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxitocina",
+    "definicion": "Hormona del amor y el parto producida en el hipotálamo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exoesqueleto",
+    "definicion": "Esqueleto externo de insectos y crustáceos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yodo",
+    "definicion": "Elemento químico esencial para la tiroides.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yema",
+    "definicion": "Parte del huevo rica en nutrientes y grasas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yin yang",
+    "definicion": "Símbolo de equilibrio entre fuerzas opuestas en la naturaleza.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yuca",
+    "definicion": "Planta tropical con raíz rica en almidón.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yttrio",
+    "definicion": "Elemento metálico usado en materiales de alta tecnología.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoologia",
+    "definicion": "Rama de la biología que estudia los animales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona",
+    "definicion": "Área del cuerpo o del ambiente con características específicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zigoto",
+    "definicion": "Célula resultante de la unión de un óvulo y un espermatozoide.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zinc",
+    "definicion": "Mineral esencial para el sistema inmune.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoonosis",
+    "definicion": "Enfermedad transmitida de animales a personas.",
+    "tipo": "empieza"
+  }
+]

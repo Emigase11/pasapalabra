@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "alosterismo",
+    "definicion": "Regulación de una enzima por unión de una molécula en otro sitio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "anisotropia",
+    "definicion": "Propiedad de un material que varía según la dirección.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "apoptosis",
+    "definicion": "Muerte celular programada y controlada del organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arqueobacteria",
+    "definicion": "Microorganismo primitivo que vive en condiciones extremas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "asintótica",
+    "definicion": "Libertad de quarks a altísimas energías en cromodinámica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barión",
+    "definicion": "Partícula formada por tres quarks como el protón y el neutrón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biogénesis",
+    "definicion": "Principio que establece que todo ser vivo proviene de otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bioluminiscencia",
+    "definicion": "Emisión de luz por organismos vivos mediante reacción química.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biopsia",
+    "definicion": "Extracción de tejido para análisis histológico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bosón de higgs",
+    "definicion": "Partícula que da masa a otras partículas elementales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caotismo",
+    "definicion": "Teoría matemática de sistemas muy sensibles a condiciones iniciales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "catalisis heterogénea",
+    "definicion": "Reacción donde catalizador y reactivos están en fases distintas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cerenkov",
+    "definicion": "Radiación producida por partícula más rápida que la luz en el medio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "citosol",
+    "definicion": "Parte líquida del citoplasma donde ocurren reacciones metabólicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "crispr",
+    "definicion": "Herramienta de edición genética de alta precisión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "difraccíon",
+    "definicion": "Desviación de ondas al pasar por un obstáculo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dirac",
+    "definicion": "Físico cuya ecuación predijo la existencia de la antimateria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "disociacion",
+    "definicion": "Separación de una molécula en iones o partes menores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dopaminérgico",
+    "definicion": "Relativo al sistema de transmisión de dopamina en el cerebro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dualidad onda partícula",
+    "definicion": "Propiedad cuántica de la materia de comportarse como onda y partícula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "electrodinámica cuántica",
+    "definicion": "Teoría que describe la interacción entre luz y materia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "endocitosis",
+    "definicion": "Proceso por el que la célula ingiere material del exterior.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "entalpía",
+    "definicion": "Energía total de un sistema termodinámico a presión constante.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "entropía",
+    "definicion": "Medida del desorden de un sistema termodinámico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "epigenética",
+    "definicion": "Cambios en la expresión génica sin alterar la secuencia del ADN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "feromona",
+    "definicion": "Sustancia química que comunica información entre individuos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fisión nuclear",
+    "definicion": "División de un núcleo pesado que libera enorme energía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fluorescencia",
+    "definicion": "Emisión de luz por una sustancia al absorber radiación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fractal",
+    "definicion": "Figura geométrica de detalle infinito que se repite a cualquier escala.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fermión",
+    "definicion": "Partícula de espín semientero como el electrón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gluon",
+    "definicion": "Partícula portadora de la fuerza nuclear fuerte entre quarks.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gradiente",
+    "definicion": "Variación de una magnitud por unidad de distancia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gravitación cuántica",
+    "definicion": "Teoría que intenta unificar relatividad y mecánica cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "giroscopio",
+    "definicion": "Dispositivo que conserva su orientación por inercia rotacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "glucólisis",
+    "definicion": "Vía metabólica que degrada glucosa para obtener energía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hamiltoniano",
+    "definicion": "Operador que representa la energía total en mecánica cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "heisenberg",
+    "definicion": "Físico del principio de incertidumbre en cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "helicasa",
+    "definicion": "Enzima que desenrolla la doble hélice del ADN para replicarlo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hemoglobina",
+    "definicion": "Proteína de los glóbulos rojos que transporta oxígeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hidrofóbico",
+    "definicion": "Que repele el agua por no formar puentes de hidrógeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "impedancia",
+    "definicion": "Resistencia total de un circuito de corriente alterna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inhibicion competitiva",
+    "definicion": "Bloqueo de una enzima por una molécula similar al sustrato.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "interferometría",
+    "definicion": "Técnica que usa interferencia de ondas para medir distancias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intron",
+    "definicion": "Secuencia de ADN no codificante que se elimina del ARN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isomerismo",
+    "definicion": "Fenómeno de moléculas con igual fórmula pero distinta estructura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jaynes cummings",
+    "definicion": "Modelo cuántico de interacción átomo con campo electromagnético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jeans",
+    "definicion": "Masa mínima de nube de gas para colapsar en estrella.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junction",
+    "definicion": "Unión p-n en semiconductores base de transistores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "josefson",
+    "definicion": "Efecto de corriente sin resistencia entre superconductores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juglona",
+    "definicion": "Toxina natural del nogal que inhibe el crecimiento de otras plantas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kaon",
+    "definicion": "Mesón extraño compuesto de un quark extraño.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kinasa",
+    "definicion": "Enzima que transfiere grupos fosfato a proteínas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kinetica enzimatica",
+    "definicion": "Estudio de la velocidad de reacciones catalizadas por enzimas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "klinefelter",
+    "definicion": "Síndrome genético masculino con cromosoma X extra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kramers",
+    "definicion": "Efecto de tunelamiento cuántico en física estadística.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "leptón",
+    "definicion": "Partícula elemental como el electrón y el neutrino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "ligando",
+    "definicion": "Molécula que se une a una proteína para regular su función.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lipasa",
+    "definicion": "Enzima que descompone las grasas en el sistema digestivo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luminiscencia",
+    "definicion": "Emisión de luz sin calor a diferencia de la incandescencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lisis",
+    "definicion": "Destrucción de células por rotura de su membrana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "magnetoencefalografía",
+    "definicion": "Técnica de imagen que registra campos magnéticos cerebrales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mesón",
+    "definicion": "Partícula compuesta de un quark y un antiquark.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "metilación",
+    "definicion": "Adición de grupos metilo al ADN que regula la expresión génica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "microbioma",
+    "definicion": "Conjunto de microorganismos que habitan en el cuerpo humano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "morfogenesis",
+    "definicion": "Proceso de desarrollo de la forma de un organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nanomaterial",
+    "definicion": "Material con propiedades únicas a escala nanométrica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neutrino",
+    "definicion": "Partícula elemental sin carga y casi sin masa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nucleosíntesis",
+    "definicion": "Creación de elementos en el interior de estrellas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nucleotidasa",
+    "definicion": "Enzima que hidroliza nucleótidos en nucleósidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nanotecnología",
+    "definicion": "Manipulación de materia a escala atómica y molecular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave estudiada en etología por su comportamiento de anidación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol cuya bioquímica produce taninos con propiedades medicinales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Dicho del científico excesivamente metódico y riguroso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Tubérculo con compuestos bioactivos de interés farmacológico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Alimento cuyo índice glucémico es objeto de estudio nutricional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ontogenia",
+    "definicion": "Desarrollo de un organismo desde el cigoto hasta el adulto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "operon",
+    "definicion": "Unidad funcional de genes bacterianos bajo control conjunto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "organogénesis",
+    "definicion": "Proceso de formación de órganos durante el desarrollo embrionario.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oscilacion cuantica",
+    "definicion": "Fluctuación del vacío cuántico con consecuencias observables.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oxidoreductasa",
+    "definicion": "Enzima que cataliza reacciones de óxido-reducción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paleogenómica",
+    "definicion": "Estudio del genoma de organismos extintos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "partícula de higgs",
+    "definicion": "Bosón que confiere masa a partículas sin masa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "plegamiento proteico",
+    "definicion": "Proceso por el que una cadena de aminoácidos adopta su forma funcional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "polarizacion",
+    "definicion": "Orientación de las oscilaciones de una onda transversal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "prion",
+    "definicion": "Proteína infecciosa mal plegada sin ácido nucleico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimioluminiscencia",
+    "definicion": "Emisión de luz como resultado de una reacción química.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimiocina",
+    "definicion": "Proteína que dirige la migración de células inmunes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimiosmosis",
+    "definicion": "Movimiento de iones a través de membrana que genera ATP.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimiotropismo",
+    "definicion": "Movimiento de un organismo en respuesta a estímulos químicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quiralidad",
+    "definicion": "Propiedad de moléculas no superponibles a su imagen especular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "radioisótopo",
+    "definicion": "Isótopo inestable que emite radiación al desintegrarse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "redox",
+    "definicion": "Reacción química con transferencia de electrones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "renormalización",
+    "definicion": "Técnica matemática para eliminar infinitos en física cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "retrovirus",
+    "definicion": "Virus que convierte su ARN en ADN dentro de la célula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ribozima",
+    "definicion": "Molécula de ARN con actividad enzimática catalítica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "schrödinger",
+    "definicion": "Físico cuya ecuación describe la evolución cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "serotonina",
+    "definicion": "Neurotransmisor que regula el estado de ánimo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "singularidad",
+    "definicion": "Punto de densidad infinita en el interior de un agujero negro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "simbiogénesis",
+    "definicion": "Teoría del origen de los orgánulos por fusión de células.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "superconductividad",
+    "definicion": "Estado de conductividad eléctrica sin resistencia a bajas temperaturas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "telomerasa",
+    "definicion": "Enzima que repone los telómeros y está relacionada con el envejecimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "telómero",
+    "definicion": "Secuencia al final del cromosoma que protege el ADN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "teoría de cuerdas",
+    "definicion": "Modelo que describe partículas como vibraciones de cuerdas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "topoisomerasa",
+    "definicion": "Enzima que regula el enrollamiento del ADN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "transposón",
+    "definicion": "Secuencia de ADN que puede cambiar de posición en el genoma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ubiquitina",
+    "definicion": "Proteína que marca otras proteínas para su degradación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultrasonografía",
+    "definicion": "Técnica de imagen médica que usa ondas ultrasónicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universo inflacionario",
+    "definicion": "Modelo de expansión exponencial del universo temprano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uniporto",
+    "definicion": "Proteína de membrana que transporta un solo tipo de molécula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "upwelling",
+    "definicion": "Afloramiento de aguas frías profundas ricas en nutrientes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vacío cuántico",
+    "definicion": "Estado de mínima energía con fluctuaciones de partículas virtuales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vector viral",
+    "definicion": "Virus modificado para introducir material genético en células.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "virial",
+    "definicion": "Teorema que relaciona la energía cinética y potencial de un sistema.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "virología",
+    "definicion": "Rama de la microbiología que estudia los virus.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "voltamperimetría",
+    "definicion": "Técnica electroquímica de análisis a diferentes potenciales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "weakon",
+    "definicion": "Bosón portador de la fuerza nuclear débil.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "weinberg",
+    "definicion": "Físico que unificó la fuerza débil y el electromagnetismo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wormhole",
+    "definicion": "Agujero de gusano, puente hipotético entre dos regiones del espacio.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wavefuncion",
+    "definicion": "Función de onda que describe el estado cuántico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "witten",
+    "definicion": "Matemático y físico principal de la teoría de cuerdas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenobiótico",
+    "definicion": "Compuesto ajeno al metabolismo normal del organismo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerófilo",
+    "definicion": "Organismo adaptado a vivir en condiciones de extrema sequedad.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xilem",
+    "definicion": "Tejido vegetal que conduce agua y sales minerales.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exocitosis",
+    "definicion": "Proceso de secreción celular al exterior de vesículas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxidasa",
+    "definicion": "Enzima que cataliza reacciones de oxidación usando oxígeno.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yukawa",
+    "definicion": "Físico japonés que predijo los mesones como portadores nucleares.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yersinia pestis",
+    "definicion": "Bacteria causante de la peste bubónica.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "ytterbio",
+    "definicion": "Elemento lantánido usado en relojes atómicos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yttrio",
+    "definicion": "Metal de transición usado en superconductores de alta temperatura.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yocto",
+    "definicion": "Prefijo que representa 10 elevado a menos 24.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zeolita",
+    "definicion": "Mineral con estructura porosa usado como catalizador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zwitterion",
+    "definicion": "Molécula con carga positiva y negativa simultáneas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zimógeno",
+    "definicion": "Precursor inactivo de una enzima que se activa por corte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona de inhibición",
+    "definicion": "Área sin crecimiento bacteriano alrededor de un antibiótico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zigosidad",
+    "definicion": "Grado en que los alelos de un gen son iguales o distintos.",
+    "tipo": "empieza"
+  }
+]

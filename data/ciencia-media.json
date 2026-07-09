@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "ADN",
+    "definicion": "Molécula en doble hélice que contiene la información genética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "aceleración",
+    "definicion": "Cambio de velocidad por unidad de tiempo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "alquimia",
+    "definicion": "Práctica medieval precursora de la química moderna.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "antimateria",
+    "definicion": "Materia compuesta de antipartículas opuestas a la materia normal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arteria",
+    "definicion": "Vaso que lleva sangre oxigenada desde el corazón al cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "big bang",
+    "definicion": "Teoría del origen del universo hace 13.800 millones de años.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bioma",
+    "definicion": "Gran zona con comunidades de seres vivos similares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bosón",
+    "definicion": "Partícula que transmite fuerzas como el bosón de Higgs.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "black hole",
+    "definicion": "Agujero negro donde la gravedad impide escapar a la luz.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biodiversidad",
+    "definicion": "Variedad de especies vivas en un ecosistema.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "carbono",
+    "definicion": "Elemento base de todos los compuestos orgánicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "catálisis",
+    "definicion": "Aceleración de una reacción química por un catalizador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "clorofila",
+    "definicion": "Pigmento verde que capta la luz solar en la fotosíntesis.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cromosoma",
+    "definicion": "Estructura que contiene el ADN en el núcleo celular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "curie",
+    "definicion": "Científica que descubrió el radio y ganó dos premios Nobel.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "difusión",
+    "definicion": "Movimiento de partículas de mayor a menor concentración.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "doppler",
+    "definicion": "Efecto de cambio de frecuencia al moverse una fuente de sonido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dna",
+    "definicion": "Siglas del ácido desoxirribonucleico portador del genoma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "densidad",
+    "definicion": "Masa de una sustancia por unidad de volumen.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "darwin",
+    "definicion": "Naturalista que formuló la teoría de la selección natural.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "einstein",
+    "definicion": "Físico que formuló la teoría de la relatividad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "electrón",
+    "definicion": "Partícula subatómica con carga negativa que orbita el núcleo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "enzima",
+    "definicion": "Proteína que acelera reacciones bioquímicas en el organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "ecosistema",
+    "definicion": "Sistema formado por seres vivos y su entorno físico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "electromagnetismo",
+    "definicion": "Fuerza que une electricidad y magnetismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fotón",
+    "definicion": "Partícula elemental que porta la luz y la radiación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fusión nuclear",
+    "definicion": "Unión de núcleos atómicos que libera gran cantidad de energía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fenotipo",
+    "definicion": "Características observables de un organismo según su genoma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fermento",
+    "definicion": "Proceso bioquímico que transforma azúcares sin oxígeno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "faraday",
+    "definicion": "Científico que descubrió la inducción electromagnética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "genoma",
+    "definicion": "Conjunto completo de información genética de un organismo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "genotipo",
+    "definicion": "Información genética de un organismo en su ADN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "graviton",
+    "definicion": "Partícula hipotética portadora de la fuerza gravitacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "galileo",
+    "definicion": "Astrónomo que confirmó el sistema heliocéntrico con telescopio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "glucosa",
+    "definicion": "Azúcar simple principal fuente de energía celular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "homeostasis",
+    "definicion": "Capacidad del organismo de mantener condiciones internas estables.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hidrólisis",
+    "definicion": "Reacción química que usa agua para romper moléculas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hubble",
+    "definicion": "Astrónomo que descubrió que el universo se expande.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "haploide",
+    "definicion": "Célula con la mitad de los cromosomas de la especie.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "higgs",
+    "definicion": "Físico que predijo el bosón que da masa a las partículas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inercia",
+    "definicion": "Tendencia de un cuerpo a mantenerse en reposo o movimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isótopo",
+    "definicion": "Variante de un elemento con distinto número de neutrones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inmunidad",
+    "definicion": "Capacidad del cuerpo de resistir enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "infrarrojo",
+    "definicion": "Radiación electromagnética de longitud de onda mayor que la luz.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "ion",
+    "definicion": "Átomo o molécula con carga eléctrica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "joule",
+    "definicion": "Unidad de energía del sistema internacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jupiter",
+    "definicion": "Planeta gigante gaseoso con la tormenta llamada Gran Mancha Roja.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jenner",
+    "definicion": "Médico que desarrolló la vacuna contra la viruela.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "juntura",
+    "definicion": "Unión entre dos huesos en el sistema musculoesquelético.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "james webb",
+    "definicion": "Telescopio espacial más potente de la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kelvin",
+    "definicion": "Unidad de temperatura absoluta del sistema internacional.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kepler",
+    "definicion": "Astrónomo que formuló las leyes del movimiento planetario.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "krebs",
+    "definicion": "Ciclo metabólico de producción de energía celular.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kinetica",
+    "definicion": "Rama de la física que estudia el movimiento y sus causas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "knockout",
+    "definicion": "Técnica genética que desactiva un gen específico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "laser",
+    "definicion": "Luz amplificada por emisión estimulada de radiación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "linfocito",
+    "definicion": "Glóbulo blanco clave en el sistema inmunológico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "litio",
+    "definicion": "Metal más ligero usado en baterías y tratamientos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "logaritmo",
+    "definicion": "Operación matemática inversa a la potenciación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "luminosidad",
+    "definicion": "Cantidad total de energía emitida por una estrella.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "magnetismo",
+    "definicion": "Fuerza de atracción y repulsión entre imanes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "meiosis",
+    "definicion": "División celular que produce gametos con la mitad de cromosomas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mendel",
+    "definicion": "Monje que descubrió las leyes de la herencia genética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "metabolismo",
+    "definicion": "Conjunto de reacciones químicas que sostienen la vida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mitocondria",
+    "definicion": "Orgánulo celular conocido como la central energética de la célula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neutron",
+    "definicion": "Partícula del núcleo atómico sin carga eléctrica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "newton",
+    "definicion": "Unidad de fuerza del sistema internacional.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nitrógeno",
+    "definicion": "Gas que constituye el 78% de la atmósfera terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nebulosa",
+    "definicion": "Nube de gas y polvo interestelar donde nacen las estrellas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nucleotido",
+    "definicion": "Unidad básica del ADN y el ARN.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave que la zoología clasifica en el orden Rheiformes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Especie arbórea estudiada en la botánica del litoral.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Dicho del científico demasiado metódico y riguroso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Tubérculo tropical rico en carbohidratos estudiado en nutrición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Alimento cuya composición nutricional es estudiada en dietética.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orbita",
+    "definicion": "Trayectoria de un cuerpo celeste alrededor de otro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "osmosis",
+    "definicion": "Difusión de agua a través de una membrana semipermeable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oxidacion",
+    "definicion": "Reacción química en la que un átomo pierde electrones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ozono",
+    "definicion": "Molécula de tres átomos de oxígeno que protege de la radiación UV.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orgánulo",
+    "definicion": "Estructura especializada dentro de la célula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "protón",
+    "definicion": "Partícula del núcleo atómico con carga positiva.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "placenta",
+    "definicion": "Órgano que une al feto con la madre durante el embarazo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "plasma",
+    "definicion": "Cuarto estado de la materia o parte líquida de la sangre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "polimero",
+    "definicion": "Molécula grande formada por unidades repetidas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pasteur",
+    "definicion": "Científico que demostró que los microbios causan enfermedades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quark",
+    "definicion": "Partícula elemental que forma protones y neutrones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimica organica",
+    "definicion": "Rama que estudia compuestos basados en carbono.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quantum",
+    "definicion": "Cantidad mínima de energía que puede intercambiarse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quelato",
+    "definicion": "Compuesto químico de un metal con un ligando orgánico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimioluminiscencia",
+    "definicion": "Emisión de luz por una reacción química sin calor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "radiacion",
+    "definicion": "Emisión de energía en forma de ondas o partículas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "relatividad",
+    "definicion": "Teoría de Einstein que relaciona masa, energía y velocidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "replicacion",
+    "definicion": "Proceso de copia del ADN antes de la división celular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "resonancia",
+    "definicion": "Fenómeno donde un sistema vibra con mayor amplitud.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ribosoma",
+    "definicion": "Orgánulo celular donde se sintetizan las proteínas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "simbiosis",
+    "definicion": "Relación beneficiosa entre dos organismos de distintas especies.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sinapse",
+    "definicion": "Conexión entre neuronas para transmitir impulsos nerviosos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "supernova",
+    "definicion": "Explosión de una estrella masiva al final de su vida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "seleccion natural",
+    "definicion": "Mecanismo evolutivo donde sobreviven los más adaptados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sodio",
+    "definicion": "Elemento metálico esencial para la función nerviosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "termódinamica",
+    "definicion": "Rama que estudia la energía y el calor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tectónica",
+    "definicion": "Movimiento de las placas de la corteza terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "transpiracion",
+    "definicion": "Pérdida de vapor de agua por las hojas de las plantas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tesla",
+    "definicion": "Unidad de campo magnético e inventor del motor de CA.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "transcripcion",
+    "definicion": "Proceso de copiar ADN en ARN mensajero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ultravioleta",
+    "definicion": "Radiación solar de mayor energía que la luz visible.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universo observable",
+    "definicion": "Porción del universo que podemos detectar desde la Tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uranio",
+    "definicion": "Elemento radiactivo usado en reactores nucleares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uracilo",
+    "definicion": "Base nitrogenada del ARN que reemplaza a la timina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unidad astronomica",
+    "definicion": "Distancia media entre la Tierra y el Sol.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valencia",
+    "definicion": "Capacidad de un átomo para combinarse con otros.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vector",
+    "definicion": "Magnitud con módulo, dirección y sentido en física.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "velocidad",
+    "definicion": "Distancia recorrida por unidad de tiempo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "voltio",
+    "definicion": "Unidad de diferencia de potencial eléctrico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vesícula",
+    "definicion": "Pequeña bolsa membranosa que transporta sustancias en la célula.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "watson",
+    "definicion": "Biólogo que codescubrió la doble hélice del ADN.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "watt",
+    "definicion": "Unidad de potencia eléctrica igual a un julio por segundo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wavelength",
+    "definicion": "Longitud de onda de una radiación electromagnética.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wegener",
+    "definicion": "Científico que propuso la teoría de la deriva continental.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "white dwarf",
+    "definicion": "Enana blanca, remanente de una estrella de tamaño solar.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenon",
+    "definicion": "Gas noble de número atómico 54 usado en propulsores espaciales.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "rayos x",
+    "definicion": "Radiación de alta energía usada en diagnóstico médico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxitocina",
+    "definicion": "Hormona que genera vínculos afectivos y regula el parto.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exoplaneta",
+    "definicion": "Planeta que orbita una estrella fuera del sistema solar.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oxidacion",
+    "definicion": "Pérdida de electrones en una reacción química.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yodo",
+    "definicion": "Elemento esencial para la síntesis de hormonas tiroideas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yttrio",
+    "definicion": "Metal raro usado en superconductores y láserss.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yukawa",
+    "definicion": "Físico japonés que predijo la existencia del mesón.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yersinia",
+    "definicion": "Bacteria causante de la peste bubónica.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yema embrionaria",
+    "definicion": "Estructura que origina el sistema nervioso del embrión.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zigoto",
+    "definicion": "Primera célula del nuevo organismo tras la fecundación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zinc",
+    "definicion": "Elemento esencial para enzimas y el sistema inmune.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona habitable",
+    "definicion": "Región alrededor de una estrella donde puede existir agua líquida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoología",
+    "definicion": "Rama de la biología que estudia los animales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoonosis",
+    "definicion": "Enfermedad infecciosa transmisible entre animales y humanos.",
+    "tipo": "empieza"
+  }
+]

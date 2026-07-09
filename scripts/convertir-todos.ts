@@ -18,6 +18,9 @@ const FUENTES = [
   "geografia-facil",
   "geografia-media",
   "geografia-dificil",
+  "ciencia-facil",
+  "ciencia-media",
+  "ciencia-dificil",
 ];
 
 const ORDEN_LETRAS = [
