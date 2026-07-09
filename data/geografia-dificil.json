@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "abyectismo",
+    "definicion": "Corriente geográfica que estudia zonas de extrema pobreza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "acantilado",
+    "definicion": "Costa vertical y rocosa que cae al mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "afluente",
+    "definicion": "Río secundario que desemboca en otro mayor.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "aiguille",
+    "definicion": "Pico rocoso muy agudo en los Alpes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "albufera",
+    "definicion": "Laguna costera separada del mar por una barra de arena.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "badlands",
+    "definicion": "Paisaje erosionado con cárcavas y relieve irregular.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bajío",
+    "definicion": "Terreno de poca elevación propenso a inundaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barlovento",
+    "definicion": "Lado de donde viene el viento en una montaña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "batimetría",
+    "definicion": "Medición de las profundidades oceánicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "biogeografia",
+    "definicion": "Estudio de la distribución geográfica de seres vivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cárstico",
+    "definicion": "Paisaje formado por disolución de rocas calcáreas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cenote",
+    "definicion": "Pozo natural de agua en la Península de Yucatán.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "circo glaciar",
+    "definicion": "Depresión semicircular excavada por un glaciar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "climatología",
+    "definicion": "Ciencia que estudia el clima y sus variaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "coluvion",
+    "definicion": "Acumulación de materiales al pie de una ladera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "deflacion",
+    "definicion": "Erosión eólica que arrastra partículas finas del suelo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "delta",
+    "definicion": "Depósito aluvial en la desembocadura de un río.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "denudacion",
+    "definicion": "Proceso de desgaste y erosión de la superficie terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dermosfera",
+    "definicion": "Capa superficial de la corteza terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "diapiro",
+    "definicion": "Intrusión de material plástico como sal a través de rocas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eolianita",
+    "definicion": "Roca formada por dunas de arena consolidadas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "epeirogenia",
+    "definicion": "Movimiento lento de ascenso o descenso de la corteza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "epirogenia",
+    "definicion": "Movimiento vertical lento de grandes bloques continentales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "erosion",
+    "definicion": "Desgaste progresivo del suelo por agua, viento o hielo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "esker",
+    "definicion": "Cresta sinuosa de sedimentos depositados por río glaciar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "falesia",
+    "definicion": "Acantilado de roca en la costa erosionado por el mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "falla",
+    "definicion": "Fractura en la corteza terrestre con desplazamiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fenix",
+    "definicion": "Ciudad del desierto en Arizona EE.UU. de gran crecimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fitogeografia",
+    "definicion": "Rama que estudia la distribución de las plantas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flysch",
+    "definicion": "Roca sedimentaria formada por capas alternadas en mar profundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gelifraccion",
+    "definicion": "Fragmentación de rocas por la expansión del agua al congelarse.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "geomorfologia",
+    "definicion": "Ciencia que estudia las formas del relieve terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "glaciar",
+    "definicion": "Masa de hielo que se desplaza lentamente por una montaña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "graben",
+    "definicion": "Bloque hundido entre dos fallas paralelas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guyot",
+    "definicion": "Monte submarino de cima plana formado por erosión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "haloclastia",
+    "definicion": "Disgregación de rocas por cristalización de sales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hamada",
+    "definicion": "Desierto pedregoso sin dunas de arena.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hipsometría",
+    "definicion": "Medición y representación de altitudes del terreno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "horst",
+    "definicion": "Bloque elevado entre dos fallas paralelas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "humedal",
+    "definicion": "Ecosistema de transición entre tierra y agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inlandsis",
+    "definicion": "Capa de hielo continental que cubre Groenlandia y Antártida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inselberg",
+    "definicion": "Colina aislada y rocosa en medio de una llanura tropical.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isohieta",
+    "definicion": "Línea que une puntos de igual precipitación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isostasia",
+    "definicion": "Equilibrio de la corteza terrestre sobre el manto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isoterma",
+    "definicion": "Línea que une puntos de igual temperatura en el mapa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jalca",
+    "definicion": "Páramo andino de clima frío en el norte del Perú.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jangada",
+    "definicion": "Balsa usada en ríos del noreste de Brasil.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jebel",
+    "definicion": "Montaña o elevación en los países árabes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jorongo",
+    "definicion": "Zona de llanuras y pastizales de México.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junin",
+    "definicion": "Lago alto andino de Perú y departamento homónimo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kame",
+    "definicion": "Colina irregular formada por sedimentos glaciares.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karst",
+    "definicion": "Relieve formado en rocas calcáreas por disolución.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kettle",
+    "definicion": "Depresión formada por bloque de hielo enterrado.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "klint",
+    "definicion": "Costa rocosa elevada de origen glaciar.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "koeppen",
+    "definicion": "Sistema de clasificación climática más usado.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "laccolito",
+    "definicion": "Intrusión magmática que abomba las capas superiores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lahar",
+    "definicion": "Flujo de lodo volcánico mezclado con agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "latosol",
+    "definicion": "Suelo tropical rojo muy lixiviado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "leptosol",
+    "definicion": "Suelo muy superficial sobre roca o grava.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "litosfera",
+    "definicion": "Capa rígida exterior de la Tierra formada por corteza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "manglar",
+    "definicion": "Ecosistema costero tropical con raíces en el agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "manto",
+    "definicion": "Capa intermedia de la Tierra entre la corteza y el núcleo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "meandro",
+    "definicion": "Curva pronunciada que forma un río en terreno plano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mofeta",
+    "definicion": "Emanación de gases volcánicos fríos del suelo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "monzón",
+    "definicion": "Viento estacional que trae lluvias a Asia y África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "névé",
+    "definicion": "Nieve compactada en la zona de acumulación del glaciar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nunatak",
+    "definicion": "Cima rocosa que sobresale por encima de un glaciar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nival",
+    "definicion": "Relativo a la zona de montaña cubierta de nieve.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nodulo",
+    "definicion": "Concreción mineral esférica en rocas sedimentarias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nuée ardente",
+    "definicion": "Nube ardiente de gases y cenizas en erupciones volcánicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave de la llanura pampeana y chaco argentino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol típico de los montes entrerrianos y correntinos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Tubérculo cultivado en regiones tropicales húmedas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Término coloquial rioplatense.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Comida típica de las regiones de inmigración italiana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orogenia",
+    "definicion": "Proceso de formación de cadenas montañosas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oxbow",
+    "definicion": "Lago formado cuando un meandro queda aislado del río.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oasis",
+    "definicion": "Zona fértil en el desierto gracias a una fuente de agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orografía",
+    "definicion": "Estudio del relieve y las montañas de una región.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oleaje",
+    "definicion": "Movimiento de las olas que erosiona las costas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paleoclimatología",
+    "definicion": "Estudio del clima del pasado geológico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paleo",
+    "definicion": "Prefijo que indica antigüedad geológica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pampa",
+    "definicion": "Llanura sin árboles del cono sur de América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pedimento",
+    "definicion": "Superficie rocosa inclinada al pie de una montaña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "permafrost",
+    "definicion": "Suelo permanentemente congelado en regiones árticas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quebrada",
+    "definicion": "Valle estrecho y profundo en zonas áridas andinas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quebracho",
+    "definicion": "Árbol de madera durísima del Chaco sudamericano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilca",
+    "definicion": "Río de la costa desértica de Perú.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quimera",
+    "definicion": "Región imaginaria que no aparece en mapas reales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quinua",
+    "definicion": "Cultivo andino de altura que crece en el altiplano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "regolito",
+    "definicion": "Capa de roca fragmentada sobre la roca madre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "relicto",
+    "definicion": "Forma de relieve o especie que sobrevivió de otra era.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rift",
+    "definicion": "Fosa tectónica de hundimiento como el Valle del Rift.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "roca madre",
+    "definicion": "Material original sobre el que se forma el suelo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "runoff",
+    "definicion": "Escorrentía superficial del agua de lluvia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sabkha",
+    "definicion": "Llanura costera salina en zonas áridas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sedimentacion",
+    "definicion": "Depósito de materiales transportados por agua o viento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "solifluxion",
+    "definicion": "Desplazamiento lento del suelo en zonas de permafrost.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "solifluction",
+    "definicion": "Flujo del suelo saturado sobre capa congelada.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "subsidencia",
+    "definicion": "Hundimiento lento del terreno por compactación.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "talud",
+    "definicion": "Pendiente suave al pie de una montaña.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tectonico",
+    "definicion": "Relativo al movimiento de las placas de la corteza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "termoclina",
+    "definicion": "Capa oceánica con brusco cambio de temperatura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "thermokarst",
+    "definicion": "Paisaje formado por el deshielo del permafrost.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tombolo",
+    "definicion": "Barra de arena que une una isla con el continente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "umbral",
+    "definicion": "Elevación submarina entre dos cuencas oceánicas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "underflow",
+    "definicion": "Corriente de agua subterránea bajo un río.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "upwelling",
+    "definicion": "Afloramiento de aguas frías profundas a la superficie.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urbanizacion",
+    "definicion": "Proceso de crecimiento de las ciudades.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uvala",
+    "definicion": "Depresión kárstica formada por unión de varias dolinas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "ventifacto",
+    "definicion": "Roca modelada por la erosión eólica en el desierto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vertisol",
+    "definicion": "Suelo con alta proporción de arcillas expansivas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "viscosidad",
+    "definicion": "Propiedad de la lava que determina el tipo de erupción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volcán escudo",
+    "definicion": "Volcán de forma suave con lava poco viscosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vaguada",
+    "definicion": "Línea de mínima altitud en un valle.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wadi",
+    "definicion": "Cauce seco en el desierto que se activa con lluvias.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "watershed",
+    "definicion": "Divisoria de aguas entre dos cuencas hidrográficas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "weathering",
+    "definicion": "Alteración química y física de rocas en la superficie.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wetland",
+    "definicion": "Humedal o zona pantanosa de gran valor ecológico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "williwaw",
+    "definicion": "Ráfaga de viento frío que baja de montañas patagónicas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerofito",
+    "definicion": "Planta adaptada a condiciones de aridez extrema.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerofilia",
+    "definicion": "Adaptación de organismos a ambientes secos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerosol",
+    "definicion": "Suelo árido con horizonte cálcico o yesoso.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xerotermal",
+    "definicion": "Clima seco y cálido de zonas mediterráneas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenolito",
+    "definicion": "Fragmento de roca atrapado en otra roca ígnea.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yardang",
+    "definicion": "Cresta rocosa labrada por el viento en desiertos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yedoma",
+    "definicion": "Depósito de permafrost rico en hielo de Siberia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yermosol",
+    "definicion": "Suelo de zonas áridas sin horizonte orgánico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeso",
+    "definicion": "Mineral que forma relieves característicos en zonas áridas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoldia",
+    "definicion": "Fase del Mar Báltico durante el período postglaciar.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zócalo",
+    "definicion": "Base continental submersa cerca de la costa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona de subduccion",
+    "definicion": "Área donde una placa tectónica se hunde bajo otra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zonacion",
+    "definicion": "División del territorio en zonas con características comunes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zonda",
+    "definicion": "Viento cálido y seco que baja de los Andes en Argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoogeografia",
+    "definicion": "Estudio de la distribución de los animales en el mundo.",
+    "tipo": "empieza"
+  }
+]

@@ -1,19 +1,24 @@
 import type { Diccionario, Entrada } from "@/lib/tipos";
 
-import generalFacil    from "@/data/rosco-general-facil.json";
-import generalMedia    from "@/data/rosco-general-media.json";
+import generalFacil      from "@/data/general-facil.json";
+import generalMedia      from "@/data/general-media.json";
+import generalDificil    from "@/data/general-dificil.json";
 
-import deportesFacil   from "@/data/rosco-deportes-facil.json";
-import deportesMedia   from "@/data/rosco-deportes-media.json";
-import deportesDificil from "@/data/rosco-deportes-dificil.json";
+import deportesFacil     from "@/data/deportes-facil.json";
+import deportesMedia     from "@/data/deportes-media.json";
+import deportesDificil   from "@/data/deportes-dificil.json";
 
-import futbolFacil     from "@/data/rosco-futbol-facil.json";
-import futbolMedia     from "@/data/rosco-futbol-media.json";
-import futbolDificil   from "@/data/rosco-futbol-dificil.json";
+import futbolFacil       from "@/data/futbol-facil.json";
+import futbolMedia       from "@/data/futbol-media.json";
+import futbolDificil     from "@/data/futbol-dificil.json";
 
-import historiaFacil   from "@/data/rosco-historia-facil.json";
-import historiaMedia   from "@/data/rosco-historia-media.json";
-import historiaDificil from "@/data/rosco-historia-dificil.json";
+import historiaFacil     from "@/data/historia-facil.json";
+import historiaMedia     from "@/data/historia-media.json";
+import historiaDificil   from "@/data/historia-dificil.json";
+
+import geografiaFacil    from "@/data/geografia-facil.json";
+import geografiaMedia    from "@/data/geografia-media.json";
+import geografiaDificil  from "@/data/geografia-dificil.json";
 
 const ORDEN_LETRAS = [
   "A","B","C","D","E","F","G","H","I","J","K","L","M",
@@ -40,6 +45,7 @@ export function sortearEntradas(pool: Entrada[]): Entrada[] {
 export const DICCIONARIOS: Diccionario[] = [
   { id: "general-facil",    categoria: "General",   dificultad: "Fácil",   entradas: generalFacil    as Entrada[] },
   { id: "general-media",    categoria: "General",   dificultad: "Media",   entradas: generalMedia    as Entrada[] },
+  { id: "general-dificil",  categoria: "General",   dificultad: "Difícil", entradas: generalDificil  as Entrada[] },
 
   { id: "deportes-facil",   categoria: "Deportes",  dificultad: "Fácil",   entradas: deportesFacil   as Entrada[] },
   { id: "deportes-media",   categoria: "Deportes",  dificultad: "Media",   entradas: deportesMedia   as Entrada[] },
@@ -52,6 +58,10 @@ export const DICCIONARIOS: Diccionario[] = [
   { id: "historia-facil",   categoria: "Historia",  dificultad: "Fácil",   entradas: historiaFacil   as Entrada[] },
   { id: "historia-media",   categoria: "Historia",  dificultad: "Media",   entradas: historiaMedia   as Entrada[] },
   { id: "historia-dificil", categoria: "Historia",  dificultad: "Difícil", entradas: historiaDificil as Entrada[] },
+
+  { id: "geografia-facil",   categoria: "Geografía", dificultad: "Fácil",   entradas: geografiaFacil   as Entrada[] },
+  { id: "geografia-media",   categoria: "Geografía", dificultad: "Media",   entradas: geografiaMedia   as Entrada[] },
+  { id: "geografia-dificil", categoria: "Geografía", dificultad: "Difícil", entradas: geografiaDificil as Entrada[] },
 ];
 
 /** Lista de categorías únicas en el orden en que aparecen. */

@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "anarquismo",
+    "definicion": "Ideología política que rechaza toda forma de autoridad y gobierno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "arquetipo",
+    "definicion": "Modelo o patrón original que sirve como ejemplo de algo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "asimetria",
+    "definicion": "Falta de simetría o proporción en algo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "agnosticismo",
+    "definicion": "Posición que sostiene que la existencia de Dios es desconocida o incognoscible.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "antitesis",
+    "definicion": "Contraposición de dos cosas opuestas o contrarias.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "barroquismo",
+    "definicion": "Movimiento artístico caracterizado por la exuberancia y complejidad decorativa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bioética",
+    "definicion": "Disciplina que estudia los dilemas éticos en medicina y biología.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "buddhismo",
+    "definicion": "Religión oriental fundada por Buda que busca el nirvana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "burocracia",
+    "definicion": "Sistema administrativo complejo con muchos trámites y normas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bergsonismo",
+    "definicion": "Filosofía que enfatiza la duración y la intuición sobre la razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cartesianismo",
+    "definicion": "Corriente filosófica de Descartes basada en la razón y el dualismo mente-cuerpo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "catacresis",
+    "definicion": "Figura literaria que consiste en usar una palabra fuera de su significado propio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cinismo",
+    "definicion": "Escuela filosófica antigua que rechazaba las convenciones sociales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cosmologia",
+    "definicion": "Rama de la filosofía que estudia la naturaleza y estructura del universo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cibernética",
+    "definicion": "Ciencia que estudia los sistemas de control y comunicación en máquinas y seres vivos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "determinismo",
+    "definicion": "Posición que sostiene que todos los eventos son causados inevitablemente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dialéctica",
+    "definicion": "Método de análisis que examina la síntesis de fuerzas opuestas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "didáctica",
+    "definicion": "Disciplina que estudia los métodos y técnicas de enseñanza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "doxología",
+    "definicion": "Expresión de alabanza o glorificación, típicamente religiosa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "disyuntiva",
+    "definicion": "Situación que obliga a elegir entre dos alternativas incompatibles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "epicureismo",
+    "definicion": "Filosofía que busca el placer moderado como máximo bien.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escepticismo",
+    "definicion": "Posición que duda de la posibilidad de alcanzar conocimiento certero.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "escolasticismo",
+    "definicion": "Método filosófico medieval que combina fe y razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "estoicismo",
+    "definicion": "Escuela filosófica que enfatiza la virtud y la aceptación del destino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eufemismo",
+    "definicion": "Expresión suave o evasiva que sustituye palabras desagradables.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fenomenologia",
+    "definicion": "Rama de la filosofía que estudia la experiencia consciente y sus estructuras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fideismo",
+    "definicion": "Posición que privilegia la fe sobre la razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fisiocracia",
+    "definicion": "Escuela económica que considera la agricultura como fuente de riqueza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "formalismo",
+    "definicion": "Enfoque que enfatiza la forma sobre el contenido o el significado.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "funcionalismo",
+    "definicion": "Teoría que explica los fenómenos por su función o utilidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gnosticismo",
+    "definicion": "Movimiento religioso antiguo que enfatiza el conocimiento esotérico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gestalt",
+    "definicion": "Escuela psicológica que estudia la percepción como totalidades integradas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "genealogia",
+    "definicion": "Método nietzscheano que rastrea los orígenes e historia de conceptos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gnoseologia",
+    "definicion": "Rama de la filosofía que estudia la naturaleza y origen del conocimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "geopoética",
+    "definicion": "Movimiento intelectual que combina geografía con poesía y subjetividad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hedonismo",
+    "definicion": "Filosofía que considera el placer como el bien supremo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hermenéutica",
+    "definicion": "Arte de interpretar textos y significados de manera profunda.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "historicismo",
+    "definicion": "Posición que considera la historia como clave para entender la realidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holismo",
+    "definicion": "Principio que sostiene que el todo es más que la suma de sus partes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "humanismo",
+    "definicion": "Movimiento intelectual que enfatiza la dignidad y valor del ser humano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "idealismo",
+    "definicion": "Corriente filosófica que sostiene que la realidad depende de la mente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "inmanencia",
+    "definicion": "Cualidad de lo que existe dentro de algo sin trascenderlo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "intencionalidad",
+    "definicion": "Propiedad de la conciencia de estar dirigida hacia un objeto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "irracionalismo",
+    "definicion": "Posición que niega la posibilidad de conocimiento racional absoluto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isomorfismo",
+    "definicion": "Correspondencia de estructura entre entidades de diferente naturaleza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jainismo",
+    "definicion": "Religión hindú que enfatiza la no-violencia y la austeridad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jusnaturalismo",
+    "definicion": "Teoría que sostiene la existencia de leyes naturales previas a las humanas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "judeocracia",
+    "definicion": "Dominio o gobierno ejercido por judíos, término controvertido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jerrarquia",
+    "definicion": "Sistema de organización con niveles de autoridad escalonados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jesuismo",
+    "definicion": "Doctrina y práctica de la Compañía de Jesús.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kantismo",
+    "definicion": "Filosofía de Kant basada en la razón crítica y los juicios sintéticos a priori.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karma",
+    "definicion": "Concepto hindú de que las acciones tienen consecuencias inevitables.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kritica",
+    "definicion": "Examen riguroso y sistemático de un tema, método filosófico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "koine",
+    "definicion": "Lengua común que resultó de la mezcla de dialectos griegos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kierkegaard",
+    "definicion": "Filósofo danés precursor del existencialismo y la filosofía subjetiva.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "leibnizianismo",
+    "definicion": "Filosofía de Leibniz basada en mónadas y la armonía preestablecida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "logica",
+    "definicion": "Ciencia que estudia el razonamiento y las leyes del pensamiento válido.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "logomaquía",
+    "definicion": "Disputa basada en el significado diferente de palabras.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lógica modal",
+    "definicion": "Sistema lógico que estudia conceptos de posibilidad y necesidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lógica dialéctica",
+    "definicion": "Método que estudia las contradicciones internas de los conceptos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maniqueismo",
+    "definicion": "Religión antigua que ve el mundo como lucha entre el bien y el mal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "marxismo",
+    "definicion": "Teoría económica y política de Karl Marx sobre el materialismo histórico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "materialismo",
+    "definicion": "Posición que sostiene que solo la materia es real.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mecanicismo",
+    "definicion": "Visión que explica todo por leyes mecánicas de causa y efecto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "metafisica",
+    "definicion": "Rama de la filosofía que estudia la realidad más allá de lo observable.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nihilismo",
+    "definicion": "Creencia que niega valores absolutos y el significado de la vida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nominalismo",
+    "definicion": "Posición que sostiene que los universales no existen, solo los particulares.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neokantismo",
+    "definicion": "Corriente moderna que retoma y actualiza la filosofía de Kant.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "neoplatonismo",
+    "definicion": "Movimiento filosófico que combina Platón con elementos del Oriente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "noología",
+    "definicion": "Estudio filosófico de las formas del pensamiento y la conciencia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñez",
+    "definicion": "Cualidad de ser ñoño, timorato o excesivamente formal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave corredora de Sudamérica que no puede volar, símbolo de Argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñería",
+    "definicion": "Acción o dicho propio de una persona ñoña y aburrida.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoñísimo",
+    "definicion": "Superlativo de ñoño, muy ñoño o carente de gracia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol de madera dura de Sudamérica, usado en construcción.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ontologia",
+    "definicion": "Rama de la metafísica que estudia la naturaleza del ser.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oscurantismo",
+    "definicion": "Actitud que se opone a la difusión del conocimiento e ilustración.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orouboros",
+    "definicion": "Símbolo alquímico de una serpiente que se muerde la cola.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ontologismo",
+    "definicion": "Posición que sostiene que el ser es lo primario en el conocimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ocasionalismo",
+    "definicion": "Teoría que explica la causalidad divina como ocasión de nuestros actos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "panenteismo",
+    "definicion": "Posición que sostiene que Dios está en todo pero no es todo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "panlogismo",
+    "definicion": "Doctrina que reduce toda la realidad a manifestaciones de la razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paralogismo",
+    "definicion": "Razonamiento falso que parece válido pero es incorrecto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "peripatetismo",
+    "definicion": "Escuela filosófica de Aristóteles, llamada así por su hábito de pasear.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "positivismo",
+    "definicion": "Filosofía que solo considera válido el conocimiento científico empírico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quididad",
+    "definicion": "Esencia o naturaleza de una cosa, lo que la hace ser lo que es.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quietismo",
+    "definicion": "Doctrina mística que busca la perfección espiritual mediante la pasividad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "querulancia",
+    "definicion": "Tendencia a quejarse y protestar constantemente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quijotismo",
+    "definicion": "Idealismo ingenuo y desinteresado en busca de aventuras imposibles.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quántum",
+    "definicion": "Unidad mínima e indivisible de energía en mecánica cuántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "racionalismo",
+    "definicion": "Corriente que sostiene que la razón es la fuente de conocimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "relativismo",
+    "definicion": "Posición que niega la existencia de verdades absolutas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "realismo",
+    "definicion": "Corriente que sostiene que la realidad existe independientemente de la mente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "romanticismo",
+    "definicion": "Movimiento cultural que enfatiza la emoción sobre la razón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "revelacionismo",
+    "definicion": "Posición que enfatiza la revelación divina en el conocimiento religioso.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sensualismo",
+    "definicion": "Corriente que considera los sentidos como única fuente de conocimiento.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sincretismo",
+    "definicion": "Fusión de diferentes sistemas filosóficos o religiosos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "solipsismo",
+    "definicion": "Posición extrema que sostiene que solo la mente propia existe realmente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sofismo",
+    "definicion": "Argumento falaz que parece válido pero comete errores lógicos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "substancialismo",
+    "definicion": "Doctrina que enfatiza la existencia de sustancias subyacentes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "taoismo",
+    "definicion": "Filosofía oriental que busca armonía con el Tao, el camino o principio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tautologia",
+    "definicion": "Proposición que es verdadera por su propia estructura lógica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "teleologismo",
+    "definicion": "Doctrina que ve la realidad orientada hacia un fin o propósito.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "teologia",
+    "definicion": "Rama del saber que estudia la naturaleza de Dios y las doctrinas religiosas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trascendentalismo",
+    "definicion": "Movimiento que enfatiza la intuición sobre la razón lógica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "universalismo",
+    "definicion": "Posición que sostiene la existencia de universales o conceptos abstractos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utilitarismo",
+    "definicion": "Ética que considera moralmente correcto lo que produce mayor felicidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utopia",
+    "definicion": "Visión idealista de una sociedad perfecta que no existe en realidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unamunismo",
+    "definicion": "Filosofía existencial de Unamuno que enfatiza la angustia humana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "unanimismo",
+    "definicion": "Movimiento literario que enfatiza la armonía del grupo sobre el individuo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vitalismo",
+    "definicion": "Posición que sostiene que lo vivo posee una energía no reducible a lo físico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "voluntarismo",
+    "definicion": "Doctrina que enfatiza la voluntad como el aspecto primordial de la realidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "verificationismo",
+    "definicion": "Posición que solo considera significativo lo verificable empíricamente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "verosimilitud",
+    "definicion": "Cualidad de ser probable o de parecer verdadero aunque no lo sea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vicismo",
+    "definicion": "Filosofía de Vico que enfatiza la importancia de la historia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wittgensteinianismo",
+    "definicion": "Corriente filosófica basada en los trabajos de Ludwig Wittgenstein.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "weber",
+    "definicion": "Sociólogo alemán que estudió la burocracia y la ética protestante.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "weltanschauung",
+    "definicion": "Término alemán para visión o concepción del mundo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wagnerianismo",
+    "definicion": "Movimiento intelectual influido por la obra de Richard Wagner.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wundtianismo",
+    "definicion": "Escuela psicológica de Wilhelm Wundt que fundó la psicología experimental.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xenofobia",
+    "definicion": "Rechazo u odio hacia los extranjeros o lo extraño.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "existencialismo",
+    "definicion": "Corriente que enfatiza que la existencia precede la esencia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exegetica",
+    "definicion": "Rama de la interpretación que analiza textos religiosos o antiguos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "exotismo",
+    "definicion": "Movimiento que idealiza culturas lejanas y exóticas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "epigono",
+    "definicion": "Seguidor de baja calidad que imita a un maestro sin originalidad.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yang",
+    "definicion": "Principio masculino, luminoso y activo del taoísmo chino.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yeísmo",
+    "definicion": "Pronunciación de la LL como Y, común en muchas regiones.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yin",
+    "definicion": "Principio femenino, oscuro y pasivo del taoísmo chino.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yijing",
+    "definicion": "Libro adivinatorio chino basado en símbolos de transformación.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yoga",
+    "definicion": "Disciplina hindú que busca la unión del cuerpo y la mente.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zen",
+    "definicion": "Escuela budista que busca la iluminación mediante la meditación y la intuición.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoroastrismo",
+    "definicion": "Religión persa antigua que ve la realidad como lucha entre el bien y el mal.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zenismo",
+    "definicion": "Adaptación occidental de la filosofía budista zen.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zubería",
+    "definicion": "Tendencia a buscar la verdad en lo más simple y directo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zoilismo",
+    "definicion": "Crítica malintencionada y envidiosa de las obras de otros.",
+    "tipo": "empieza"
+  }
+]

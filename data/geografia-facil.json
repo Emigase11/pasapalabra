@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "africa",
+    "definicion": "Continente más grande del mundo después de Asia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "amazonas",
+    "definicion": "Río más caudaloso del mundo que atraviesa Brasil.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "argentina",
+    "definicion": "País sudamericano con capital en Buenos Aires.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "asia",
+    "definicion": "Continente más extenso y poblado del planeta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "atlantico",
+    "definicion": "Océano que separa América de Europa y África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "brasil",
+    "definicion": "País más grande de Sudamérica con capital en Brasilia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "buenos aires",
+    "definicion": "Capital de Argentina y una de las mayores ciudades de América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "beijing",
+    "definicion": "Capital de China, antigua sede de emperadores.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bruselas",
+    "definicion": "Capital de Bélgica y sede de la Unión Europea.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "budapest",
+    "definicion": "Capital de Hungría dividida por el río Danubio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "chile",
+    "definicion": "País sudamericano más largo y angosto del mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "china",
+    "definicion": "País más poblado del mundo con capital en Beijing.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "colombia",
+    "definicion": "País sudamericano con salida al Pacífico y Atlántico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "continente",
+    "definicion": "Gran extensión de tierra que agrupa varios países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "cordillera",
+    "definicion": "Cadena de montañas que recorre Sudamérica de norte a sur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "desierto",
+    "definicion": "Zona árida con muy poca lluvia y vegetación escasa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "danubio",
+    "definicion": "Río europeo que atraviesa varios países hasta el Mar Negro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dinamarca",
+    "definicion": "País escandinavo con capital en Copenhague.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dubai",
+    "definicion": "Ciudad de los Emiratos Árabes famosa por sus rascacielos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "delta",
+    "definicion": "Desembocadura de un río que forma múltiples brazos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "ecuador",
+    "definicion": "Línea imaginaria que divide la Tierra en hemisferios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "egipto",
+    "definicion": "País africano con el río Nilo y las pirámides.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "españa",
+    "definicion": "País europeo de la Península Ibérica con capital en Madrid.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "everest",
+    "definicion": "Montaña más alta del mundo ubicada en el Himalaya.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "europa",
+    "definicion": "Continente occidental conocido como el Viejo Mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "francia",
+    "definicion": "País europeo con capital en París.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "filipinas",
+    "definicion": "Archipiélago asiático de más de siete mil islas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "finlandia",
+    "definicion": "País escandinavo conocido por sus bosques y lagos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fjord",
+    "definicion": "Entrada de mar entre montañas típica de Noruega.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frontera",
+    "definicion": "Límite geográfico que separa dos países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "grecia",
+    "definicion": "País mediterráneo con capital en Atenas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "golfo",
+    "definicion": "Entrada de mar rodeada de tierra por tres lados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "ganges",
+    "definicion": "Río sagrado de la India que desemboca en el océano.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "groenlandia",
+    "definicion": "Isla más grande del mundo ubicada en el Ártico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "guatemala",
+    "definicion": "País centroamericano con mayor cantidad de volcanes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "himalaya",
+    "definicion": "Cordillera asiática donde está el monte más alto del mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "holanda",
+    "definicion": "País europeo famoso por sus molinos y tulipanes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "honduras",
+    "definicion": "País centroamericano con costa en el mar Caribe.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hungria",
+    "definicion": "País europeo con capital en Budapest.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hemisferio",
+    "definicion": "Cada mitad de la Tierra dividida por el Ecuador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "india",
+    "definicion": "País asiático con más de mil millones de habitantes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "isla",
+    "definicion": "Porción de tierra rodeada completamente por agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "islandia",
+    "definicion": "Isla volcánica del Atlántico Norte conocida por sus géiseres.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "italia",
+    "definicion": "País europeo en forma de bota con capital en Roma.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "indonesia",
+    "definicion": "Archipiélago asiático con más de 17.000 islas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "japon",
+    "definicion": "País asiático insular con capital en Tokio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jordania",
+    "definicion": "País de Oriente Medio con el Mar Muerto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "junco",
+    "definicion": "Planta acuática que crece en ríos y lagunas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jungla",
+    "definicion": "Selva densa y tropical con gran biodiversidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jerusalen",
+    "definicion": "Ciudad sagrada para tres religiones en Oriente Medio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "kenia",
+    "definicion": "País africano famoso por su fauna y la sabana.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kiribati",
+    "definicion": "País insular del Pacífico amenazado por el aumento del nivel del mar.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kilimanjaro",
+    "definicion": "Montaña más alta de África ubicada en Tanzania.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kazajistan",
+    "definicion": "País más grande de Asia Central.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kuwait",
+    "definicion": "Pequeño país árabe productor de petróleo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "lago",
+    "definicion": "Masa de agua dulce rodeada de tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "latinoamerica",
+    "definicion": "Región que abarca los países de habla española y portuguesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lima",
+    "definicion": "Capital de Perú, una de las más pobladas de Sudamérica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lisboa",
+    "definicion": "Capital de Portugal ubicada sobre el río Tajo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "llano",
+    "definicion": "Terreno plano y extenso sin grandes elevaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mexico",
+    "definicion": "País de América del Norte con capital en Ciudad de México.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mediterráneo",
+    "definicion": "Mar interior rodeado por Europa, África y Asia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "montana",
+    "definicion": "Elevación natural del terreno de gran altura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mozambique",
+    "definicion": "País africano con costa en el océano Índico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "mendoza",
+    "definicion": "Provincia argentina famosa por el vino y la cordillera.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nilo",
+    "definicion": "Río más largo del mundo que atraviesa Egipto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "noruega",
+    "definicion": "País escandinavo famoso por sus fiordos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nueva york",
+    "definicion": "Ciudad más poblada de Estados Unidos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nigeria",
+    "definicion": "País más poblado de África con capital en Abuja.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nevada",
+    "definicion": "Montaña o zona cubierta de nieve permanentemente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave de las pampas argentinas y uruguayas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol típico de la región del litoral argentino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Comida típica del cono sur traída por italianos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Cultivo tropical típico de regiones ecuatoriales.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Adjetivo coloquial del español rioplatense.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oceano",
+    "definicion": "Gran masa de agua salada que cubre el 70% de la Tierra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oceania",
+    "definicion": "Continente formado por Australia y miles de islas del Pacífico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oslo",
+    "definicion": "Capital de Noruega ubicada al fondo de un fiordo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "ottawa",
+    "definicion": "Capital de Canadá.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "orinoco",
+    "definicion": "Río importante de Venezuela que desemboca en el Atlántico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pacifico",
+    "definicion": "Océano más grande del mundo que baña América y Asia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "parana",
+    "definicion": "Río que atraviesa Brasil, Paraguay y Argentina.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "paris",
+    "definicion": "Capital de Francia y una de las ciudades más visitadas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "polo",
+    "definicion": "Extremo norte o sur del eje de rotación terrestre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "peninsula",
+    "definicion": "Porción de tierra rodeada de agua por tres lados.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "qatar",
+    "definicion": "Pequeño país árabe anfitrión del Mundial 2022.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quito",
+    "definicion": "Capital de Ecuador ubicada casi sobre la línea del ecuador.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quebec",
+    "definicion": "Provincia canadiense de habla francesa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queensland",
+    "definicion": "Estado de Australia con la Gran Barrera de Coral.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quechua",
+    "definicion": "Lengua hablada en los Andes de varios países sudamericanos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rio de janeiro",
+    "definicion": "Ciudad brasileña famosa por su carnaval y el Pan de Azúcar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rusia",
+    "definicion": "País más extenso del mundo con capital en Moscú.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "reino unido",
+    "definicion": "País europeo insular con capital en Londres.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rumania",
+    "definicion": "País europeo con capital en Bucarest.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rio",
+    "definicion": "Corriente de agua dulce que desemboca en el mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sahara",
+    "definicion": "Desierto más grande del mundo ubicado en África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "santiago",
+    "definicion": "Capital de Chile ubicada al pie de los Andes.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "siberia",
+    "definicion": "Región fría de Rusia que ocupa gran parte de Asia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sudamerica",
+    "definicion": "Subcontinente que incluye a Argentina, Brasil y más países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "suecia",
+    "definicion": "País escandinavo con capital en Estocolmo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tokyo",
+    "definicion": "Capital de Japón y una de las ciudades más pobladas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "titicaca",
+    "definicion": "Lago navegable más alto del mundo entre Perú y Bolivia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "turquia",
+    "definicion": "País que une Europa y Asia con capital en Ankara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tundra",
+    "definicion": "Bioma frío y sin árboles del extremo norte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "trinidad",
+    "definicion": "Isla caribeña que forma un país junto a Tobago.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uruguay",
+    "definicion": "País sudamericano entre Argentina y Brasil.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ucrania",
+    "definicion": "País europeo del este con capital en Kiev.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ural",
+    "definicion": "Cordillera que divide Europa de Asia en Rusia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uzbekistan",
+    "definicion": "País de Asia Central sin salida al mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "utrecht",
+    "definicion": "Ciudad holandesa famosa por su tratado histórico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "venezuela",
+    "definicion": "País sudamericano con las mayores reservas de petróleo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volga",
+    "definicion": "Río más largo de Europa que atraviesa Rusia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volcano",
+    "definicion": "Montaña que expulsa lava y gases por su cráter.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "varsovia",
+    "definicion": "Capital de Polonia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "valle",
+    "definicion": "Depresión del terreno entre montañas por donde corre un río.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "washington",
+    "definicion": "Capital de Estados Unidos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wellington",
+    "definicion": "Capital de Nueva Zelanda.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "windhoek",
+    "definicion": "Capital de Namibia en el sur de África.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "warsaw",
+    "definicion": "Nombre en inglés de la capital de Polonia.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wyoming",
+    "definicion": "Estado de EE.UU. con el parque Yellowstone.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xochimilco",
+    "definicion": "Zona lacustre de Ciudad de México con chinampas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xinjiang",
+    "definicion": "Región autónoma del noroeste de China.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "extremadura",
+    "definicion": "Región española en la frontera con Portugal.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "mexico",
+    "definicion": "País norteamericano con la mayor ciudad hispanohablante.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oaxaca",
+    "definicion": "Estado mexicano famoso por su cultura indígena.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yemen",
+    "definicion": "País árabe en el sur de la Península Arábiga.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yucatan",
+    "definicion": "Península mexicana rodeada por el Caribe.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yellowstone",
+    "definicion": "Parque nacional de EE.UU. con géiseres famosos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yangtsé",
+    "definicion": "Río más largo de China que desemboca en el Pacífico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "york",
+    "definicion": "Ciudad histórica del norte de Inglaterra.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zimbabwe",
+    "definicion": "País africano con las cataratas Victoria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zurich",
+    "definicion": "Ciudad financiera más importante de Suiza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zambia",
+    "definicion": "País africano sin salida al mar que comparte las cataratas Victoria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zaragoza",
+    "definicion": "Ciudad española a orillas del río Ebro.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona",
+    "definicion": "Área geográfica con características comunes.",
+    "tipo": "empieza"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "letra": "A",
+    "palabra": "aconcagua",
+    "definicion": "Montaña más alta de América ubicada en Mendoza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "adriatico",
+    "definicion": "Mar entre Italia y la Península Balcánica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "afganistan",
+    "definicion": "País montañoso de Asia Central sin salida al mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "altiplano",
+    "definicion": "Meseta elevada entre Bolivia y Perú donde está el Titicaca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "A",
+    "palabra": "ankara",
+    "definicion": "Capital de Turquía, más importante que Estambul.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "báltico",
+    "definicion": "Mar del norte de Europa que baña Suecia y Finlandia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bangladesh",
+    "definicion": "País asiático muy poblado y propenso a inundaciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bielorrusia",
+    "definicion": "País europeo limítrofe con Rusia y Polonia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "bosporo",
+    "definicion": "Estrecho que une el Mar Negro con el Mediterráneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "B",
+    "palabra": "botswana",
+    "definicion": "País africano con el delta del Okavango.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caribe",
+    "definicion": "Mar tropical rodeado de islas entre América del Norte y Sur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caspío",
+    "definicion": "Lago salado más grande del mundo entre Asia y Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "caucaso",
+    "definicion": "Cordillera entre el Mar Negro y el Mar Caspio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "ceilán",
+    "definicion": "Nombre antiguo de la isla de Sri Lanka.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "C",
+    "palabra": "congo",
+    "definicion": "Río más caudaloso de África y país homónimo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dardanelos",
+    "definicion": "Estrecho turco que une el Mediterráneo con el Mar de Mármara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "deccan",
+    "definicion": "Meseta central de la India.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "djibuti",
+    "definicion": "Pequeño país africano en el Cuerno de África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dolomitas",
+    "definicion": "Montañas de roca caliza en el norte de Italia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "D",
+    "palabra": "dresde",
+    "definicion": "Ciudad alemana famosa por su arquitectura barroca.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "ebro",
+    "definicion": "Río más caudaloso de España que desemboca en el Mediterráneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "elba",
+    "definicion": "Isla italiana donde fue exiliado Napoleón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "emiratos",
+    "definicion": "País árabe que incluye Dubai y Abu Dabi.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eritrea",
+    "definicion": "País africano que se independizó de Etiopía en 1993.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "E",
+    "palabra": "eslovenia",
+    "definicion": "Pequeño país de los Balcanes entre Italia y Croacia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fiordos",
+    "definicion": "Ensenadas profundas formadas por glaciares en Noruega.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "flandes",
+    "definicion": "Región histórica entre Bélgica, Holanda y Francia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "formosa",
+    "definicion": "Nombre antiguo de la isla de Taiwán.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "frisia",
+    "definicion": "Región costera del norte de Alemania y Holanda.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "F",
+    "palabra": "fujiyama",
+    "definicion": "Volcán y montaña sagrada más alta de Japón.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gales",
+    "definicion": "País del Reino Unido con capital en Cardiff.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "ganges",
+    "definicion": "Río sagrado de la India considerado divinidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "georgia",
+    "definicion": "País del Cáucaso limítrofe con Rusia y Turquía.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gibraltar",
+    "definicion": "Estrecho entre Europa y África que une Mediterráneo y Atlántico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "G",
+    "palabra": "gobi",
+    "definicion": "Desierto de Asia Central entre China y Mongolia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "haití",
+    "definicion": "País caribeño que fue la primera nación negra independiente.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hanoi",
+    "definicion": "Capital de Vietnam en el norte del país.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "helsinki",
+    "definicion": "Capital de Finlandia en el golfo del mismo nombre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hindu kush",
+    "definicion": "Cordillera entre Afganistán y Pakistán.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "H",
+    "palabra": "hudson",
+    "definicion": "Bahía en el norte de Canadá que se congela en invierno.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "indico",
+    "definicion": "Tercer océano más grande que baña Asia y África.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "indo",
+    "definicion": "Río que da nombre a la India y nace en el Tíbet.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "irak",
+    "definicion": "País árabe de Mesopotamia entre el Tigris y el Éufrates.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "iran",
+    "definicion": "País de Asia occidental antigua Persia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "I",
+    "palabra": "irlanda",
+    "definicion": "Isla del Atlántico Norte dividida en dos países.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "java",
+    "definicion": "Isla más poblada de Indonesia con capital Yakarta.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jonico",
+    "definicion": "Mar entre Grecia e Italia en el Mediterráneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jordán",
+    "definicion": "Río de Oriente Medio que desemboca en el Mar Muerto.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jura",
+    "definicion": "Cordillera en la frontera de Francia y Suiza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "J",
+    "palabra": "jutlandia",
+    "definicion": "Península danesa que conecta con el continente europeo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "K",
+    "palabra": "karakorum",
+    "definicion": "Cordillera asiática con el K2, segunda montaña más alta.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "karst",
+    "definicion": "Paisaje de roca caliza con cuevas y dolinas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "katmandu",
+    "definicion": "Capital de Nepal al pie del Himalaya.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kirguistan",
+    "definicion": "País montañoso de Asia Central.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "K",
+    "palabra": "kosovo",
+    "definicion": "Pequeño país de los Balcanes independiente desde 2008.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "L",
+    "palabra": "laponia",
+    "definicion": "Región ártica en el norte de Escandinavia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "laos",
+    "definicion": "País sin salida al mar en el Sudeste Asiático.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "latvia",
+    "definicion": "País báltico entre Estonia y Lituania.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "lesoto",
+    "definicion": "País africano completamente rodeado por Sudáfrica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "L",
+    "palabra": "libano",
+    "definicion": "Pequeño país árabe mediterráneo con capital en Beirut.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "madagascar",
+    "definicion": "Gran isla africana con fauna única en el mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "magreb",
+    "definicion": "Región del noroeste de África que incluye Marruecos y Argelia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "malasia",
+    "definicion": "País del Sudeste Asiático en dos territorios.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "maldivas",
+    "definicion": "Archipiélago del océano Índico amenazado por el nivel del mar.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "M",
+    "palabra": "meseta",
+    "definicion": "Terreno elevado y plano de gran extensión.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "namibia",
+    "definicion": "País africano con el desierto del mismo nombre.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nepal",
+    "definicion": "País himalayo que alberga el Everest.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "niger",
+    "definicion": "País africano con parte del desierto del Sahara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nórdico",
+    "definicion": "Relativo a los países escandinavos del norte de Europa.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "N",
+    "palabra": "nueva zelanda",
+    "definicion": "País insular del Pacífico Sur conocido por su naturaleza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandu",
+    "definicion": "Ave que da nombre a regiones del nordeste argentino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñandubay",
+    "definicion": "Árbol del litoral fluvial argentino.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoqui",
+    "definicion": "Plato típico de regiones con fuerte inmigración italiana.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñame",
+    "definicion": "Cultivo de regiones tropicales de África y América.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Ñ",
+    "palabra": "ñoño",
+    "definicion": "Término coloquial del español del Río de la Plata.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oceania",
+    "definicion": "Región del Pacífico que incluye Australia y Polinesia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "okavango",
+    "definicion": "Delta africano en Botswana con enorme biodiversidad.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oman",
+    "definicion": "País árabe en la Península Arábiga con costa en el Índico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "oriente medio",
+    "definicion": "Región que incluye Israel, Siria, Irak y Arabia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "O",
+    "palabra": "otoño",
+    "definicion": "Estación climática que varía según la latitud geográfica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "patagonia",
+    "definicion": "Región fría y ventosa del sur de Argentina y Chile.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "pirineos",
+    "definicion": "Cordillera que separa España de Francia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "polinesia",
+    "definicion": "Región del Pacífico con miles de islas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "puna",
+    "definicion": "Altiplano andino de Argentina y Bolivia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "P",
+    "palabra": "praga",
+    "definicion": "Capital de República Checa conocida por su arquitectura.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "qatar",
+    "definicion": "Pequeña península árabe con enormes reservas de gas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quebrada",
+    "definicion": "Paso angosto entre montañas por donde corre agua.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "queenstown",
+    "definicion": "Ciudad de Nueva Zelanda famosa por sus deportes extremos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quilmes",
+    "definicion": "Ciudad del Gran Buenos Aires en el Río de la Plata.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Q",
+    "palabra": "quito",
+    "definicion": "Capital de Ecuador y segunda ciudad más alta del mundo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rin",
+    "definicion": "Río europeo que nace en Suiza y desemboca en el Mar del Norte.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ródano",
+    "definicion": "Río que atraviesa Suiza y Francia hasta el Mediterráneo.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "ruanda",
+    "definicion": "Pequeño país africano conocido por su trágico genocidio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rub al jali",
+    "definicion": "Desierto más grande del mundo en Arabia Saudí.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "R",
+    "palabra": "rhin",
+    "definicion": "Río que bordea Alemania y forma la frontera con Francia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sahel",
+    "definicion": "Franja semiárida de África al sur del Sahara.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "senegal",
+    "definicion": "País africano occidental con costa atlántica.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "serengeti",
+    "definicion": "Llanura africana en Tanzania famosa por sus migraciones.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sicilia",
+    "definicion": "Isla más grande del Mediterráneo perteneciente a Italia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "S",
+    "palabra": "sumatra",
+    "definicion": "Gran isla de Indonesia con selvas tropicales densas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tailandia",
+    "definicion": "País del Sudeste Asiático conocido como la Tierra de las Sonrisas.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tajo",
+    "definicion": "Río que atraviesa España y Portugal hasta el Atlántico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "taiga",
+    "definicion": "Bosque boreal de coníferas del norte de Rusia y Canadá.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tíbet",
+    "definicion": "Meseta más alta del mundo en el suroeste de China.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "T",
+    "palabra": "tolima",
+    "definicion": "Volcán y departamento de Colombia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uganda",
+    "definicion": "País africano sin salida al mar con grandes lagos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "ural",
+    "definicion": "Montañas que marcan el límite entre Europa y Asia.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "urales",
+    "definicion": "Sistema montañoso que divide el continente euroasiático.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uzbekistan",
+    "definicion": "País de Asia Central con la histórica ciudad de Samarcanda.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "U",
+    "palabra": "uruguay",
+    "definicion": "Río y país entre Argentina y Brasil.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vanuatu",
+    "definicion": "País insular del Pacífico con muchos volcanes activos.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "varsovia",
+    "definicion": "Capital de Polonia reconstruida tras la Segunda Guerra.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "victoria",
+    "definicion": "Lago más grande de África entre Uganda, Kenia y Tanzania.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "vietnam",
+    "definicion": "País de Asia oriental con costa en el mar del sur.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "V",
+    "palabra": "volga",
+    "definicion": "Río más largo de Europa que desemboca en el Mar Caspio.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "W",
+    "palabra": "wallis",
+    "definicion": "Islas francesas del Pacífico.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "windhoek",
+    "definicion": "Capital de Namibia en el desierto africano.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wisconsin",
+    "definicion": "Estado de EE.UU. en la región de los Grandes Lagos.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wuhan",
+    "definicion": "Ciudad china en el centro del país sobre el Yang Tsé.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "W",
+    "palabra": "wyoming",
+    "definicion": "Estado de EE.UU. con los géiseres de Yellowstone.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xochimilco",
+    "definicion": "Sistema de chinampas prehispánicas en Ciudad de México.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "xinjiang",
+    "definicion": "Región del noroeste de China con mayoría uigur.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "extremadura",
+    "definicion": "Región española fronteriza con Portugal, tierra de conquistadores.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "oaxaca",
+    "definicion": "Estado mexicano con mayor diversidad étnica y lingüística.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "X",
+    "palabra": "texas",
+    "definicion": "Estado más grande de EE.UU. continental.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yakutia",
+    "definicion": "República rusa más extensa del mundo con frío extremo.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yangtse",
+    "definicion": "Río más largo de China con la presa de las Tres Gargantas.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yellowstone",
+    "definicion": "Parque volcánico de EE.UU. con géiseres y bisontes.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yemen",
+    "definicion": "País árabe del sur de la Península Arábiga.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Y",
+    "palabra": "yucatan",
+    "definicion": "Península que separa el golfo de México del Mar Caribe.",
+    "tipo": "contiene"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zambeze",
+    "definicion": "Río africano donde están las cataratas Victoria.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zimbabwe",
+    "definicion": "País africano con ruinas de la Gran Zimbabwe.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zurich",
+    "definicion": "Ciudad financiera más grande de Suiza.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zanzíbar",
+    "definicion": "Archipiélago tanzano en el océano Índico.",
+    "tipo": "empieza"
+  },
+  {
+    "letra": "Z",
+    "palabra": "zona tropical",
+    "definicion": "Franja terrestre entre los trópicos de Cáncer y Capricornio.",
+    "tipo": "empieza"
+  }
+]

@@ -5,6 +5,7 @@ const DATA_DIR = path.join(__dirname, "../data");
 
 const FUENTES = [
   "general-facil",
+  "general-dificil",
   "deportes-facil",
   "deportes-media",
   "deportes-dificil",
@@ -14,6 +15,9 @@ const FUENTES = [
   "historia-facil",
   "historia-media",
   "historia-dificil",
+  "geografia-facil",
+  "geografia-media",
+  "geografia-dificil",
 ];
 
 const ORDEN_LETRAS = [
@@ -21,11 +25,9 @@ const ORDEN_LETRAS = [
   "N","Ñ","O","P","Q","R","S","T","U","V","W","X","Y","Z",
 ];
 
-// Elimina prefijos tipo "Con la A. ", "Con la Ñ. ", "Contiene la X. ", etc.
 function limpiarDefinicion(def: string): string {
   return def
-    .replace(/^Con(?:tiene)? (?:la |el )?\w\.?\s*/i, "")
-    .replace(/^Con la [A-ZÑ]\.\s*/i, "")
+    .replace(/^Con(?:tiene)?(?: la| el)? [A-ZÑa-zñ]\.?\s*/i, "")
     .trim();
 }
 
@@ -37,12 +39,17 @@ for (const nombre of FUENTES) {
   }
 
   const fuente = JSON.parse(fs.readFileSync(rutaFuente, "utf-8"));
+
+  // Si ya está en formato plano (array), saltear
+  if (Array.isArray(fuente)) {
+    console.log(`⏭️  ${nombre}.json ya está convertido`);
+    continue;
+  }
+
   const palabras: Record<string, { palabra: string; definicion: string; tipo: string }[]> =
     fuente.palabras;
 
   const resultado: { letra: string; palabra: string; definicion: string; tipo: string }[] = [];
-
-  const letrasPresentes = Object.keys(palabras);
   const letrasAusentes: string[] = [];
 
   for (const letra of ORDEN_LETRAS) {
@@ -61,14 +68,12 @@ for (const nombre of FUENTES) {
     }
   }
 
-  const salidaNombre = `rosco-${nombre}.json`;
-  const rutaSalida = path.join(DATA_DIR, salidaNombre);
-  fs.writeFileSync(rutaSalida, JSON.stringify(resultado, null, 2), "utf-8");
+  // Sobreescribe el archivo fuente con el formato plano
+  fs.writeFileSync(rutaFuente, JSON.stringify(resultado, null, 2), "utf-8");
 
-  const totalEntradas = resultado.length;
   const totalLetras = ORDEN_LETRAS.length - letrasAusentes.length;
   console.log(
-    `✅ ${salidaNombre} — ${totalLetras}/27 letras, ${totalEntradas} entradas` +
+    `✅ ${nombre}.json — ${totalLetras}/27 letras, ${resultado.length} entradas` +
       (letrasAusentes.length ? `  ⚠️  Faltan: ${letrasAusentes.join(", ")}` : ""),
   );
 }
