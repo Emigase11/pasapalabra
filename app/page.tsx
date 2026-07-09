@@ -203,7 +203,7 @@ export default function Menu() {
             </button>
 
             {dropdownAbierto && (
-              <ul className="absolute z-10 mt-1 w-full overflow-hidden rounded-xl border border-slate-600 bg-slate-800 shadow-xl">
+              <ul className="absolute z-10 mt-1 max-h-48 w-full overflow-y-auto rounded-xl border border-slate-600 bg-slate-800 shadow-xl">
                 {CATEGORIAS.map((cat) => (
                   <li key={cat}>
                     <button
